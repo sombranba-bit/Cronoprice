@@ -1,33 +1,48 @@
 {
- "at": "2026-11-16T21:04:58+01:00",
+ "at": "2026-11-16T21:26:27+01:00",
  "revisados": 70,
  "tiendas": {
   "idealo": {
-   "ok": 11,
+   "ok": 8,
    "bloqueada": 0,
    "sin_precio": 0,
-   "dudoso": 6,
-   "jsonld": 11,
+   "dudoso": 4,
+   "jsonld": 7,
    "ejemplos": [
     {
-     "reloj": "casio-ga-2100-1a4er",
-     "precio": 84.49,
+     "reloj": "casio-gw-m5610u-1er",
+     "precio": 109.9,
      "referencia": null,
      "metodo": "texto"
     },
     {
-     "reloj": "casio-ga-2100bm-7a2",
-     "precio": 104.97,
+     "reloj": "casio-a168wem-1ef",
+     "precio": 38.01,
      "referencia": null,
      "metodo": "texto"
     },
     {
-     "reloj": "casio-gbx-h5600-1er",
-     "precio": 269.0,
+     "reloj": "bulova-96k111",
+     "precio": 593.1,
      "referencia": null,
      "metodo": "texto"
     }
-   ]
+   ],
+   "texto": 1
+  },
+  "distribuidor": {
+   "ok": 7,
+   "bloqueada": 4,
+   "sin_precio": 2,
+   "dudoso": 0,
+   "jsonld": 7
+  },
+  "oficial": {
+   "ok": 2,
+   "bloqueada": 1,
+   "sin_precio": 1,
+   "dudoso": 0,
+   "jsonld": 2
   }
  },
  "limpiados": {},

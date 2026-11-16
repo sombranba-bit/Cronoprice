@@ -50,6 +50,11 @@ def modo_static():
             # Lo que leería de verdad la pasada (misma función que radar.py)
             p, stock, how = radar.extract(r.text or "", ref, url)
             print("  pasada lee:", p, stock, how, flush=True)
+            txt = r.text or ""
+            print("  jsonld:", txt.count("application/ld+json"), "| mpn/sku:", bool(re.search(r'"(sku|mpn|gtin)"', txt)), flush=True)
+            for k, m in enumerate(list(ref_regex(ref).finditer(txt))[:3]):
+                ventana = re.sub(r"\s+", " ", txt[m.start(): m.end() + 220])
+                print("  ventana", k, ":", ventana[:260], flush=True)
         except Exception as e:
             print(clave, "error", type(e).__name__, flush=True)
 

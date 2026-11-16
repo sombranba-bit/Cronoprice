@@ -50,6 +50,9 @@ def modo_static():
         try:
             r = get(url)
             informe(clave, getattr(r, "status_code", "?"), r.text or "", ref)
+            # Lo que leería de verdad la pasada (misma función que radar.py)
+            p, stock, how = radar.extract(r.text or "", ref, url)
+            print("  pasada lee:", p, stock, how, flush=True)
         except Exception as e:
             print(clave, "error", type(e).__name__, flush=True)
 

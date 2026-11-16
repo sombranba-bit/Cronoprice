@@ -1416,10 +1416,12 @@
  },
  {
   "brand": "Rolex",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 39.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:02:36+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1440,10 +1442,12 @@
  },
  {
   "brand": "Rolex",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:02:38+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1464,10 +1468,12 @@
  },
  {
   "brand": "Rolex",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:02:39+01:00",
   "correa": "Oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1488,10 +1494,12 @@
  },
  {
   "brand": "Rolex",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:02:41+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1512,10 +1520,12 @@
  },
  {
   "brand": "Rolex",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 31,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:02:43+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1536,56 +1546,96 @@
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:02:47+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 356.99,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-srpk65k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/203857/3/203857361/s11_produktbild_gross/seiko-watch-srpk65k1.jpg"
+  },
   "name": "5 Sports SRPK65K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 356.99
+   }
+  },
   "ref": "SRPK65K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/203857361/seiko-watch-srpk65k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:02:51+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 245.0,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-srpd51k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/6995/8/6995806/s11_produktbild_gross/seiko-srpd51k1.jpg"
+  },
   "name": "5 Sports SRPD51K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 245.0
+   }
+  },
   "ref": "SRPD51K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/6995806/seiko-srpd51k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:02:53+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1605,102 +1655,180 @@
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:02:57+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 297.6,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-srpd53k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/6801/4/6801425/s11_produktbild_gross/seiko-5-sports-srpd53k1.jpg"
+  },
   "name": "5 Sports SRPD53K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 297.6
+   }
+  },
   "ref": "SRPD53K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/6801425/seiko-5-sports-srpd53k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:01+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 245.0,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-srpd61k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/200323/6/200323650/s11_produktbild_gross/seiko-5-sports-automatic-sports-srpd61k1.jpg"
+  },
   "name": "5 Sports SRPD61K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 245.0
+   }
+  },
   "ref": "SRPD61K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/200323650/seiko-5-sports-automatic-sports-srpd61k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:05+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 306.9,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-srpd63k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/6801/0/6801025/s11_produktbild_gross/seiko-5-sports-srpd63k1.jpg"
+  },
   "name": "5 Sports SRPD63K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 306.9
+   }
+  },
   "ref": "SRPD63K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/6801025/seiko-5-sports-srpd63k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:09+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 290.5,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-srpe55k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/201921/6/201921678/s11_produktbild_gross/seiko-sports-srpe55k1.jpg"
+  },
   "name": "5 Sports SRPE55K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 290.5
+   }
+  },
   "ref": "SRPE55K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/201921678/seiko-sports-srpe55k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:11+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1720,33 +1848,54 @@
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:14+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 272.4,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-srpg29k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/201476/2/201476272/s11_produktbild_gross/seiko-5-sports-srpg29k1.jpg"
+  },
   "name": "5 Sports SRPG29K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 272.4
+   }
+  },
   "ref": "SRPG29K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/201476272/seiko-5-sports-srpg29k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:16+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1766,10 +1915,12 @@
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:18+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1789,79 +1940,138 @@
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:22+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 464.77,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-ssk003k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/202036/7/202036719/s11_produktbild_gross/seiko-5-sports-ssk003k1.jpg"
+  },
   "name": "5 Sports SSK003K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 464.77
+   }
+  },
   "ref": "SSK003K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/202036719/seiko-5-sports-ssk003k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 436.1,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-ssk033k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/204887/6/204887650/s11_produktbild_gross/seiko-5-sports-ssk033k1.jpg"
+  },
   "name": "5 Sports SSK033K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 436.1
+   }
+  },
   "ref": "SSK033K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/204887650/seiko-5-sports-ssk033k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:30+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 511.29,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-ssk035k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/204887/7/204887788/s11_produktbild_gross/seiko-5-sports-ssk035k1.jpg"
+  },
   "name": "5 Sports SSK035K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 511.29
+   }
+  },
   "ref": "SSK035K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/204887788/seiko-5-sports-ssk035k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 36.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:32+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1881,10 +2091,12 @@
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:34+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1904,10 +2116,12 @@
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:36+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1927,33 +2141,54 @@
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:40+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 306.0,
+    "s": "idealo"
+   }
+  ],
   "id": "seiko-srpl83k1",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/206905/6/206905602/s11_produktbild_gross/seiko-5-sports-skx-series-srpl83k1.jpg"
+  },
   "name": "5 Sports SRPL83K1",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 306.0
+   }
+  },
   "ref": "SRPL83K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/206905602/seiko-5-sports-skx-series-srpl83k1.html"
+  }
  },
  {
   "brand": "Seiko",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 40.8,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:41+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1973,10 +2208,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:45+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1993,14 +2230,18 @@
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/201863687/casio-g-shock-ga-2100-1a4er.html"
+  }
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:47+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2021,10 +2262,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:49+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2045,10 +2288,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:52+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2065,14 +2310,18 @@
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/206310389/casio-g-shock-ga-2100bm-7a2.html"
+  }
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:54+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2093,10 +2342,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:55+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2117,10 +2368,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:57+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2141,10 +2394,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 51,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:03:59+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2165,10 +2420,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:01+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2189,10 +2446,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:03+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2213,10 +2472,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:05+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2237,10 +2498,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:08+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2257,14 +2520,18 @@
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/210701652/casio-g-shock-gbx-h5600-1er.html"
+  }
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 50,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:10+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2285,10 +2552,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:12+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2309,10 +2578,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:14+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2333,10 +2604,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:16+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2357,10 +2630,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 51,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:17+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2381,10 +2656,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:21+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -2401,14 +2678,18 @@
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/208704692/casio-g-shock-gm-s2110-1a7er.html"
+  }
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:22+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -2429,10 +2710,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:26+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2449,14 +2732,18 @@
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/202180705/casio-g-shock-gma-s2100sk-7aer.html"
+  }
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:27+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -2477,10 +2764,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 56,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:29+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2501,10 +2790,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 53,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:32+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2521,14 +2812,18 @@
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "idealo": "https://www.idealo.es/precios/209672762/casio-g-shock-mudmaster-gg-b100x-1aer.html"
+  }
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:35+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2549,10 +2844,12 @@
  },
  {
   "brand": "Casio",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 55,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:37+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2573,10 +2870,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:39+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -2597,10 +2896,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:41+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2621,10 +2922,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:43+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -2645,10 +2948,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:45+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -2669,10 +2974,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:47+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -2693,10 +3000,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:49+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2717,10 +3026,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:51+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -2741,10 +3052,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:53+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2765,10 +3078,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:55+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -2789,10 +3104,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:57+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -2813,10 +3130,12 @@
  },
  {
   "brand": "Breitling",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-16"
+  },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2840,7 +3159,7 @@
   "buscado": {},
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2864,7 +3183,7 @@
   "buscado": {},
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2888,7 +3207,7 @@
   "buscado": {},
   "caja_mm": 35,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2912,7 +3231,7 @@
   "buscado": {},
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2936,7 +3255,7 @@
   "buscado": {},
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -2960,7 +3279,7 @@
   "buscado": {},
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2984,7 +3303,7 @@
   "buscado": {},
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -3008,7 +3327,7 @@
   "buscado": {},
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3032,7 +3351,7 @@
   "buscado": {},
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3056,7 +3375,7 @@
   "buscado": {},
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": null,
+  "checked": "2026-11-16T21:04:58+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],

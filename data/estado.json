@@ -1,48 +1,33 @@
 {
- "at": "2026-11-16T21:00:32+01:00",
- "revisados": 48,
+ "at": "2026-11-16T21:04:58+01:00",
+ "revisados": 70,
  "tiendas": {
   "idealo": {
-   "ok": 2,
+   "ok": 11,
    "bloqueada": 0,
    "sin_precio": 0,
-   "dudoso": 3,
+   "dudoso": 6,
+   "jsonld": 11,
    "ejemplos": [
     {
-     "reloj": "casio-gw-m5610u-1er",
-     "precio": 109.9,
+     "reloj": "casio-ga-2100-1a4er",
+     "precio": 84.49,
      "referencia": null,
      "metodo": "texto"
     },
     {
-     "reloj": "casio-a168wem-1ef",
-     "precio": 38.01,
+     "reloj": "casio-ga-2100bm-7a2",
+     "precio": 104.97,
      "referencia": null,
      "metodo": "texto"
     },
     {
-     "reloj": "tissot-prx-t137-410-11-051-00",
+     "reloj": "casio-gbx-h5600-1er",
      "precio": 269.0,
-     "referencia": 395.0,
+     "referencia": null,
      "metodo": "texto"
     }
-   ],
-   "jsonld": 1,
-   "texto": 1
-  },
-  "distribuidor": {
-   "ok": 7,
-   "bloqueada": 3,
-   "sin_precio": 3,
-   "dudoso": 0,
-   "jsonld": 7
-  },
-  "oficial": {
-   "ok": 2,
-   "bloqueada": 1,
-   "sin_precio": 1,
-   "dudoso": 0,
-   "jsonld": 2
+   ]
   }
  },
  "limpiados": {},

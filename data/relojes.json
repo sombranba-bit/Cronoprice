@@ -332,30 +332,17 @@
    "https://lepage.fr/en/8262-longines-spirit-automatic-watch-black-dial-brown-leather-strap-40-mm-l38104530.html",
    "https://www.tourneau.com/watches/longines/longines-spirit-40mm-l3.810.4.53.0-LNG0104366.html"
   ],
-  "history": [
-   {
-    "d": "2026-11-16",
-    "p": 2450.0,
-    "s": "distribuidor"
-   }
-  ],
+  "history": [],
   "id": "longines-spirit-l3-810-4-53-0",
   "images": {},
   "name": "Spirit Automatic 40 mm (negro)",
-  "prices": {
-   "distribuidor": {
-    "d": "2026-11-16",
-    "manual": true,
-    "p": 2450.0,
-    "src": "https://www.bucherer.com/de/en/watches/longines/spirit/1331-428-6.html"
-   }
-  },
+  "prices": {},
   "ref": "L3.810.4.53.0",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Piloto",
   "urls": {
-   "distribuidor": "https://www.bucherer.com/de/en/watches/longines/spirit/1331-428-6.html"
+   "distribuidor": "https://en.maier.fr/watchmaking-jewelry-brands/longines/watches/longines-spirit/longines-spirit_l3-810-4-53-0"
   },
   "verificada": true
  },
@@ -374,31 +361,17 @@
    "https://www.jurawatches.co.uk/products/bulova-watch-uhf-precisionist-96b257-bul-242",
    "https://www.nywatchstore.com/96b257.html"
   ],
-  "history": [
-   {
-    "d": "2026-11-16",
-    "p": 485.0,
-    "s": "distribuidor"
-   }
-  ],
+  "history": [],
   "id": "bulova-precisionist-96b257",
   "images": {},
   "name": "Precisionist UHF 43 mm (azul)",
-  "prices": {
-   "distribuidor": {
-    "d": "2026-11-16",
-    "manual": true,
-    "nota": "RRP, agotado; garantía 2 años (Alemania)",
-    "p": 485.0,
-    "src": "https://thewatchagency.com/bulova-precisionist-blue-leather-o42-mm-p-285361.html"
-   }
-  },
+  "prices": {},
   "ref": "96B257",
   "target": null,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "distribuidor": "https://thewatchagency.com/bulova-precisionist-blue-leather-o42-mm-p-285361.html"
+   "distribuidor": "https://www.watchia.com/eu/bulova-precisionist-96b257.html"
   },
   "verificada": true
  },
@@ -671,30 +644,17 @@
    "https://tudorwatch.com/en/watches/black-bay-58/m79030n-0001",
    "https://www.the1916company.com/watches/tudor/black-bay-58/m79030n-0001/"
   ],
-  "history": [
-   {
-    "d": "2026-11-16",
-    "p": 4460.0,
-    "s": "distribuidor"
-   }
-  ],
+  "history": [],
   "id": "tudor-black-bay-58-m79030n-0001",
   "images": {},
   "name": "Black Bay 58 39 mm (negro)",
-  "prices": {
-   "distribuidor": {
-    "d": "2026-11-16",
-    "manual": true,
-    "p": 4460.0,
-    "src": "https://www.perodri.es/en/discontinued/tudor-black-bay-fifty-eight-2/"
-   }
-  },
+  "prices": {},
   "ref": "M79030N-0001",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
   "urls": {
-   "distribuidor": "https://www.perodri.es/en/discontinued/tudor-black-bay-fifty-eight-2/"
+   "distribuidor": "https://en.maier.fr/watchmaking-jewelry-brands/tudor/watches/black-bay-58/black-bay-fifty-eight_m79030n-0001"
   },
   "verificada": true
  },

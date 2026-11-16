@@ -12,17 +12,20 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 # (clave, url, referencia que debe aparecer)
 FICHAS = [
-    ("hamilton_es", "https://www.hamiltonwatch.com/es-es/h70605160-khaki-field-auto.html", "H70605160"),
-    ("tissot_es", "https://www.tissotwatches.com/es-es/T1374101105100.html", "T137.410.11.051.00"),
-    ("seiko5_es", "https://www.seikowatches.com/es-es/products/5sports/srpd55", "SRPD55K1"),
-    ("seiko_presage_es", "https://www.seikowatches.com/es-es/products/presage/srph93", "SRPH93J1"),
-    ("casio_es", "https://www.casio.com/es/watches/gshock/product.GA-2100-1A/", "GA-2100-1A1"),
-    ("citizen_laguarda", "https://laguardajoiers.com/en/bn0150-61e-citizen-promaster-divers-eco-drive.html", "BN0150-61E"),
-    ("sinn_de", "https://www.sinn.de/en/watches/104-st-sa-i-w.html", "104.012"),
-    ("tudor_es", "https://www.tudorwatch.com/es/watches/black-bay-58/m79030n-0001", "M79030N-0001"),
+    ("casio_dist", "https://relojeshermosos.es/casio-g-shock-ga-2100-1aer.html", "GA-2100-1A"),
+    ("garmin_dist", "https://www.pccomponentes.com/garmin-venu-3-reloj-smartwatch-45mm-bisel-acero-inoxidable-con-caja-y-correa-de-silicona-blanca", "010-02784-00"),
+    ("citizen_dist", "https://tomasinifrancia.it/en/citizen-promaster-bn0150-61e", "BN0150-61E"),
+    ("oris_dist", "https://www.perodri.es/en/relojes/oris/aquis-date/oris-aquis-date-4", "01 733 7730 4135-07"),
+    ("longines_dist", "https://www.rabat.net/en/longines-spirit-l38104530", "L3.810.4.53.0"),
+    ("mido_dist", "https://en.maier.fr/watchmaking-jewelry-brands/mido/watches/ocean-star-200/ocean-star-200_m026-430-11-051-00", "M026.430.11.051.00"),
+    ("hamilton_jazz_dist", "https://en.maier.fr/watchmaking-jewelry-brands/hamilton/watches/jazzmaster/auto_h32475640", "H32475640"),
+    ("seiko_presage_dist", "https://en.maier.fr/watchmaking-jewelry-brands/seiko/watches/presage/presage-watch_srph93j1", "SRPH93J1"),
+    ("tudor_dist", "https://www.perodri.es/en/discontinued/tudor-black-bay-fifty-eight-2/", "M79030N-0001"),
+    ("breitling_dist", "https://www.montredo.com/products/breitling-navitimer-automatic-black-43mm-12-33911", "AB0138211B1P1"),
+    ("seiko5_dist", "https://www.montredo.com/watches/seiko/5-sports/srpd55k1/35280/", "SRPD55K1"),
 ]
 
-PRECIO = re.compile(r"\d[\d.\s]*[,.]\d{2}\s?€|€\s?\d[\d.,]*|\d[\d.,]*\s?EUR", re.I)
+PRECIO = re.compile(r"\d[\d.\s]*\s?€|€\s?\d[\d.,]*|\d[\d.,]*\s?EUR", re.I)
 GARANTIA = re.compile(r"garant[ií]a|papeles|certificado", re.I)
 
 

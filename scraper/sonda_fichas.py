@@ -53,7 +53,10 @@ def modo_static():
             txt = r.text or ""
             print("  jsonld:", txt.count("application/ld+json"), "| mpn/sku:", bool(re.search(r'"(sku|mpn|gtin)"', txt)), flush=True)
             for k, bloque in enumerate(re.findall(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', txt, re.S)[:3]):
-                print("  ld", k, ":", re.sub(r"\s+", " ", bloque)[:300], flush=True)
+                print("  ld", k, ":", re.sub(r"\s+", " ", bloque)[:120], flush=True)
+                i = bloque.find('"offers"')
+                if i >= 0:
+                    print("  ld", k, "offers:", re.sub(r"\s+", " ", bloque[i:i + 380]), flush=True)
             for k, m in enumerate(list(ref_regex(ref).finditer(txt))[:3]):
                 ventana = re.sub(r"\s+", " ", txt[m.start(): m.end() + 220])
                 print("  ventana", k, ":", ventana[:260], flush=True)

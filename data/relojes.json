@@ -68,6 +68,7 @@
   "tier": "Asequible",
   "tipo": "Digital",
   "urls": {
+   "distribuidor": "https://www.watchclick.com/es/products/mens-watch-casio-g-shock-ga-2100-1a1er",
    "idealo": "https://www.idealo.es/precios/6800790/casio-g-shock-ga-2100-1a1er.html"
   },
   "verificada": true
@@ -185,7 +186,9 @@
   "target": null,
   "tier": "Smartwatch",
   "tipo": "Smartwatch",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://www.pccomponentes.com/garmin-venu-3-reloj-smartwatch-45mm-bisel-acero-inoxidable-con-caja-y-correa-de-silicona-blanca"
+  },
   "verificada": true
  },
  {
@@ -212,7 +215,9 @@
   "target": null,
   "tier": "Gama media",
   "tipo": "Buceo",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://laguardajoiers.com/en/bn0150-61e-citizen-promaster-divers-eco-drive.html"
+  },
   "verificada": true
  },
  {
@@ -239,7 +244,9 @@
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://en.maier.fr/watchmaking-jewelry-brands/oris/watches/aquis/aquis-date_01-733-7730-4135-07-8-24-05peb"
+  },
   "verificada": true
  },
  {
@@ -266,7 +273,9 @@
   "target": null,
   "tier": "Gama alta",
   "tipo": "Piloto",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://www.bucherer.com/de/en/watches/longines/spirit/1331-428-6.html"
+  },
   "verificada": true
  },
  {
@@ -364,7 +373,9 @@
   "target": null,
   "tier": "Gama media",
   "tipo": "Vestir",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://lepage.fr/en/10093-hamilton-jazzmaster-gent-automatic-watch-blue-dial-blue-leather-strap-40-mm-h32475640.html"
+  },
   "verificada": true
  },
  {
@@ -391,7 +402,9 @@
   "target": null,
   "tier": "Gama media",
   "tipo": "Vestir",
-  "urls": {},
+  "urls": {
+   "oficial": "https://store.seiko.ie/collections/seiko/products/srph93j1"
+  },
   "verificada": true
  },
  {
@@ -418,7 +431,9 @@
   "target": null,
   "tier": "Gama alta",
   "tipo": "Piloto",
-  "urls": {},
+  "urls": {
+   "oficial": "https://www.sinn.de/en/watches/104-st-sa-i-w.html"
+  },
   "verificada": true
  },
  {
@@ -445,7 +460,9 @@
   "target": null,
   "tier": "Gama alta",
   "tipo": "Vestir",
-  "urls": {},
+  "urls": {
+   "oficial": "https://www.grand-seiko.com/es-es/collections/sbga413g"
+  },
   "verificada": true
  },
  {
@@ -472,7 +489,9 @@
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://bucherer.com/de/en/watches/omega/speedmaster/1337-038-0.html"
+  },
   "verificada": true
  },
  {
@@ -499,7 +518,9 @@
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://www.bucherer.com/at/en/watches/tudor/black-bay/1307-202-3.html"
+  },
   "verificada": true
  },
  {
@@ -526,7 +547,9 @@
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://en.maier.fr/watchmaking-jewelry-brands/breitling/watches/navitimer/navitimer-b01-chronograph-43_ab0138211b1p1"
+  },
   "verificada": true
  },
  {
@@ -553,7 +576,9 @@
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://www.weirandsons.ie/m126610ln-0001.html"
+  },
   "verificada": true
  }
 ]

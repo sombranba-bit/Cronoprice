@@ -807,7 +807,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:21+01:00",
+  "checked": "2026-11-16T22:58:38+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -834,16 +834,31 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:22+01:00",
+  "checked": "2026-11-16T22:58:42+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 11756.3,
+    "s": "montredo"
+   }
+  ],
   "id": "rolex-126600",
-  "images": {},
+  "images": {
+   "montredo": "https://www.montredo.com/cdn/shop/files/126600-6.webp?v=1771012290&width=1920"
+  },
   "name": "Sea-Dweller",
-  "prices": {},
+  "prices": {
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 11756.3
+   }
+  },
   "ref": "126600",
   "target": null,
   "tier": "Gama alta",
@@ -863,7 +878,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:22+01:00",
+  "checked": "2026-11-16T22:58:42+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -890,16 +905,31 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:23+01:00",
+  "checked": "2026-11-16T22:58:44+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 15126.05,
+    "s": "montredo"
+   }
+  ],
   "id": "rolex-126710blnr",
-  "images": {},
+  "images": {
+   "montredo": "https://www.montredo.com/cdn/shop/files/126710BLNR-6.webp?v=1771012304&width=1920"
+  },
   "name": "GMT-Master II Batman",
-  "prices": {},
+  "prices": {
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 15126.05
+   }
+  },
   "ref": "126710BLNR",
   "target": null,
   "tier": "Gama alta",
@@ -919,16 +949,26 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:24+01:00",
+  "checked": "2026-11-16T22:58:46+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
   "history": [],
   "id": "rolex-124300",
-  "images": {},
+  "images": {
+   "montredo": "https://www.montredo.com/cdn/shop/files/prohunter-oysterperpetual-124300-48807-1.webp?v=1771002838&width=1920"
+  },
   "name": "Oyster Perpetual 41",
-  "prices": {},
+  "prices": {
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 15084.03,
+    "stock": false
+   }
+  },
   "ref": "124300",
   "target": null,
   "tier": "Gama alta",
@@ -948,16 +988,31 @@
   },
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:25+01:00",
+  "checked": "2026-11-16T22:58:48+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 17777.31,
+    "s": "montredo"
+   }
+  ],
   "id": "rolex-126000",
-  "images": {},
+  "images": {
+   "montredo": "https://www.montredo.com/cdn/shop/files/2000_4e5995ac-0219-4603-ad4f-3b3b36cbb66c.jpg?v=1791385996&width=1920"
+  },
   "name": "Oyster Perpetual 36",
-  "prices": {},
+  "prices": {
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 17777.31
+   }
+  },
   "ref": "126000",
   "target": null,
   "tier": "Gama alta",
@@ -977,16 +1032,31 @@
   },
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:26+01:00",
+  "checked": "2026-11-16T22:58:51+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 8394.96,
+    "s": "montredo"
+   }
+  ],
   "id": "rolex-126200",
-  "images": {},
+  "images": {
+   "montredo": "https://www.montredo.com/cdn/shop/files/2000_99d457cd-5c3f-41ac-9e11-c745045e3acd.jpg?v=1789688179&width=1920"
+  },
   "name": "Datejust 36",
-  "prices": {},
+  "prices": {
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 8394.96
+   }
+  },
   "ref": "126200",
   "target": null,
   "tier": "Gama alta",
@@ -1006,7 +1076,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:30:03+01:00",
+  "checked": "2026-11-16T22:58:54+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1050,7 +1120,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:30:03+01:00",
+  "checked": "2026-11-16T22:58:54+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1077,7 +1147,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:30:03+01:00",
+  "checked": "2026-11-16T22:58:54+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1104,7 +1174,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:30:03+01:00",
+  "checked": "2026-11-16T22:58:54+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1131,7 +1201,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:30:06+01:00",
+  "checked": "2026-11-16T22:58:56+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1175,7 +1245,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:30:22+01:00",
+  "checked": "2026-11-16T22:58:56+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1202,7 +1272,7 @@
   },
   "caja_mm": 42.8,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:30:53+01:00",
+  "checked": "2026-11-16T22:59:00+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1259,7 +1329,7 @@
   },
   "caja_mm": 33,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:31:08+01:00",
+  "checked": "2026-11-16T22:59:00+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1286,7 +1356,7 @@
   },
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:31:27+01:00",
+  "checked": "2026-11-16T22:59:04+01:00",
   "correa": "Acero",
   "deals": [],
   "descartadas": [],
@@ -3029,7 +3099,7 @@
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:21:39+01:00",
+  "checked": "2026-11-16T22:54:48+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3059,7 +3129,7 @@
   },
   "caja_mm": 51,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:21:52+01:00",
+  "checked": "2026-11-16T22:54:48+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3089,7 +3159,7 @@
   },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:22:06+01:00",
+  "checked": "2026-11-16T22:54:48+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3119,7 +3189,7 @@
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:22:22+01:00",
+  "checked": "2026-11-16T22:54:51+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3161,7 +3231,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:22:35+01:00",
+  "checked": "2026-11-16T22:54:51+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3191,7 +3261,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:22:49+01:00",
+  "checked": "2026-11-16T22:54:53+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3199,11 +3269,26 @@
    "https://www.baroli.es/",
    "https://maroyjoyeros.com/categoria/relojes-g-shock/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 269.0,
+    "s": "idealo"
+   }
+  ],
   "id": "casio-gbx-h5600-1er",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/210701/6/210701652/s11_produktbild_gross/casio-g-shock-gbx-h5600-1er.jpg"
+  },
   "name": "G-Shock GBX-H5600-1ER",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 269.0
+   }
+  },
   "ref": "GBX-H5600-1ER",
   "target": null,
   "tier": "Asequible",
@@ -3223,7 +3308,7 @@
   },
   "caja_mm": 50,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:23:01+01:00",
+  "checked": "2026-11-16T22:54:53+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3253,7 +3338,7 @@
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:23:14+01:00",
+  "checked": "2026-11-16T22:54:53+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3283,7 +3368,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:23:27+01:00",
+  "checked": "2026-11-16T22:54:53+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3313,7 +3398,7 @@
   },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:23:40+01:00",
+  "checked": "2026-11-16T22:54:53+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3343,7 +3428,7 @@
   },
   "caja_mm": 51,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:23:53+01:00",
+  "checked": "2026-11-16T22:54:53+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3373,7 +3458,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:06+01:00",
+  "checked": "2026-11-16T22:54:55+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -3381,11 +3466,26 @@
    "https://www.baroli.es/",
    "https://maroyjoyeros.com/categoria/relojes-g-shock/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 143.64,
+    "s": "idealo"
+   }
+  ],
   "id": "casio-gm-s2110-1a7er",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/208704/6/208704692/s11_produktbild_gross/casio-g-shock-gm-s2110-1a7er.jpg"
+  },
   "name": "G-Shock GM-S2110-1A7ER",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 143.64
+   }
+  },
   "ref": "GM-S2110-1A7ER",
   "target": null,
   "tier": "Asequible",
@@ -3399,11 +3499,13 @@
   "buscado": {
    "idealo": "2026-11-16",
    "lepage": "2026-11-16",
-   "montredo": "2026-11-16"
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:12+01:00",
+  "checked": "2026-11-16T22:55:04+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -3425,11 +3527,15 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:12+01:00",
+  "checked": "2026-11-16T22:55:21+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3437,27 +3543,59 @@
    "https://www.baroli.es/",
    "https://maroyjoyeros.com/categoria/relojes-g-shock/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 85.01,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
+    "p": 107.1,
+    "s": "planetarelojes"
+   }
+  ],
   "id": "casio-gma-s2100sk-7aer",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/202180/7/202180705/s11_produktbild_gross/casio-g-shock-gma-s2100sk-7aer.jpg",
+   "planetarelojes": "https://www.planetarelojes.com/128320-tm_thickbox_default/casio-g-shock-gma-s2100sk-7aer.jpg"
+  },
   "name": "G-Shock GMA-S2100SK-7AER",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 85.01
+   },
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 107.1
+   }
+  },
   "ref": "GMA-S2100SK-7AER",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/202180705/casio-g-shock-gma-s2100sk-7aer.html"
+   "idealo": "https://www.idealo.es/precios/202180705/casio-g-shock-gma-s2100sk-7aer.html",
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/casio-g-shock-gma-s2100sk-7aer"
   }
  },
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:12+01:00",
+  "checked": "2026-11-16T22:55:36+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -3479,11 +3617,15 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 56,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:12+01:00",
+  "checked": "2026-11-16T22:55:49+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3505,11 +3647,15 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 53,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:56:04+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3517,11 +3663,26 @@
    "https://www.baroli.es/",
    "https://maroyjoyeros.com/categoria/relojes-g-shock/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 340.5,
+    "s": "idealo"
+   }
+  ],
   "id": "casio-gg-b100x-1aer",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/209672/7/209672762/s11_produktbild_gross/casio-g-shock-mudmaster-gg-b100x-1aer.jpg"
+  },
   "name": "G-Shock GG-B100X-1AER",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 340.5
+   }
+  },
   "ref": "GG-B100X-1AER",
   "target": null,
   "tier": "Asequible",
@@ -3533,11 +3694,15 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:56:18+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3559,11 +3724,15 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 55,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:56:31+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3585,11 +3754,15 @@
  {
   "brand": "Breitling",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:56:45+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3597,25 +3770,46 @@
    "https://masquerelojes.com/precios-relojes/breitling",
    "https://relojdelujo.com/marcas/breitling"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 9500.0,
+    "s": "lepage"
+   }
+  ],
   "id": "breitling-ab0138241c1p1",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/46557-home_default/breitling-navitimer-automatic-watch-b01-chronograph-glacier-blue-dial-black-leather-strap-43-mm.jpg"
+  },
   "name": "Navitimer B01 43",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 9500.0
+   }
+  },
   "ref": "AB0138241C1P1",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/16652-breitling-navitimer-automatic-watch-b01-chronograph-glacier-blue-dial-black-leather-strap-43-mm-ab0138241c1p1.html"
+  }
  },
  {
   "brand": "Breitling",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:56:59+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3625,23 +3819,39 @@
   ],
   "history": [],
   "id": "breitling-ab0138241l1p1",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/46916-home_default/breitling-navitimer-automatic-watch-b01-chronograph-mint-green-dial-black-leather-strap-43-mm.jpg"
+  },
   "name": "Navitimer B01 43 acero",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 9500.0,
+    "stock": false
+   }
+  },
   "ref": "AB0138241L1P1",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/16654-breitling-navitimer-automatic-watch-b01-chronograph-mint-green-dial-black-leather-strap-43-mm-ab0138241l1p1.html"
+  }
  },
  {
   "brand": "Breitling",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:57:12+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3649,25 +3859,46 @@
    "https://masquerelojes.com/precios-relojes/breitling",
    "https://relojdelujo.com/marcas/breitling"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 9500.0,
+    "s": "lepage"
+   }
+  ],
   "id": "breitling-ab0138241k1p1",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/46555-home_default/breitling-navitimer-automatic-watch-b01-chronograph-copper-dial-black-leather-strap-43-mm.jpg"
+  },
   "name": "Navitimer B01 43 acero y piel",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 9500.0
+   }
+  },
   "ref": "AB0138241K1P1",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/16650-breitling-navitimer-automatic-watch-b01-chronograph-copper-dial-black-leather-strap-43-mm-ab0138241k1p1.html"
+  }
  },
  {
   "brand": "Breitling",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:57:26+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3675,25 +3906,46 @@
    "https://masquerelojes.com/precios-relojes/breitling",
    "https://relojdelujo.com/marcas/breitling"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 6386.55,
+    "s": "montredo"
+   }
+  ],
   "id": "breitling-ab0139211b1p1",
-  "images": {},
+  "images": {
+   "montredo": "https://www.montredo.com/cdn/shop/files/Breitling-Navitimer_B01_Chronograph_41-AB0139211B1P1-59791_b9a1a3a6-5758-437f-81d8-a4abf0429ff9.webp?v=1786457353&width=1920"
+  },
   "name": "Navitimer B01 41",
-  "prices": {},
+  "prices": {
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 6386.55
+   }
+  },
   "ref": "AB0139211B1P1",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "montredo": "https://www.montredo.com/products/breitling-navitimer-b01-chronograph-41-automatic-black-41-59791?_pos=1&_sid=31b5dd5ac&_ss=r"
+  }
  },
  {
   "brand": "Breitling",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:57:40+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3701,25 +3953,46 @@
    "https://masquerelojes.com/precios-relojes/breitling",
    "https://relojdelujo.com/marcas/breitling"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 9500.0,
+    "s": "lepage"
+   }
+  ],
   "id": "breitling-ab0137211b1p1",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/46534-home_default/breitling-navitimer-automatic-watch-b01-chronograph-black-dial-black-leather-strap-46-mm.jpg"
+  },
   "name": "Navitimer B01 46",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 9500.0
+   }
+  },
   "ref": "AB0137211B1P1",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/16638-breitling-navitimer-automatic-watch-b01-chronograph-black-dial-black-leather-strap-46-mm-ab0137211b1p1.html"
+  }
  },
  {
   "brand": "Breitling",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:57:53+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3727,25 +4000,46 @@
    "https://masquerelojes.com/precios-relojes/breitling",
    "https://relojdelujo.com/marcas/breitling"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 9500.0,
+    "s": "lepage"
+   }
+  ],
   "id": "breitling-ab0137241l1p1",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/46540-home_default/breitling-navitimer-automatic-watch-b01-chronograph-green-dial-black-leather-strap-46-mm.jpg"
+  },
   "name": "Navitimer B01 46 acero",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 9500.0
+   }
+  },
   "ref": "AB0137241L1P1",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/16642-breitling-navitimer-automatic-watch-b01-chronograph-green-dial-black-leather-strap-46-mm-ab0137241l1p1.html"
+  }
  },
  {
   "brand": "Breitling",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:05+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -3767,11 +4061,15 @@
  {
   "brand": "Breitling",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:18+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3793,11 +4091,13 @@
  {
   "brand": "Breitling",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16"
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3805,16 +4105,34 @@
    "https://masquerelojes.com/precios-relojes/breitling",
    "https://relojdelujo.com/marcas/breitling"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 4445.38,
+    "s": "montredo"
+   }
+  ],
   "id": "breitling-ab3110241b1a1",
-  "images": {},
+  "images": {
+   "montredo": "https://www.montredo.com/cdn/shop/files/breitling-superoceanheritage-ab3110241b1a1-49234-1.webp?v=1771003623&width=1920"
+  },
   "name": "Top Time B31 40",
-  "prices": {},
+  "prices": {
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 4445.38
+   }
+  },
   "ref": "AB3110241B1A1",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/24385-breitling-superocean-heritage-b31-automatic-black-dial-mesh-bracelet-40-mm-ab3110241b1a1.html",
+   "montredo": "https://www.montredo.com/products/breitling-superocean-heritage-automatic-black-40mm-49234?_pos=1&_sid=472009427&_ss=r"
+  }
  },
  {
   "brand": "Breitling",
@@ -3823,7 +4141,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3849,7 +4167,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3873,7 +4191,7 @@
   "buscado": {},
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3897,7 +4215,7 @@
   "buscado": {},
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3921,7 +4239,7 @@
   "buscado": {},
   "caja_mm": 35,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3945,7 +4263,7 @@
   "buscado": {},
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3969,7 +4287,7 @@
   "buscado": {},
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -3993,7 +4311,7 @@
   "buscado": {},
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4017,7 +4335,7 @@
   "buscado": {},
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -4041,7 +4359,7 @@
   "buscado": {},
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4065,7 +4383,7 @@
   "buscado": {},
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4089,7 +4407,7 @@
   "buscado": {},
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4115,7 +4433,7 @@
   },
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4141,7 +4459,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4167,7 +4485,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4193,7 +4511,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -4219,7 +4537,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -4245,7 +4563,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -4271,7 +4589,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -4297,7 +4615,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -4323,7 +4641,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -4349,7 +4667,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:13+01:00",
+  "checked": "2026-11-16T22:58:26+01:00",
   "correa": "Titanio",
   "deals": [],
   "descartadas": [],
@@ -4379,7 +4697,7 @@
   },
   "caja_mm": 49.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:16+01:00",
+  "checked": "2026-11-16T22:58:33+01:00",
   "correa": "Titanio",
   "deals": [],
   "descartadas": [],
@@ -4392,11 +4710,17 @@
     "d": "2026-11-16",
     "p": 578.4,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
+    "p": 554.62,
+    "s": "montredo"
    }
   ],
   "id": "citizen-bn4021-02e",
   "images": {
    "idealo": "https://cdn.idealo.com/folder/Product/4142/4/4142432/s11_produktbild_gross/citizen-promaster-land-altichron-eco-drive-bn4021-02e.jpg",
+   "montredo": "https://www.montredo.com/cdn/shop/files/citizen-promaster-bn4021-02e-37117-1-1.webp?v=1770946391&width=1920",
    "planetarelojes": "https://www.planetarelojes.com/90672-tm_thickbox_default/citizen-eco-drive-bn4021-02e.jpg"
   },
   "name": "Promaster Altichron BN4021-02E",
@@ -4406,6 +4730,12 @@
     "d": "2026-11-16",
     "gh": true,
     "p": 578.4
+   },
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 554.62
    },
    "planetarelojes": {
     "auto": true,
@@ -4436,7 +4766,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:24:20+01:00",
+  "checked": "2026-11-16T22:58:38+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4496,7 +4826,7 @@
   },
   "caja_mm": 45,
   "categoria": "smartwatch",
-  "checked": "2026-11-16T22:24:21+01:00",
+  "checked": "2026-11-16T22:58:40+01:00",
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
@@ -4542,7 +4872,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:30:35+01:00",
+  "checked": "2026-11-16T22:58:56+01:00",
   "correa": "Titanio (brazalete)",
   "deals": [],
   "descartadas": [],

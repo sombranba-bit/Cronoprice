@@ -1,4 +1,5 @@
 """Prueba de acceso: comprueba qué tiendas dejan leer desde GitHub antes de activarlas en radar.py."""
+import re
 import sys
 from pathlib import Path
 
@@ -22,10 +23,25 @@ PROBE = {
     "seiko": "https://seikowatches.com/us-en/products/presage/srph93j1",
 }
 
+# Referencia que debe aparecer en la página, para saber si es la ficha correcta
+REF = {
+    "tourneau": "SBGA413", "lepage": "H32475640", "maier": "310.30.42.50.01.001",
+    "watchesofswitzerland": "126610LN", "the1916company": "M79030N", "tudor": "M79030N",
+    "omega": "310.30.42.50.01.001", "rolex": "126610LN", "sinn": "104", "seiko": "SRPH93J1",
+}
+PRECIO = re.compile(r"(€|EUR|\$|£)\s?\d|\d[\d.,]*\s?(€|EUR)")
+GARANTIA = re.compile(r"garant|warranty|guarantee|papeles|certificat|certificate|papers", re.I)
+
 get = radar.make_session()
 for shop, url in PROBE.items():
     try:
         r = get(url)
-        print(shop, getattr(r, "status_code", "?"), len(r.text or ""), flush=True)
+        txt = r.text or ""
+        ref = REF.get(shop)
+        ref_ok = "-" if not ref else ("sí" if re.search(re.escape(ref).replace("\\.", "[.\\s-]?"), txt, re.I) else "no")
+        print(shop, getattr(r, "status_code", "?"), len(txt),
+              "ref:" + ref_ok,
+              "precios:" + str(len(PRECIO.findall(txt))),
+              "garantia:" + str(len(GARANTIA.findall(txt))), flush=True)
     except Exception as e:
         print(shop, "error", type(e).__name__, flush=True)

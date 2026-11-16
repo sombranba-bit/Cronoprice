@@ -1,5 +1,5 @@
 {
- "at": "2026-11-16T18:52:32+01:00",
+ "at": "2026-11-16T19:22:15+01:00",
  "revisados": 18,
  "tiendas": {
   "idealo": {
@@ -18,7 +18,7 @@
     {
      "reloj": "tissot-prx-t137-410-11-051-00",
      "precio": 269.0,
-     "referencia": null,
+     "referencia": 395.0,
      "metodo": "texto"
     }
    ]

@@ -27,8 +27,8 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 TZ = ZoneInfo("Europe/Madrid")
-BATCH = int(os.environ.get("RADAR_BATCH", "70"))          # relojes por pasada
-DISCOVER_PER_RUN = int(os.environ.get("RADAR_DISCOVER", "20"))
+BATCH = int(os.environ.get("RADAR_BATCH", "150"))          # relojes por pasada
+DISCOVER_PER_RUN = int(os.environ.get("RADAR_DISCOVER", "60"))
 MANUAL = {"amazon", "eci"}                                # tiendas sin lectura automática (ver README)
 
 PRICE_RE = re.compile(r"(\d{1,5}(?:[.\s]\d{3})*(?:[.,]\d{1,2})?)\s*(?:€|&euro;|EUR)")

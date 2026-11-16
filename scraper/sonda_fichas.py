@@ -12,17 +12,22 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 # (clave, url, referencia que debe aparecer)
 FICHAS = [
-    ("casio_dist", "https://relojeshermosos.es/casio-g-shock-ga-2100-1aer.html", "GA-2100-1A"),
-    ("garmin_dist", "https://www.pccomponentes.com/garmin-venu-3-reloj-smartwatch-45mm-bisel-acero-inoxidable-con-caja-y-correa-de-silicona-blanca", "010-02784-00"),
-    ("citizen_dist", "https://tomasinifrancia.it/en/citizen-promaster-bn0150-61e", "BN0150-61E"),
-    ("oris_dist", "https://www.perodri.es/en/relojes/oris/aquis-date/oris-aquis-date-4", "01 733 7730 4135-07"),
-    ("longines_dist", "https://www.rabat.net/en/longines-spirit-l38104530", "L3.810.4.53.0"),
-    ("mido_dist", "https://en.maier.fr/watchmaking-jewelry-brands/mido/watches/ocean-star-200/ocean-star-200_m026-430-11-051-00", "M026.430.11.051.00"),
-    ("hamilton_jazz_dist", "https://en.maier.fr/watchmaking-jewelry-brands/hamilton/watches/jazzmaster/auto_h32475640", "H32475640"),
-    ("seiko_presage_dist", "https://en.maier.fr/watchmaking-jewelry-brands/seiko/watches/presage/presage-watch_srph93j1", "SRPH93J1"),
-    ("tudor_dist", "https://www.perodri.es/en/discontinued/tudor-black-bay-fifty-eight-2/", "M79030N-0001"),
-    ("breitling_dist", "https://www.montredo.com/products/breitling-navitimer-automatic-black-43mm-12-33911", "AB0138211B1P1"),
-    ("seiko5_dist", "https://www.montredo.com/watches/seiko/5-sports/srpd55k1/35280/", "SRPD55K1"),
+    ("casio-ga-2100-1a1e_dist", "https://www.watchclick.com/es/products/mens-watch-casio-g-shock-ga-2100-1a1er", "GA-2100-1A1ER"),
+    ("tissot-prx-t137-41_ofic", "https://www.tissotwatches.com/es-es/T1374101105100.html", "T137.410.11.051.00"),
+    ("hamilton-khaki-fie_ofic", "https://www.hamiltonwatch.com/es-es/h70605160-khaki-field-auto.html", "H70605160"),
+    ("garmin-venu-3-010-_dist", "https://www.pccomponentes.com/garmin-venu-3-reloj-smartwatch-45mm-bisel-acero-inoxidable-con-caja-y-correa-de-silicona-blanca", "010-02784-00"),
+    ("citizen-promaster-_dist", "https://laguardajoiers.com/en/bn0150-61e-citizen-promaster-divers-eco-drive.html", "BN0150-61E"),
+    ("oris-aquis-date-01_dist", "https://en.maier.fr/watchmaking-jewelry-brands/oris/watches/aquis/aquis-date_01-733-7730-4135-07-8-24-05peb", "01 733 7730 4135-07 8 24 05PEB"),
+    ("longines-spirit-l3_dist", "https://www.bucherer.com/de/en/watches/longines/spirit/1331-428-6.html", "L3.810.4.53.0"),
+    ("mido-ocean-star-20_dist", "https://en.maier.fr/watchmaking-jewelry-brands/mido/watches/ocean-star-200/ocean-star-200_m026-430-11-051-00", "M026.430.11.051.00"),
+    ("hamilton-jazzmaste_dist", "https://lepage.fr/en/10093-hamilton-jazzmaster-gent-automatic-watch-blue-dial-blue-leather-strap-40-mm-h32475640.html", "H32475640"),
+    ("seiko-presage-srph_ofic", "https://store.seiko.ie/collections/seiko/products/srph93j1", "SRPH93J1"),
+    ("sinn-104-st-sa-i-w_ofic", "https://www.sinn.de/en/watches/104-st-sa-i-w.html", "104.012"),
+    ("grand-seiko-sbga41_ofic", "https://www.grand-seiko.com/es-es/collections/sbga413g", "SBGA413"),
+    ("omega-speedmaster-_dist", "https://bucherer.com/de/en/watches/omega/speedmaster/1337-038-0.html", "310.30.42.50.01.001"),
+    ("tudor-black-bay-58_dist", "https://www.bucherer.com/at/en/watches/tudor/black-bay/1307-202-3.html", "M79030N-0001"),
+    ("breitling-navitime_dist", "https://en.maier.fr/watchmaking-jewelry-brands/breitling/watches/navitimer/navitimer-b01-chronograph-43_ab0138211b1p1", "AB0138211B1P1"),
+    ("rolex-submariner-d_dist", "https://www.weirandsons.ie/m126610ln-0001.html", "126610LN"),
 ]
 
 PRECIO = re.compile(r"\d[\d.\s]*\s?€|€\s?\d[\d.,]*|\d[\d.,]*\s?EUR", re.I)

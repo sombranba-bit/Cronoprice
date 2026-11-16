@@ -181,5 +181,80 @@
   "tipo": "Buceo",
   "urls": {},
   "verificada": true
+ },
+ {
+  "urls": {},
+  "prices": {},
+  "history": [],
+  "images": {},
+  "buscado": {},
+  "descartadas": [],
+  "deals": [],
+  "target": null,
+  "checked": null,
+  "verificada": true,
+  "id": "oris-aquis-date-01-733-7730-4135-07-8-24-05peb",
+  "brand": "Oris",
+  "name": "Aquis Date 43.5 mm (azul)",
+  "ref": "01 733 7730 4135-07 8 24 05PEB",
+  "categoria": "clasico",
+  "tipo": "Buceo",
+  "tier": "Gama alta",
+  "caja_mm": 43.5,
+  "correa": "Acero (brazalete)",
+  "fuentes": [
+   "https://www.oris.ch/en/watch/aquis-date/01-733-7730-4135-07-8-24-05peb",
+   "https://en.maier.fr/watchmaking-jewelry-brands/oris/watches/aquis/aquis-date_01-733-7730-4135-07-8-24-05peb"
+  ]
+ },
+ {
+  "urls": {},
+  "prices": {},
+  "history": [],
+  "images": {},
+  "buscado": {},
+  "descartadas": [],
+  "deals": [],
+  "target": null,
+  "checked": null,
+  "verificada": true,
+  "id": "longines-spirit-l3-810-4-53-0",
+  "brand": "Longines",
+  "name": "Spirit Automatic 40 mm (negro)",
+  "ref": "L3.810.4.53.0",
+  "categoria": "clasico",
+  "tipo": "Piloto",
+  "tier": "Gama alta",
+  "caja_mm": 40,
+  "correa": "Piel",
+  "fuentes": [
+   "https://lepage.fr/en/8262-longines-spirit-automatic-watch-black-dial-brown-leather-strap-40-mm-l38104530.html",
+   "https://www.tourneau.com/watches/longines/longines-spirit-40mm-l3.810.4.53.0-LNG0104366.html"
+  ]
+ },
+ {
+  "urls": {},
+  "prices": {},
+  "history": [],
+  "images": {},
+  "buscado": {},
+  "descartadas": [],
+  "deals": [],
+  "target": null,
+  "checked": null,
+  "verificada": true,
+  "id": "bulova-precisionist-96b257",
+  "brand": "Bulova",
+  "name": "Precisionist UHF 43 mm (azul)",
+  "ref": "96B257",
+  "categoria": "clasico",
+  "tipo": "Vestir",
+  "tier": "Gama media",
+  "caja_mm": 43,
+  "correa": "Piel",
+  "fuentes": [
+   "https://www.jurawatches.co.uk/products/bulova-watch-uhf-precisionist-96b257-bul-242",
+   "https://www.nywatchstore.com/96b257.html"
+  ]
  }
 ]

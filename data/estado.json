@@ -1,68 +1,53 @@
 {
- "at": "2026-11-16T22:15:25+01:00",
+ "at": "2026-11-16T22:24:26+01:00",
  "revisados": 70,
  "tiendas": {
-  "idealo": {
-   "ok": 14,
+  "planetarelojes": {
+   "ok": 7,
    "bloqueada": 0,
    "sin_precio": 0,
-   "dudoso": 4,
-   "jsonld": 13,
+   "dudoso": 0,
+   "jsonld": 7
+  },
+  "idealo": {
+   "ok": 3,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 6,
+   "jsonld": 3,
    "ejemplos": [
     {
-     "reloj": "casio-gw-m5610u-1er",
-     "precio": 109.9,
+     "reloj": "casio-ga-2100-1a4er",
+     "precio": 84.49,
      "referencia": null,
      "metodo": "texto"
     },
     {
-     "reloj": "casio-a168wem-1ef",
-     "precio": 38.01,
+     "reloj": "casio-ga-2100bm-7a2",
+     "precio": 100.59,
      "referencia": null,
      "metodo": "texto"
     },
     {
-     "reloj": "bulova-96k111",
-     "precio": 593.1,
+     "reloj": "casio-gbx-h5600-1er",
+     "precio": 269.0,
      "referencia": null,
      "metodo": "texto"
     }
-   ],
-   "texto": 1
+   ]
+  },
+  "lepage": {
+   "ok": 3,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 3
   },
   "montredo": {
    "ok": 0,
    "bloqueada": 0,
-   "sin_precio": 15,
+   "sin_precio": 7,
    "dudoso": 0
-  },
-  "planetarelojes": {
-   "ok": 1,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 1
-  },
-  "lepage": {
-   "ok": 10,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 10
-  },
-  "distribuidor": {
-   "ok": 7,
-   "bloqueada": 3,
-   "sin_precio": 3,
-   "dudoso": 0,
-   "jsonld": 7
-  },
-  "oficial": {
-   "ok": 2,
-   "bloqueada": 1,
-   "sin_precio": 1,
-   "dudoso": 0,
-   "jsonld": 2
   }
  },
  "limpiados": {},

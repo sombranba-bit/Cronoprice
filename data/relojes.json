@@ -6,7 +6,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:33+01:00",
+  "checked": "2026-11-16T22:34:25+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -50,7 +50,7 @@
   },
   "caja_mm": null,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:38+01:00",
+  "checked": "2026-11-16T22:34:29+01:00",
   "correa": null,
   "deals": [],
   "descartadas": [],
@@ -107,7 +107,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:43+01:00",
+  "checked": "2026-11-16T22:34:35+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -118,16 +118,28 @@
   "history": [
    {
     "d": "2026-11-16",
+    "p": 269.0,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
     "p": 395.0,
     "s": "oficial"
    }
   ],
   "id": "tissot-prx-t137-410-11-051-00",
   "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/201550/0/201550040/s11_produktbild_gross/tissot-prx-40-t137-410-11-051-00.jpg",
    "oficial": "https://www.tissotwatches.com/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw4c5b8a62/product-pictures/56554287-24c7-4edf-b4aa-04bf6845fe24_T137-410-11-051-00_shadow.png"
   },
   "name": "PRX 40mm",
   "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 269.0
+   },
    "oficial": {
     "auto": true,
     "d": "2026-11-16",
@@ -152,7 +164,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:45+01:00",
+  "checked": "2026-11-16T22:34:37+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -196,7 +208,7 @@
   },
   "caja_mm": 45,
   "categoria": "smartwatch",
-  "checked": "2026-11-16T22:14:45+01:00",
+  "checked": "2026-11-16T22:34:37+01:00",
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
@@ -238,7 +250,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:45+01:00",
+  "checked": "2026-11-16T22:34:37+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -280,7 +292,7 @@
   },
   "caja_mm": 43.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:07+01:00",
+  "checked": "2026-11-16T22:34:00+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -324,7 +336,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:10+01:00",
+  "checked": "2026-11-16T22:34:03+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -368,7 +380,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:13+01:00",
+  "checked": "2026-11-16T22:34:06+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -407,7 +419,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:18+01:00",
+  "checked": "2026-11-16T22:34:08+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -451,7 +463,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:20+01:00",
+  "checked": "2026-11-16T22:34:10+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -493,7 +505,7 @@
   },
   "caja_mm": 40.8,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:21+01:00",
+  "checked": "2026-11-16T22:34:11+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -535,7 +547,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:22+01:00",
+  "checked": "2026-11-16T22:34:11+01:00",
   "correa": "Piel (también brazalete)",
   "deals": [],
   "descartadas": [],
@@ -577,7 +589,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:23+01:00",
+  "checked": "2026-11-16T22:34:12+01:00",
   "correa": "Titanio (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -619,7 +631,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:25+01:00",
+  "checked": "2026-11-16T22:34:13+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -661,7 +673,7 @@
   },
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:28+01:00",
+  "checked": "2026-11-16T22:34:18+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -705,7 +717,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:30+01:00",
+  "checked": "2026-11-16T22:34:22+01:00",
   "correa": "Piel de caimán",
   "deals": [],
   "descartadas": [],
@@ -749,7 +761,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:31+01:00",
+  "checked": "2026-11-16T22:34:23+01:00",
   "correa": "Oystersteel (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -994,16 +1006,31 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:13:11+01:00",
+  "checked": "2026-11-16T22:30:03+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 23109.24,
+    "s": "montredo"
+   }
+  ],
   "id": "rolex-116500ln",
-  "images": {},
+  "images": {
+   "montredo": "https://www.montredo.com/cdn/shop/files/116500LNB-2.webp?v=1773753677&width=1920"
+  },
   "name": "Cosmograph Daytona",
-  "prices": {},
+  "prices": {
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 23109.24
+   }
+  },
   "ref": "116500LN",
   "target": null,
   "tier": "Gama alta",
@@ -1023,7 +1050,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:13:23+01:00",
+  "checked": "2026-11-16T22:30:03+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1050,7 +1077,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:13:35+01:00",
+  "checked": "2026-11-16T22:30:03+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1077,7 +1104,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:13:47+01:00",
+  "checked": "2026-11-16T22:30:03+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1104,16 +1131,31 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:00+01:00",
+  "checked": "2026-11-16T22:30:06+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 6529.41,
+    "s": "montredo"
+   }
+  ],
   "id": "breitling-ab0134101b1a1",
-  "images": {},
+  "images": {
+   "montredo": "https://www.montredo.com/cdn/shop/files/AB0134101B1A1.webp?v=1770911871&width=1920"
+  },
   "name": "Chronomat B01 42",
-  "prices": {},
+  "prices": {
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 6529.41
+   }
+  },
   "ref": "AB0134101B1A1",
   "target": null,
   "tier": "Gama alta",
@@ -1125,11 +1167,15 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:00+01:00",
+  "checked": "2026-11-16T22:30:22+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1148,36 +1194,72 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42.8,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:01+01:00",
+  "checked": "2026-11-16T22:30:53+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 111.99,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
+    "p": 125.1,
+    "s": "planetarelojes"
+   }
+  ],
   "id": "casio-gw-m5610u-1er",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/201548/2/201548262/s11_produktbild_gross/casio-g-shock-gw-m5610u-1er.jpg",
+   "planetarelojes": "https://www.planetarelojes.com/114106-tm_thickbox_default/casio-g-shock-gw-m5610u-1er.jpg"
+  },
   "name": "G-Shock GW-M5610U",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 111.99
+   },
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 125.1
+   }
+  },
   "ref": "GW-M5610U-1ER",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/201548262/casio-g-shock-gw-m5610u-1er.html"
+   "idealo": "https://www.idealo.es/precios/201548262/casio-g-shock-gw-m5610u-1er.html",
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/casio-g-shock-gw-m5610u-1er"
   }
  },
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 33,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:01+01:00",
+  "checked": "2026-11-16T22:31:08+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1196,36 +1278,68 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:02+01:00",
+  "checked": "2026-11-16T22:31:27+01:00",
   "correa": "Acero",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 38.01,
+    "s": "idealo"
+   }
+  ],
   "id": "casio-a168wem-1ef",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/6221/2/6221292/s11_produktbild_gross/casio-vintage-a168wem-1ef.jpg",
+   "planetarelojes": "https://www.planetarelojes.com/54419-tm_thickbox_default/casio-vintage-a168wem-1ef.jpg"
+  },
   "name": "Vintage A168WEM",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 38.01
+   },
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 42.5,
+    "stock": false
+   }
+  },
   "ref": "A168WEM-1EF",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/6221292/casio-vintage-a168wem-1ef.html"
+   "idealo": "https://www.idealo.es/precios/6221292/casio-vintage-a168wem-1ef.html",
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/casio-vintage-a168wem-1ef"
   }
  },
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:02+01:00",
+  "checked": "2026-11-16T22:31:41+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1244,57 +1358,93 @@
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:02+01:00",
+  "checked": "2026-11-16T22:31:56+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
   "history": [],
   "id": "seiko-skx007k1",
-  "images": {},
+  "images": {
+   "planetarelojes": "https://www.planetarelojes.com/3380-tm_thickbox_default/seiko-skx007k1-reloj.jpg"
+  },
   "name": "Seiko Diver SKX007",
-  "prices": {},
+  "prices": {
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 350.0,
+    "stock": false
+   }
+  },
   "ref": "SKX007K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/seiko-skx007k1-reloj"
+  }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 45,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:02+01:00",
+  "checked": "2026-11-16T22:32:12+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
   "history": [],
   "id": "seiko-spb143j1",
-  "images": {},
+  "images": {
+   "planetarelojes": "https://www.planetarelojes.com/85419-tm_thickbox_default/seiko-prospex-spb143j1.jpg"
+  },
   "name": "Prospex Sea Turtle",
-  "prices": {},
+  "prices": {
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 1400.0,
+    "stock": false
+   }
+  },
   "ref": "SPB143J1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/seiko-prospex-spb143j1"
+  }
  },
  {
   "brand": "Omega",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:02+01:00",
+  "checked": "2026-11-16T22:32:25+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1308,108 +1458,204 @@
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "montredo": "https://www.montredo.com/products/omega-seamaster-diver-300m-automatic-black-42mm-29651?_pos=1&_sid=55e4c0c72&_ss=r"
+  }
  },
  {
   "brand": "Tudor",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:02+01:00",
+  "checked": "2026-11-16T22:32:40+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 4820.0,
+    "s": "lepage"
+   }
+  ],
   "id": "tudor-m79830rb-0001",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/37000-home_default/tudor-black-bay-gmt-automatic-watch-pepsi-bezel-black-dial-steel-bracelet-41-mm.jpg"
+  },
   "name": "Black Bay GMT Pepsi",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 4820.0
+   }
+  },
   "ref": "M79830RB-0001",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/10946-tudor-black-bay-gmt-automatic-watch-pepsi-bezel-black-dial-steel-bracelet-41-mm-m79830rb-0001.html"
+  }
  },
  {
   "brand": "Tudor",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:02+01:00",
+  "checked": "2026-11-16T22:32:55+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 6300.0,
+    "s": "lepage"
+   }
+  ],
   "id": "tudor-m79360n-0001",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/37233-home_default/tudor-black-bay-chrono-automatic-watch-black-dial-steel-bracelet-41-mm.jpg"
+  },
   "name": "Black Bay Chrono",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 6300.0
+   }
+  },
   "ref": "M79360N-0001",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/10919-tudor-black-bay-chrono-automatic-watch-black-dial-steel-bracelet-41-mm-m79360n-0001.html"
+  }
  },
  {
   "brand": "Tissot",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:02+01:00",
+  "checked": "2026-11-16T22:33:10+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
   "history": [],
   "id": "tissot-t120.407.11.051.00",
-  "images": {},
+  "images": {
+   "planetarelojes": "https://www.planetarelojes.com/99147-tm_thickbox_default/tissot-seastar-1000-powermatic-80-t1204071105100.jpg"
+  },
   "name": "Seastar 1000 Powermatic 80",
-  "prices": {},
+  "prices": {
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 805.5,
+    "stock": false
+   }
+  },
   "ref": "T120.407.11.051.00",
   "target": null,
   "tier": "Gama media",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "montredo": "https://www.montredo.com/products/tissot-t-sport-seastar-1000-powermatic-80-automatic-black-43-53950?_pos=1&_sid=67aaa13d9&_ss=r",
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-seastar-1000-powermatic-80-t1204071105100"
+  }
  },
  {
   "brand": "Tissot",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:02+01:00",
+  "checked": "2026-11-16T22:33:28+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 775.0,
+    "s": "lepage"
+   }
+  ],
   "id": "tissot-t137.407.11.051.00",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/33471-home_default/tissot-prx-powermatic-80-automatic-watch-black-dial-steel-bracelet-40-mm.jpg",
+   "planetarelojes": "https://www.planetarelojes.com/92481-tm_thickbox_default/tissot-prx-powermatic-80-t1374071105100.jpg"
+  },
   "name": "PRX Powermatic 80 40 mm",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 775.0
+   },
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 697.5,
+    "stock": false
+   }
+  },
   "ref": "T137.407.11.051.00",
   "target": null,
   "tier": "Gama media",
   "tipo": "Vestir",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/10335-tissot-prx-powermatic-80-automatic-watch-black-dial-steel-bracelet-40-mm-t1374071105100.html",
+   "montredo": "https://www.montredo.com/products/tissot-t-classic-automatic-black-40mm-30490?_pos=1&_sid=dec7dbd40&_ss=r",
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-prx-powermatic-80-t1374071105100"
+  }
  },
  {
   "brand": "Citizen",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:02+01:00",
+  "checked": "2026-11-16T22:33:41+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -1428,20 +1674,39 @@
  {
   "brand": "Bulova",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 45,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:03+01:00",
+  "checked": "2026-11-16T22:33:56+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
   "fuentes": [],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 593.1,
+    "s": "idealo"
+   }
+  ],
   "id": "bulova-96k111",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/202720/6/202720691/s11_produktbild_gross/bulova-lunar-pilot-chronograph-96k111.jpg"
+  },
   "name": "Lunar Pilot",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 593.1
+   }
+  },
   "ref": "96K111",
   "target": null,
   "tier": "Gama media",
@@ -1457,7 +1722,7 @@
   },
   "caja_mm": 41,
   "categoria": "smartwatch",
-  "checked": "2026-11-16T22:14:03+01:00",
+  "checked": "2026-11-16T22:33:56+01:00",
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
@@ -1480,7 +1745,7 @@
   },
   "caja_mm": 47,
   "categoria": "smartwatch",
-  "checked": "2026-11-16T22:14:03+01:00",
+  "checked": "2026-11-16T22:33:56+01:00",
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
@@ -1503,7 +1768,7 @@
   },
   "caja_mm": 39.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:45+01:00",
+  "checked": "2026-11-16T22:34:37+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1529,7 +1794,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:45+01:00",
+  "checked": "2026-11-16T22:34:37+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1555,7 +1820,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:45+01:00",
+  "checked": "2026-11-16T22:34:37+01:00",
   "correa": "Oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1581,7 +1846,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:45+01:00",
+  "checked": "2026-11-16T22:34:37+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1607,7 +1872,7 @@
   },
   "caja_mm": 31,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:45+01:00",
+  "checked": "2026-11-16T22:34:37+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1633,7 +1898,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:48+01:00",
+  "checked": "2026-11-16T22:34:38+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1675,7 +1940,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:50+01:00",
+  "checked": "2026-11-16T22:34:40+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1717,7 +1982,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:50+01:00",
+  "checked": "2026-11-16T22:34:40+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1742,7 +2007,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:51+01:00",
+  "checked": "2026-11-16T22:34:42+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1784,7 +2049,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:53+01:00",
+  "checked": "2026-11-16T22:34:44+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1829,7 +2094,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:58+01:00",
+  "checked": "2026-11-16T22:34:49+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1888,7 +2153,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:15:02+01:00",
+  "checked": "2026-11-16T22:34:53+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1947,7 +2212,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:15:05+01:00",
+  "checked": "2026-11-16T22:34:54+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1993,7 +2258,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:15:09+01:00",
+  "checked": "2026-11-16T22:34:58+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2052,7 +2317,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:15:12+01:00",
+  "checked": "2026-11-16T22:35:00+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2098,7 +2363,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:15:12+01:00",
+  "checked": "2026-11-16T22:35:00+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2128,7 +2393,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:15:15+01:00",
+  "checked": "2026-11-16T22:35:01+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2174,7 +2439,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:15:19+01:00",
+  "checked": "2026-11-16T22:35:05+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2232,7 +2497,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:15:23+01:00",
+  "checked": "2026-11-16T22:35:08+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2290,7 +2555,7 @@
   },
   "caja_mm": 36.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:15:25+01:00",
+  "checked": "2026-11-16T22:35:10+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2336,7 +2601,7 @@
   },
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:20:22+01:00",
+  "checked": "2026-11-16T22:35:14+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2382,7 +2647,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:20:29+01:00",
+  "checked": "2026-11-16T22:35:17+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2423,7 +2688,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:20:40+01:00",
+  "checked": "2026-11-16T22:35:25+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2495,7 +2760,7 @@
   },
   "caja_mm": 40.8,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:20:49+01:00",
+  "checked": "2026-11-16T22:35:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2537,7 +2802,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:20:56+01:00",
+  "checked": "2026-11-16T22:35:33+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2548,16 +2813,28 @@
   "history": [
    {
     "d": "2026-11-16",
+    "p": 84.49,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
     "p": 90.0,
     "s": "planetarelojes"
    }
   ],
   "id": "casio-ga-2100-1a4er",
   "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/201863/6/201863687/s11_produktbild_gross/casio-g-shock-ga-2100-1a4er.jpg",
    "planetarelojes": "https://www.planetarelojes.com/112119-tm_thickbox_default/casio-g-shock-classic-ga-2100-1a4er.jpg"
   },
   "name": "G-Shock GA-2100-1A4ER",
   "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 84.49
+   },
    "planetarelojes": {
     "auto": true,
     "d": "2026-11-16",
@@ -2585,7 +2862,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:21:02+01:00",
+  "checked": "2026-11-16T22:35:33+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2615,7 +2892,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:21:08+01:00",
+  "checked": "2026-11-16T22:35:33+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2645,7 +2922,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:21:14+01:00",
+  "checked": "2026-11-16T22:35:34+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2653,11 +2930,26 @@
    "https://www.baroli.es/",
    "https://maroyjoyeros.com/categoria/relojes-g-shock/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 100.59,
+    "s": "idealo"
+   }
+  ],
   "id": "casio-ga-2100bm-7a2",
-  "images": {},
+  "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/206310/3/206310389/s11_produktbild_gross/casio-g-shock-ga-2100bm-7a2.jpg"
+  },
   "name": "G-Shock GA-2100BM-7A2",
-  "prices": {},
+  "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 100.59
+   }
+  },
   "ref": "GA-2100BM-7A2",
   "target": null,
   "tier": "Asequible",
@@ -2677,7 +2969,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:21:19+01:00",
+  "checked": "2026-11-16T22:35:34+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2707,7 +2999,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:21:25+01:00",
+  "checked": "2026-11-16T22:35:34+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -4242,11 +4534,15 @@
  {
   "brand": "Grand Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "planetarelojes": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T22:14:00+01:00",
+  "checked": "2026-11-16T22:30:35+01:00",
   "correa": "Titanio (brazalete)",
   "deals": [],
   "descartadas": [],

@@ -14,10 +14,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 FICHAS = [
     ("hamilton_es", "https://www.hamiltonwatch.com/es-es/h70605160-khaki-field-auto.html", "H70605160"),
     ("tissot_es", "https://www.tissotwatches.com/es-es/T1374101105100.html", "T137.410.11.051.00"),
-    ("seiko_es", "https://www.seikowatches.com/es-es/products/presage/srph93j1", "SRPH93J1"),
-    ("tudor_es", "https://www.tudorwatch.com/es-es/watches/black-bay-58/m79030n-0001", "M79030N"),
-    ("omega_es", "https://www.omegawatches.com/es-es/watches/speedmaster/moonwatch/310.30.42.50.01.001", "310.30.42.50.01.001"),
-    ("rolex_es", "https://www.rolex.com/es/watches/submariner/m126610ln-0001", "126610LN"),
+    ("seiko5_es", "https://www.seikowatches.com/es-es/products/5sports/srpd55", "SRPD55K1"),
+    ("seiko_presage_es", "https://www.seikowatches.com/es-es/products/presage/srph93", "SRPH93J1"),
+    ("casio_es", "https://www.casio.com/es/watches/gshock/product.GA-2100-1A/", "GA-2100-1A1"),
+    ("citizen_laguarda", "https://laguardajoiers.com/en/bn0150-61e-citizen-promaster-divers-eco-drive.html", "BN0150-61E"),
+    ("sinn_de", "https://www.sinn.de/en/watches/104-st-sa-i-w.html", "104.012"),
+    ("tudor_es", "https://www.tudorwatch.com/es/watches/black-bay-58/m79030n-0001", "M79030N-0001"),
 ]
 
 PRECIO = re.compile(r"\d[\d.\s]*[,.]\d{2}\s?€|€\s?\d[\d.,]*|\d[\d.,]*\s?EUR", re.I)

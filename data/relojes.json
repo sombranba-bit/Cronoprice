@@ -374,16 +374,32 @@
    "https://www.jurawatches.co.uk/products/bulova-watch-uhf-precisionist-96b257-bul-242",
    "https://www.nywatchstore.com/96b257.html"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 485.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "bulova-precisionist-96b257",
   "images": {},
   "name": "Precisionist UHF 43 mm (azul)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "d": "2026-11-16",
+    "manual": true,
+    "nota": "RRP, agotado; garantía 2 años (Alemania)",
+    "p": 485.0,
+    "src": "https://thewatchagency.com/bulova-precisionist-blue-leather-o42-mm-p-285361.html"
+   }
+  },
   "ref": "96B257",
   "target": null,
   "tier": "Gama media",
   "tipo": "Vestir",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://thewatchagency.com/bulova-precisionist-blue-leather-o42-mm-p-285361.html"
+  },
   "verificada": true
  },
  {

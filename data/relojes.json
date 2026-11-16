@@ -204,11 +204,24 @@
    "https://www.elcorteingles.es/electronica/A48938050-garmin-venu-3-blanco-45mm-smartwatch/",
    "https://www.shi.com/product/47011080/Garmin-Venu-3-45-mm"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 335.99,
+    "s": "distribuidor"
+   }
+  ],
   "id": "garmin-venu-3-010-02784-00",
   "images": {},
   "name": "Venu 3 45 mm (blanco)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "d": "2026-11-16",
+    "manual": true,
+    "p": 335.99,
+    "src": "https://www.pccomponentes.com/garmin-venu-3-reloj-smartwatch-45mm-bisel-acero-inoxidable-con-caja-y-correa-de-silicona-blanca"
+   }
+  },
   "ref": "010-02784-00",
   "target": null,
   "tier": "Smartwatch",
@@ -233,11 +246,24 @@
    "https://laguardajoiers.com/en/bn0150-61e-citizen-promaster-divers-eco-drive.html",
    "https://tomasinifrancia.it/en/citizen-promaster-bn0150-61e"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 288.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "citizen-promaster-bn0150-61e",
   "images": {},
   "name": "Promaster Diver's Eco-Drive",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "d": "2026-11-16",
+    "manual": true,
+    "p": 288.0,
+    "src": "https://laguardajoiers.com/en/bn0150-61e-citizen-promaster-divers-eco-drive.html"
+   }
+  },
   "ref": "BN0150-61E",
   "target": null,
   "tier": "Gama media",
@@ -306,11 +332,24 @@
    "https://lepage.fr/en/8262-longines-spirit-automatic-watch-black-dial-brown-leather-strap-40-mm-l38104530.html",
    "https://www.tourneau.com/watches/longines/longines-spirit-40mm-l3.810.4.53.0-LNG0104366.html"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 2450.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "longines-spirit-l3-810-4-53-0",
   "images": {},
   "name": "Spirit Automatic 40 mm (negro)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "d": "2026-11-16",
+    "manual": true,
+    "p": 2450.0,
+    "src": "https://www.bucherer.com/de/en/watches/longines/spirit/1331-428-6.html"
+   }
+  },
   "ref": "L3.810.4.53.0",
   "target": null,
   "tier": "Gama alta",
@@ -406,11 +445,24 @@
    "https://lepage.fr/en/10093-hamilton-jazzmaster-gent-automatic-watch-blue-dial-blue-leather-strap-40-mm-h32475640.html",
    "https://en.maier.fr/watchmaking-jewelry-brands/hamilton/watches/jazzmaster/auto_h32475640"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 1025.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "hamilton-jazzmaster-auto-h32475640",
   "images": {},
   "name": "Jazzmaster Auto 40 mm (azul)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "d": "2026-11-16",
+    "manual": true,
+    "p": 1025.0,
+    "src": "https://lepage.fr/en/10093-hamilton-jazzmaster-gent-automatic-watch-blue-dial-blue-leather-strap-40-mm-h32475640.html"
+   }
+  },
   "ref": "H32475640",
   "target": null,
   "tier": "Gama media",
@@ -435,17 +487,30 @@
    "https://seikowatches.com/us-en/products/presage/srph93j1",
    "https://www.lepage.fr/en/20185-seiko-presage-style-60s-ruby-automatic-watch-white-dial-steel-bracelet-408-mm-srph93j1.html"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 599.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "seiko-presage-srph93j1",
   "images": {},
   "name": "Presage Style60's Ruby 40.8 mm",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "d": "2026-11-16",
+    "manual": true,
+    "p": 599.0,
+    "src": "https://store.seiko.ie/collections/seiko/products/srph93j1"
+   }
+  },
   "ref": "SRPH93J1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "oficial": "https://store.seiko.ie/collections/seiko/products/srph93j1"
+   "distribuidor": "https://store.seiko.ie/collections/seiko/products/srph93j1"
   },
   "verificada": true
  },
@@ -464,11 +529,24 @@
    "https://www.sinn.de/en/watches/104-st-sa-i-w.html",
    "https://jurawatches.co.uk/products/sinn-watch-104-st-sa-i-w-silicone-black-104-012"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 1490.0,
+    "s": "oficial"
+   }
+  ],
   "id": "sinn-104-st-sa-i-w-104-012",
   "images": {},
   "name": "104 St Sa I W 41 mm (blanco)",
-  "prices": {},
+  "prices": {
+   "oficial": {
+    "d": "2026-11-16",
+    "manual": true,
+    "p": 1490.0,
+    "src": "https://www.sinn.de/en/watches/104-st-sa-i-w.html"
+   }
+  },
   "ref": "104.012",
   "target": null,
   "tier": "Gama alta",
@@ -493,11 +571,24 @@
    "https://www.tourneau.com/watches/grand-seiko/spring-drive-sbga413-sbga413-GSA0100004.html",
    "https://teddybaldassarre.com/products/sbga413"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 7500.0,
+    "s": "oficial"
+   }
+  ],
   "id": "grand-seiko-sbga413",
   "images": {},
   "name": "Heritage Spring Drive Shunbun 40 mm (rosa)",
-  "prices": {},
+  "prices": {
+   "oficial": {
+    "d": "2026-11-16",
+    "manual": true,
+    "p": 7500.0,
+    "src": "https://www.grand-seiko.com/es-es/collections/sbga413g"
+   }
+  },
   "ref": "SBGA413",
   "target": null,
   "tier": "Gama alta",
@@ -522,11 +613,24 @@
    "https://www.omegawatches.com/media/pdf/watches/product-sheet/dk/en-gb/31030425001001-en-gb.pdf",
    "https://en.maier.fr/watchmaking-jewelry-brands/omega/watches/moonwatch/moonwatch-professional-coaeuraxial-master-chronometer-chronograph-42-mm_310-30-42-50-01-001"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 7600.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "omega-speedmaster-moonwatch-310-30-42-50-01-001",
   "images": {},
   "name": "Speedmaster Moonwatch Professional 42 mm (negro)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "d": "2026-11-16",
+    "manual": true,
+    "p": 7600.0,
+    "src": "https://bucherer.com/de/en/watches/omega/speedmaster/1337-038-0.html"
+   }
+  },
   "ref": "310.30.42.50.01.001",
   "target": null,
   "tier": "Gama alta",
@@ -551,11 +655,24 @@
    "https://tudorwatch.com/en/watches/black-bay-58/m79030n-0001",
    "https://www.the1916company.com/watches/tudor/black-bay-58/m79030n-0001/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 4340.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "tudor-black-bay-58-m79030n-0001",
   "images": {},
   "name": "Black Bay 58 39 mm (negro)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "d": "2026-11-16",
+    "manual": true,
+    "p": 4340.0,
+    "src": "https://www.bucherer.com/at/en/watches/tudor/black-bay/1307-202-3.html"
+   }
+  },
   "ref": "M79030N-0001",
   "target": null,
   "tier": "Gama alta",
@@ -624,11 +741,24 @@
    "https://www.rolex.com/en/watches/submariner/m126610ln-0001",
    "https://www.watchesofswitzerland.com/pages/rolex/submariner-m126610ln-0001"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 11000.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "rolex-submariner-date-126610ln",
   "images": {},
   "name": "Submariner Date 41 mm (Oystersteel, negro)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "d": "2026-11-16",
+    "manual": true,
+    "p": 11000.0,
+    "src": "https://www.weirandsons.ie/m126610ln-0001.html"
+   }
+  },
   "ref": "126610LN",
   "target": null,
   "tier": "Gama alta",

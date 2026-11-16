@@ -116,7 +116,7 @@
         </div>
         <div class="panel"><h3 style="font-size:22px;margin-bottom:8px">Precio en cada tienda</h3>
           ${offers.length ? `<table><thead><tr><th>Tienda</th><th class="n">Precio</th></tr></thead><tbody>
-            ${offers.map((o, k) => `<tr class="${k === 0 ? 'best' : ''}"><td>${esc(shopName(o.s))}${o.via ? ` <span class="muted">vía ${esc(shopName(o.via))}</span>` : ''}<br><span class="muted">${ago(o.d)}${o.stock === false ? ' · agotado' : ''}</span></td><td class="n">${eur(o.p)}</td></tr>`).join('')}
+            ${offers.map((o, k) => `<tr class="${k === 0 ? 'best' : ''}"><td>${esc(shopName(o.s))}${o.via ? ` <span class="muted">vía ${esc(shopName(o.via))}</span>` : ''}<br><span class="muted">${ago(o.d)}${o.stock === false ? ' · agotado' : ''}${o.manual ? ' · verificado a mano' : ''}</span></td><td class="n">${eur(o.p)}</td></tr>`).join('')}
           </tbody></table>` : '<p class="muted">Todavía no hay precios para este reloj.</p>'}
         </div>
         ${deals.length ? `<div class="panel"><h3 style="font-size:22px;margin-bottom:8px">Chollos publicados</h3>${deals.slice(0, 4).map((c) => `<p><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.t)}</a><br><span class="muted">${c.p != null ? eur(c.p) : ''}</span></p>`).join('')}</div>` : ''}

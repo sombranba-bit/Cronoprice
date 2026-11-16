@@ -6,7 +6,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:30:56+01:00",
+  "checked": "2026-11-16T20:50:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -50,7 +50,7 @@
   },
   "caja_mm": null,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:31:00+01:00",
+  "checked": "2026-11-16T20:50:30+01:00",
   "correa": null,
   "deals": [],
   "descartadas": [],
@@ -107,7 +107,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:31:05+01:00",
+  "checked": "2026-11-16T20:50:35+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -152,7 +152,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:31:07+01:00",
+  "checked": "2026-11-16T20:50:37+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -196,7 +196,7 @@
   },
   "caja_mm": 45,
   "categoria": "smartwatch",
-  "checked": "2026-11-16T20:31:07+01:00",
+  "checked": "2026-11-16T20:50:37+01:00",
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
@@ -238,7 +238,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:31:07+01:00",
+  "checked": "2026-11-16T20:50:38+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -280,7 +280,7 @@
   },
   "caja_mm": 43.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:29:53+01:00",
+  "checked": "2026-11-16T20:50:04+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -324,7 +324,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:29:54+01:00",
+  "checked": "2026-11-16T20:50:07+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -332,11 +332,26 @@
    "https://lepage.fr/en/8262-longines-spirit-automatic-watch-black-dial-brown-leather-strap-40-mm-l38104530.html",
    "https://www.tourneau.com/watches/longines/longines-spirit-40mm-l3.810.4.53.0-LNG0104366.html"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 2450.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "longines-spirit-l3-810-4-53-0",
-  "images": {},
+  "images": {
+   "distribuidor": "https://product-manager.maier.fr/media/products/fb652bf7-d493-4969-b263-3c580fef0e31/44c0cc4d-190e-40fc-a87c-82bd39964eef/longines-spirit-0_L3-810-4-53-0-5308e06c"
+  },
   "name": "Spirit Automatic 40 mm (negro)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 2450.0
+   }
+  },
   "ref": "L3.810.4.53.0",
   "target": null,
   "tier": "Gama alta",
@@ -353,7 +368,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:29:54+01:00",
+  "checked": "2026-11-16T20:50:10+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -363,9 +378,19 @@
   ],
   "history": [],
   "id": "bulova-precisionist-96b257",
-  "images": {},
+  "images": {
+   "distribuidor": "https://media.watchia.com/catalog/product/cache/8868f1f55ea9b10b8d2c7235a00bab2c/1/-/1-bulova-precisionist.jpg"
+  },
   "name": "Precisionist UHF 43 mm (azul)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 479.0,
+    "stock": false
+   }
+  },
   "ref": "96B257",
   "target": null,
   "tier": "Gama media",
@@ -382,7 +407,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:29:57+01:00",
+  "checked": "2026-11-16T20:50:12+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -426,7 +451,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:29:58+01:00",
+  "checked": "2026-11-16T20:50:14+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -468,7 +493,7 @@
   },
   "caja_mm": 40.8,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:29:59+01:00",
+  "checked": "2026-11-16T20:50:15+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -510,7 +535,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:30:00+01:00",
+  "checked": "2026-11-16T20:50:15+01:00",
   "correa": "Piel (también brazalete)",
   "deals": [],
   "descartadas": [],
@@ -552,7 +577,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:30:01+01:00",
+  "checked": "2026-11-16T20:50:17+01:00",
   "correa": "Titanio (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -594,7 +619,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:30:26+01:00",
+  "checked": "2026-11-16T20:50:18+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -636,7 +661,7 @@
   },
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:30:51+01:00",
+  "checked": "2026-11-16T20:50:21+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -644,11 +669,26 @@
    "https://tudorwatch.com/en/watches/black-bay-58/m79030n-0001",
    "https://www.the1916company.com/watches/tudor/black-bay-58/m79030n-0001/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 4430.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "tudor-black-bay-58-m79030n-0001",
-  "images": {},
+  "images": {
+   "distribuidor": "https://product-manager.maier.fr/media/products/2b027eeb-8327-4b9e-8957-713e05acb60d/035e1b32-fcd7-4eab-b445-56416c4fed25/black-bay-fifty-eight_M79030N-0001-61661a2d"
+  },
   "name": "Black Bay 58 39 mm (negro)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 4430.0
+   }
+  },
   "ref": "M79030N-0001",
   "target": null,
   "tier": "Gama alta",
@@ -665,7 +705,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:30:54+01:00",
+  "checked": "2026-11-16T20:50:23+01:00",
   "correa": "Piel de caimán",
   "deals": [],
   "descartadas": [],
@@ -709,7 +749,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:30:55+01:00",
+  "checked": "2026-11-16T20:50:24+01:00",
   "correa": "Oystersteel (brazalete)",
   "deals": [],
   "descartadas": [],

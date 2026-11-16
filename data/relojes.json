@@ -256,5 +256,105 @@
    "https://www.jurawatches.co.uk/products/bulova-watch-uhf-precisionist-96b257-bul-242",
    "https://www.nywatchstore.com/96b257.html"
   ]
+ },
+ {
+  "urls": {},
+  "prices": {},
+  "history": [],
+  "images": {},
+  "buscado": {},
+  "descartadas": [],
+  "deals": [],
+  "target": null,
+  "checked": null,
+  "verificada": true,
+  "id": "mido-ocean-star-200-m026-430-11-051-00",
+  "brand": "Mido",
+  "name": "Ocean Star 200 42.5 mm (negro)",
+  "ref": "M026.430.11.051.00",
+  "categoria": "clasico",
+  "tipo": "Buceo",
+  "tier": "Gama media",
+  "caja_mm": 42.5,
+  "correa": "Acero (brazalete)",
+  "fuentes": [
+   "https://en.maier.fr/watchmaking-jewelry-brands/mido/watches/ocean-star-200/ocean-star-200_m026-430-11-051-00",
+   "https://tomasinifrancia.it/en/mido-ocean-star-m0264301105100"
+  ]
+ },
+ {
+  "urls": {},
+  "prices": {},
+  "history": [],
+  "images": {},
+  "buscado": {},
+  "descartadas": [],
+  "deals": [],
+  "target": null,
+  "checked": null,
+  "verificada": true,
+  "id": "hamilton-jazzmaster-auto-h32475640",
+  "brand": "Hamilton",
+  "name": "Jazzmaster Auto 40 mm (azul)",
+  "ref": "H32475640",
+  "categoria": "clasico",
+  "tipo": "Vestir",
+  "tier": "Gama media",
+  "caja_mm": 40,
+  "correa": "Piel",
+  "fuentes": [
+   "https://lepage.fr/en/10093-hamilton-jazzmaster-gent-automatic-watch-blue-dial-blue-leather-strap-40-mm-h32475640.html",
+   "https://en.maier.fr/watchmaking-jewelry-brands/hamilton/watches/jazzmaster/auto_h32475640"
+  ]
+ },
+ {
+  "urls": {},
+  "prices": {},
+  "history": [],
+  "images": {},
+  "buscado": {},
+  "descartadas": [],
+  "deals": [],
+  "target": null,
+  "checked": null,
+  "verificada": true,
+  "id": "seiko-presage-srph93j1",
+  "brand": "Seiko",
+  "name": "Presage Style60's Ruby 40.8 mm",
+  "ref": "SRPH93J1",
+  "categoria": "clasico",
+  "tipo": "Vestir",
+  "tier": "Gama media",
+  "caja_mm": 40.8,
+  "correa": "Acero (brazalete)",
+  "fuentes": [
+   "https://seikowatches.com/us-en/products/presage/srph93j1",
+   "https://www.lepage.fr/en/20185-seiko-presage-style-60s-ruby-automatic-watch-white-dial-steel-bracelet-408-mm-srph93j1.html"
+  ]
+ },
+ {
+  "urls": {},
+  "prices": {},
+  "history": [],
+  "images": {},
+  "buscado": {},
+  "descartadas": [],
+  "deals": [],
+  "target": null,
+  "checked": null,
+  "verificada": true,
+  "id": "sinn-104-st-sa-i-w-104-012",
+  "brand": "Sinn",
+  "name": "104 St Sa I W 41 mm (blanco)",
+  "ref": "104.012",
+  "categoria": "clasico",
+  "tipo": "Piloto",
+  "tier": "Gama alta",
+  "caja_mm": 41,
+  "correa": "Piel (también brazalete)",
+  "fuentes": [
+   "https://www.sinn.de/en/watches/104-st-sa-i-w.html",
+   "https://jurawatches.co.uk/products/sinn-watch-104-st-sa-i-w-silicone-black-104-012"
+  ]
  }
 ]

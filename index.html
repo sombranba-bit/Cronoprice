@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#2b4a9b">
+<title>Cronoprice · comparador de precios de relojes</title>
+<meta name="description" content="Compara el precio de relojes clásicos y smartwatches en las tiendas de España.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232b4a9b'/%3E%3Ccircle cx='14' cy='14' r='7' fill='none' stroke='white' stroke-width='2.4'/%3E%3Cpath d='M19 19l6 6' stroke='white' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Geist:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app/cronoprice.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="#inicio" aria-label="Cronoprice, inicio">
+    <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="8" stroke="currentColor" stroke-width="2"/><path d="M19 19l6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M12 7v5l3 2" stroke="var(--accent)" stroke-width="1.8" stroke-linecap="round"/></svg>
+    <span>Cronoprice<small>Comparador de precios de relojes</small></span>
+  </a>
+  <nav class="nav" aria-label="Principal">
+    <a href="#catalogo">Catálogo</a>
+    <a href="#chollos">Chollos</a>
+    <a href="#guardados">Guardados <span id="gcount" class="count"></span></a>
+  </nav>
+  <button id="theme" class="tbtn" type="button" aria-label="Cambiar tema">Tema</button>
+</header>
+<main id="main" class="wrap" aria-live="polite"><p class="loading">Cargando precios…</p></main>
+<footer class="wrap foot" id="foot"></footer>
+<script src="app/cronoprice.js"></script>
+</body>
+</html>

@@ -2,7 +2,7 @@
 :root{--serif:"Fraunces",Georgia,serif;--sans:"Geist",system-ui,sans-serif;
 --bg:#f7f2f2;--surface:#fff;--surface-2:#f0e8e8;--text:#141311;--muted:#69655d;--faint:#6e6a62;
 --line:rgba(20,19,17,.09);--line-2:rgba(20,19,17,.16);--accent:#2b4a9b;--accent-ink:#fff;
---pos:#17663f;--pos-bg:#e2f2e8;--neg:#a12a22;--r-xl:24px;--r-lg:18px;--r-md:12px;--r-sm:8px;--ease:cubic-bezier(.22,1,.36,1)}
+--pos:#17663f;--pos-bg:#e2f2e8;--neg:#a12a22;--r-xl:24px;--r-lg:18px;--r-md:12px;--r-sm:8px;--ease:cubic-bezier(.22,1,.36,1);--plate:#f1ece6}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#120c0d;--surface:#1c1516;--surface-2:#2a1e20;--text:#f1eee8;--muted:#a7a196;--faint:#9a958c;--line:rgba(241,238,232,.1);--line-2:rgba(241,238,232,.18);--accent:#9fb6ec;--accent-ink:#0b1a40;--pos:#7fd6a3;--pos-bg:#173023;--neg:#f08a7f}}
 :root[data-theme=dark]{--bg:#120c0d;--surface:#1c1516;--surface-2:#2a1e20;--text:#f1eee8;--muted:#a7a196;--faint:#9a958c;--line:rgba(241,238,232,.1);--line-2:rgba(241,238,232,.18);--accent:#9fb6ec;--accent-ink:#0b1a40;--pos:#7fd6a3;--pos-bg:#173023;--neg:#f08a7f}
 *{box-sizing:border-box}
@@ -32,7 +32,7 @@ a{color:inherit}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
 .card{display:block;background:var(--surface);border-radius:var(--r-lg);padding:12px;text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px rgba(0,0,0,.06);transition:transform .25s var(--ease)}
 @media (hover:hover){.card:hover{transform:translateY(-2px)}}
-.plate{aspect-ratio:1;border-radius:var(--r-md);background:var(--surface-2);display:grid;place-items:center;position:relative;overflow:hidden}
+.plate{aspect-ratio:1;border-radius:var(--r-md);background:var(--plate);color:#141311;display:grid;place-items:center;position:relative;overflow:hidden}
 .plate img{width:78%;height:78%;object-fit:contain;mix-blend-mode:multiply}
 .plate svg{width:56%;height:56%}
 .badge{position:absolute;left:8px;top:8px;background:var(--pos-bg);color:var(--pos);font-size:12px;padding:3px 8px;border-radius:999px}

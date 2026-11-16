@@ -97,7 +97,8 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/201550040/tissot-prx-40-t137-410-11-051-00.html"
+   "idealo": "https://www.idealo.es/precios/201550040/tissot-prx-40-t137-410-11-051-00.html",
+   "oficial": "https://www.tissotwatches.com/es-es/T1374101105100.html"
   },
   "verificada": true
  },
@@ -125,7 +126,9 @@
   "target": null,
   "tier": "Gama media",
   "tipo": "Campo",
-  "urls": {},
+  "urls": {
+   "oficial": "https://www.hamiltonwatch.com/es-es/h70605160-khaki-field-auto.html"
+  },
   "verificada": true
  },
  {

@@ -253,6 +253,7 @@ SEARCH = {
     "montredo": "https://www.montredo.com/search?q={q}",
     "lepage": "https://www.lepage.fr/en/search?controller=search&s={q}",
     "zapatajoyeros": "https://www.zapatajoyeros.com/es/busqueda?s={q}",
+    "planetarelojes": "https://www.planetarelojes.com/buscar?q={q}",
 }
 SKIP_PATH = re.compile(r"/search|/buscar|busqueda|recherche|resultados|\?s=|/c/|/brands?/|/marcas?/|/categor|login|cart|wishlist|\.(?:css|js|png|jpg|svg|webp)", re.I)
 

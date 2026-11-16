@@ -6,7 +6,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:24+01:00",
+  "checked": "2026-11-16T20:09:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -50,7 +50,7 @@
   },
   "caja_mm": null,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:25+01:00",
+  "checked": "2026-11-16T20:09:33+01:00",
   "correa": null,
   "deals": [],
   "descartadas": [],
@@ -58,11 +58,38 @@
    "https://www.casio.com/uk/watches/gshock/product.GA-2100-1A1/",
    "https://www.footshop.eu/en/watches/99322-casio-g-shock-ga-2100-1a1er.html"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 103.7,
+    "s": "distribuidor"
+   },
+   {
+    "d": "2026-11-16",
+    "p": 85.41,
+    "s": "idealo"
+   }
+  ],
   "id": "casio-ga-2100-1a1er",
-  "images": {},
+  "images": {
+   "distribuidor": "https://watchclick.com/cdn/shop/files/GA-2100-1A1ER_1_CASIO_f89c6af5-24b6-4f2c-8399-bebb5a557b3b.jpg?v=1744190988&width=1920",
+   "idealo": "https://cdn.idealo.com/folder/Product/6800/7/6800790/s11_produktbild_gross/casio-g-shock-ga-2100-1a1er.jpg"
+  },
   "name": "G-Shock GA-2100",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 103.7
+   },
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 85.41
+   }
+  },
   "ref": "GA-2100-1A1ER",
   "target": null,
   "tier": "Asequible",
@@ -80,7 +107,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:30+01:00",
+  "checked": "2026-11-16T20:09:38+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -125,7 +152,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:31+01:00",
+  "checked": "2026-11-16T20:09:40+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -169,7 +196,7 @@
   },
   "caja_mm": 45,
   "categoria": "smartwatch",
-  "checked": "2026-11-16T20:02:31+01:00",
+  "checked": "2026-11-16T20:09:40+01:00",
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
@@ -198,7 +225,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:31+01:00",
+  "checked": "2026-11-16T20:09:41+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -227,7 +254,7 @@
   },
   "caja_mm": 43.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:18+01:00",
+  "checked": "2026-11-16T20:09:13+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -235,11 +262,26 @@
    "https://www.oris.ch/en/watch/aquis-date/01-733-7730-4135-07-8-24-05peb",
    "https://en.maier.fr/watchmaking-jewelry-brands/oris/watches/aquis/aquis-date_01-733-7730-4135-07-8-24-05peb"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 2300.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "oris-aquis-date-01-733-7730-4135-07-8-24-05peb",
-  "images": {},
+  "images": {
+   "distribuidor": "https://product-manager.maier.fr/media/products/0c8efbec-2aec-43e9-91d0-d518a7f52b86/60852ceb-068a-4dc4-a794-51f32f10eedd/aquis-date_01-733-7730-4135-07-8-24-05peb-d1b98071"
+  },
   "name": "Aquis Date 43.5 mm (azul)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 2300.0
+   }
+  },
   "ref": "01 733 7730 4135-07 8 24 05PEB",
   "target": null,
   "tier": "Gama alta",
@@ -256,7 +298,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:18+01:00",
+  "checked": "2026-11-16T20:09:14+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -285,7 +327,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:18+01:00",
+  "checked": "2026-11-16T20:09:14+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -312,7 +354,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:21+01:00",
+  "checked": "2026-11-16T20:09:16+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -356,7 +398,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:21+01:00",
+  "checked": "2026-11-16T20:09:18+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -385,7 +427,7 @@
   },
   "caja_mm": 40.8,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:21+01:00",
+  "checked": "2026-11-16T20:09:19+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -414,7 +456,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:21+01:00",
+  "checked": "2026-11-16T20:09:20+01:00",
   "correa": "Piel (también brazalete)",
   "deals": [],
   "descartadas": [],
@@ -443,7 +485,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:21+01:00",
+  "checked": "2026-11-16T20:09:21+01:00",
   "correa": "Titanio (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -472,7 +514,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:21+01:00",
+  "checked": "2026-11-16T20:09:22+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -501,7 +543,7 @@
   },
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:21+01:00",
+  "checked": "2026-11-16T20:09:23+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -530,7 +572,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:21+01:00",
+  "checked": "2026-11-16T20:09:26+01:00",
   "correa": "Piel de caimán",
   "deals": [],
   "descartadas": [],
@@ -538,11 +580,26 @@
    "https://www.the1916company.com/watches/breitling/b01/ab0138211b1p1/",
    "https://www.watchesofswitzerland.com/en-int/collections/watches/products/breitling-navitimer-ab0138211b1p1-17532092"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 9500.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "breitling-navitimer-b01-ab0138211b1p1",
-  "images": {},
+  "images": {
+   "distribuidor": "https://product-manager.maier.fr/media/products/0a408d61-f358-468b-93a1-d494ec135dc4/3acea228-8fce-48e6-94b6-8fdfb0a4627e/navitimer-b01-chronograph-43_ab0138211b1p1-4aa82fd2"
+  },
   "name": "Navitimer B01 Chronograph 43 (negro)",
-  "prices": {},
+  "prices": {
+   "distribuidor": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 9500.0
+   }
+  },
   "ref": "AB0138211B1P1",
   "target": null,
   "tier": "Gama alta",
@@ -559,7 +616,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T20:02:21+01:00",
+  "checked": "2026-11-16T20:09:28+01:00",
   "correa": "Oystersteel (brazalete)",
   "deals": [],
   "descartadas": [],

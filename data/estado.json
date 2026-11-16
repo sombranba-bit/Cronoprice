@@ -1,27 +1,29 @@
 {
- "at": "2026-11-16T20:02:31+01:00",
+ "at": "2026-11-16T20:09:41+01:00",
  "revisados": 18,
  "tiendas": {
   "distribuidor": {
-   "ok": 1,
-   "bloqueada": 0,
-   "sin_precio": 0,
+   "ok": 4,
+   "bloqueada": 3,
+   "sin_precio": 4,
    "dudoso": 0,
-   "jsonld": 1
+   "jsonld": 4
+  },
+  "oficial": {
+   "ok": 2,
+   "bloqueada": 1,
+   "sin_precio": 2,
+   "dudoso": 0,
+   "jsonld": 2
   },
   "idealo": {
-   "ok": 1,
+   "ok": 2,
    "bloqueada": 0,
    "sin_precio": 0,
-   "dudoso": 2,
+   "dudoso": 1,
    "jsonld": 1,
+   "texto": 1,
    "ejemplos": [
-    {
-     "reloj": "casio-ga-2100-1a1er",
-     "precio": 85.41,
-     "referencia": null,
-     "metodo": "texto"
-    },
     {
      "reloj": "tissot-prx-t137-410-11-051-00",
      "precio": 269.0,
@@ -29,13 +31,6 @@
      "metodo": "texto"
     }
    ]
-  },
-  "oficial": {
-   "ok": 2,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 2
   }
  },
  "limpiados": {},

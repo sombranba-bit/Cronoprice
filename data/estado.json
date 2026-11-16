@@ -1,1 +1,30 @@
-{"at": null, "revisados": 0, "tiendas": {}, "limpiados": {}, "errores": [], "chollometro": null}
+{
+ "at": "2026-11-16T17:11:50+01:00",
+ "revisados": 6,
+ "tiendas": {
+  "idealo": {
+   "ok": 1,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 2,
+   "jsonld": 1,
+   "ejemplos": [
+    {
+     "reloj": "casio-ga-2100-1a1er",
+     "precio": 85.41,
+     "referencia": null,
+     "metodo": "texto"
+    },
+    {
+     "reloj": "tissot-prx-t137-410-11-051-00",
+     "precio": 269.0,
+     "referencia": null,
+     "metodo": "texto"
+    }
+   ]
+  }
+ },
+ "limpiados": {},
+ "errores": [],
+ "chollometro": "ok 27"
+}

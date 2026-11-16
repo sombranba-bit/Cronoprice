@@ -21,13 +21,15 @@ PROBE = {
     "rolex": "https://www.rolex.com/en/watches/submariner/m126610ln-0001",
     "sinn": "https://www.sinn.de/en/watches/104-st-sa-i-w.html",
     "seiko": "https://seikowatches.com/us-en/products/presage/srph93j1",
+    "seiko_ph": "https://www.seikowatches.com/ph-en/products/presage/srph93j1",
+    "watchesofswitzerland_tudor": "https://www.watchesofswitzerland.com/en-int/products/tudor-black-bay-m79030n-0001-40993201",
 }
 
 # Referencia que debe aparecer en la página, para saber si es la ficha correcta
 REF = {
     "tourneau": "SBGA413", "lepage": "H32475640", "maier": "310.30.42.50.01.001",
     "watchesofswitzerland": "126610LN", "the1916company": "M79030N", "tudor": "M79030N",
-    "omega": "310.30.42.50.01.001", "rolex": "126610LN", "sinn": "104", "seiko": "SRPH93J1",
+    "omega": "310.30.42.50.01.001", "rolex": "126610LN", "sinn": "104", "seiko": "SRPH93J1", "seiko_ph": "SRPH93J1", "watchesofswitzerland_tudor": "M79030N",
 }
 PRECIO = re.compile(r"(€|EUR|\$|£)\s?\d|\d[\d.,]*\s?(€|EUR)")
 GARANTIA = re.compile(r"garant|warranty|guarantee|papeles|certificat|certificate|papers", re.I)
@@ -39,6 +41,9 @@ for shop, url in PROBE.items():
         txt = r.text or ""
         ref = REF.get(shop)
         ref_ok = "-" if not ref else ("sí" if re.search(re.escape(ref).replace("\\.", "[.\\s-]?"), txt, re.I) else "no")
+        m = PRECIO.search(txt)
+        if m:
+            print("  snippet:", re.sub(r"\s+", " ", txt[max(0, m.start()-60):m.end()+40]), flush=True)
         print(shop, getattr(r, "status_code", "?"), len(txt),
               "ref:" + ref_ok,
               "precios:" + str(len(PRECIO.findall(txt))),

@@ -320,7 +320,9 @@
   "target": null,
   "tier": "Gama media",
   "tipo": "Buceo",
-  "urls": {},
+  "urls": {
+   "distribuidor": "https://en.maier.fr/watchmaking-jewelry-brands/mido/watches/ocean-star-200/ocean-star-200_m026-430-11-051-00"
+  },
   "verificada": true
  },
  {

@@ -8,7 +8,7 @@
   const main = $('#main');
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const eur = (n) => (n == null ? '—' : n.toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' €');
-  const SHOPS = { idealo: 'Idealo', oficial: 'Tienda oficial', eci: 'El Corte Inglés', amazon: 'Amazon' };
+  const SHOPS = { idealo: 'Idealo', oficial: 'Tienda oficial', distribuidor: 'Distribuidor', eci: 'El Corte Inglés', amazon: 'Amazon' };
   const shopName = (s) => SHOPS[s] || s;
   const store = (k) => { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch { return null; } };
   const save = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} };

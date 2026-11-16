@@ -131,6 +131,14 @@ def extract(page, ref, url):
     if own:
         p, _, _, st = min(own, key=lambda o: o[0])
         return p, st, "jsonld"
+    # Algunas tiendas (p. ej. Montredo) ponen la referencia en el título y no en la oferta:
+    # si el título o la descripción de la página la nombran, la primera oferta es este reloj.
+    cabecera = re.search(r"<title>(.*?)</title>", page, re.S | re.I)
+    descr = re.search(r'<meta name="description" content="([^"]*)"', page, re.I)
+    cab = " ".join(x.group(1) for x in (cabecera, descr) if x)
+    if offers and has_ref(htmllib.unescape(cab), ref):
+        p, _, _, st = offers[0]
+        return p, st, "jsonld-titulo"
     # Respaldo de texto: la referencia y, justo detrás, el primer precio en €
     txt = re.sub(r"<script.*?</script>|<style.*?</style>", " ", page, flags=re.S | re.I)
     txt = htmllib.unescape(re.sub(r"<[^>]+>", " ", txt))

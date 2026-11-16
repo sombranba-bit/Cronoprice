@@ -12,15 +12,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 # (clave, url, referencia que debe aparecer)
 FICHAS = [
-    ("rolex_uhrinstinkt", "https://www.uhrinstinkt.de/rolex-submariner-date-126610ln-z100038.html", "126610LN"),
-    ("garmin_pccomponentes", "https://www.pccomponentes.com/garmin-venu-3-reloj-smartwatch-45mm-bisel-acero-inoxidable-con-caja-y-correa-de-silicona-blanca", "010-02784-00"),
-    ("citizen_laguardajoiers", "https://laguardajoiers.com/en/bn0150-61e-citizen-promaster-divers-eco-drive.html", "BN0150-61E"),
-    ("sinn_sinnde", "https://www.sinn.de/en/watches/104-st-sa-i-w.html", "104.012"),
-    ("grandseiko_oficial", "https://www.grand-seiko.com/es-es/collections/sbga413g", "SBGA413"),
-    ("omega_wristler", "https://wristler.eu/es/relojes/221320-omega-speedmaster-professional-moonwatch", "310.30.42.50.01.001"),
-    ("hamilton_montredo", "https://www.montredo.com/products/hamilton-jazzmaster-automatic-blue-40mm-6-30589", "H32475640"),
-    ("hamilton_oficial_es", "https://www.hamiltonwatch.com/es-mx/h32475640-jazzmaster-auto.html", "H32475640"),
-    ("seiko_store_ie", "https://store.seiko.ie/collections/seiko/products/srph93j1", "SRPH93J1"),
+    ("montredo_0_sucia", "https://www.montredo.com/products/seiko-5-sports-automatic-green-42mm-2-35273?_pos=1&_sid=5c505206d&_ss=r", "SRPD63K1"),
+    ("montredo_0_limpia", "https://www.montredo.com/products/seiko-5-sports-automatic-green-42mm-2-35273", "SRPD63K1"),
+    ("montredo_1_sucia", "https://www.montredo.com/products/seiko-5-sports-automatic-black-40mm-2-35292?_pos=1&_sid=b7d678110&_ss=r", "SRPE55K1"),
+    ("montredo_1_limpia", "https://www.montredo.com/products/seiko-5-sports-automatic-black-40mm-2-35292", "SRPE55K1"),
+    ("montredo_2_sucia", "https://www.montredo.com/products/seiko-5-sports-automatic-black-39mm-2-35277?_pos=1&_sid=82850ba17&_ss=r", "SRPG27K1"),
+    ("montredo_2_limpia", "https://www.montredo.com/products/seiko-5-sports-automatic-black-39mm-2-35277", "SRPG27K1"),
+    ("montredo_3_sucia", "https://www.montredo.com/products/seiko-5-sports-automatic-blue-39mm-35278?_pos=1&_sid=99a55cbe3&_ss=r", "SRPG29K1"),
+    ("montredo_3_limpia", "https://www.montredo.com/products/seiko-5-sports-automatic-blue-39mm-35278", "SRPG29K1"),
 ]
 
 PRECIO = re.compile(r"\d[\d.\s]*\s?€|€\s?\d[\d.,]*|\d[\d.,]*\s?EUR", re.I)

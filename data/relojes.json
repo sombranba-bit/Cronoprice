@@ -1760,11 +1760,14 @@
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:05+01:00",
+  "checked": "2026-11-16T21:46:50+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1776,11 +1779,17 @@
     "d": "2026-11-16",
     "p": 306.9,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
+    "p": 330.0,
+    "s": "lepage"
    }
   ],
   "id": "seiko-srpd63k1",
   "images": {
-   "idealo": "https://cdn.idealo.com/folder/Product/6801/0/6801025/s11_produktbild_gross/seiko-5-sports-srpd63k1.jpg"
+   "idealo": "https://cdn.idealo.com/folder/Product/6801/0/6801025/s11_produktbild_gross/seiko-5-sports-srpd63k1.jpg",
+   "lepage": "https://www.lepage.fr/19612-home_default/montre-seiko-5-sports-automatique-cadran-vert-bracelet-acier-42-5-mm.jpg"
   },
   "name": "5 Sports SRPD63K1",
   "prices": {
@@ -1789,6 +1798,12 @@
     "d": "2026-11-16",
     "gh": true,
     "p": 306.9
+   },
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 330.0
    }
   },
   "ref": "SRPD63K1",
@@ -1796,17 +1811,22 @@
   "tier": "Gama media",
   "tipo": "Deportivo",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/6801025/seiko-5-sports-srpd63k1.html"
+   "idealo": "https://www.idealo.es/precios/6801025/seiko-5-sports-srpd63k1.html",
+   "lepage": "https://www.lepage.fr/en/6965-montre-seiko-5-sports-automatique-cadran-vert-bracelet-acier-42-5-mm-srpd63k1.html",
+   "montredo": "https://www.montredo.com/products/seiko-5-sports-automatic-green-42mm-2-35273?_pos=1&_sid=5c505206d&_ss=r"
   }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:09+01:00",
+  "checked": "2026-11-16T21:47:01+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1818,11 +1838,17 @@
     "d": "2026-11-16",
     "p": 290.5,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
+    "p": 250.75,
+    "s": "lepage"
    }
   ],
   "id": "seiko-srpe55k1",
   "images": {
-   "idealo": "https://cdn.idealo.com/folder/Product/201921/6/201921678/s11_produktbild_gross/seiko-sports-srpe55k1.jpg"
+   "idealo": "https://cdn.idealo.com/folder/Product/201921/6/201921678/s11_produktbild_gross/seiko-sports-srpe55k1.jpg",
+   "lepage": "https://www.lepage.fr/40794-home_default/montre-seiko-5-sports-automatique-cadran-noir-bracelet-acier-40-mm-srpe55k1.jpg"
   },
   "name": "5 Sports SRPE55K1",
   "prices": {
@@ -1831,6 +1857,12 @@
     "d": "2026-11-16",
     "gh": true,
     "p": 290.5
+   },
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 250.75
    }
   },
   "ref": "SRPE55K1",
@@ -1838,42 +1870,68 @@
   "tier": "Gama media",
   "tipo": "Deportivo",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/201921678/seiko-sports-srpe55k1.html"
+   "idealo": "https://www.idealo.es/precios/201921678/seiko-sports-srpe55k1.html",
+   "lepage": "https://www.lepage.fr/en/15801-montre-seiko-5-sports-automatique-cadran-noir-bracelet-acier-40-mm-srpe55k1-srpe55k1.html",
+   "montredo": "https://www.montredo.com/products/seiko-5-sports-automatic-black-40mm-2-35292?_pos=1&_sid=b7d678110&_ss=r"
   }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:11+01:00",
+  "checked": "2026-11-16T21:47:11+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 320.0,
+    "s": "lepage"
+   }
+  ],
   "id": "seiko-srpg27k1",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/40805-home_default/montre-seiko-5-military-automatique-cadran-noir-bracelet-acier-39-4-mm-srpg27k1.jpg"
+  },
   "name": "5 Sports SRPG27K1",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 320.0
+   }
+  },
   "ref": "SRPG27K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/15792-montre-seiko-5-military-automatique-cadran-noir-bracelet-acier-39-4-mm-srpg27k1-srpg27k1.html",
+   "montredo": "https://www.montredo.com/products/seiko-5-sports-automatic-black-39mm-2-35277?_pos=1&_sid=82850ba17&_ss=r"
+  }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:14+01:00",
+  "checked": "2026-11-16T21:47:22+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1885,11 +1943,17 @@
     "d": "2026-11-16",
     "p": 272.4,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
+    "p": 320.0,
+    "s": "lepage"
    }
   ],
   "id": "seiko-srpg29k1",
   "images": {
-   "idealo": "https://cdn.idealo.com/folder/Product/201476/2/201476272/s11_produktbild_gross/seiko-5-sports-srpg29k1.jpg"
+   "idealo": "https://cdn.idealo.com/folder/Product/201476/2/201476272/s11_produktbild_gross/seiko-5-sports-srpg29k1.jpg",
+   "lepage": "https://www.lepage.fr/40804-home_default/montre-seiko-5-military-automatique-cadran-bleu-bracelet-acier-39-4-mm-srpg29k1.jpg"
   },
   "name": "5 Sports SRPG29K1",
   "prices": {
@@ -1898,6 +1962,12 @@
     "d": "2026-11-16",
     "gh": true,
     "p": 272.4
+   },
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 320.0
    }
   },
   "ref": "SRPG29K1",
@@ -1905,42 +1975,68 @@
   "tier": "Gama media",
   "tipo": "Deportivo",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/201476272/seiko-5-sports-srpg29k1.html"
+   "idealo": "https://www.idealo.es/precios/201476272/seiko-5-sports-srpg29k1.html",
+   "lepage": "https://www.lepage.fr/en/15793-montre-seiko-5-military-automatique-cadran-bleu-bracelet-acier-39-4-mm-srpg29k1-srpg29k1.html",
+   "montredo": "https://www.montredo.com/products/seiko-5-sports-automatic-blue-39mm-35278?_pos=1&_sid=99a55cbe3&_ss=r"
   }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:16+01:00",
+  "checked": "2026-11-16T21:47:31+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 320.0,
+    "s": "lepage"
+   }
+  ],
   "id": "seiko-srpg39k1",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/40801-home_default/montre-seiko-5-military-automatique-cadran-bleu-bracelet-cuir-noir-39-4-mm-srpg39k1.jpg"
+  },
   "name": "5 Sports SRPG39K1",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 320.0
+   }
+  },
   "ref": "SRPG39K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/15796-montre-seiko-5-military-automatique-cadran-bleu-bracelet-cuir-noir-39-4-mm-srpg39k1-srpg39k1.html",
+   "montredo": "https://www.montredo.com/products/seiko-5-sports-automatic-blue-39mm-2-35276?_pos=1&_sid=0df804d57&_ss=r"
+  }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:18+01:00",
+  "checked": "2026-11-16T21:47:37+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1956,16 +2052,21 @@
   "target": null,
   "tier": "Gama media",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "montredo": "https://www.montredo.com/products/seiko-5-sports-automatic-black-43mm-35500?_pos=1&_sid=c6d3e0e84&_ss=r"
+  }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:22+01:00",
+  "checked": "2026-11-16T21:47:47+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1997,17 +2098,21 @@
   "tier": "Gama media",
   "tipo": "Buceo",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/202036719/seiko-5-sports-ssk003k1.html"
+   "idealo": "https://www.idealo.es/precios/202036719/seiko-5-sports-ssk003k1.html",
+   "montredo": "https://www.montredo.com/products/seiko-5-sports-automatic-blue-43mm-2-35862?_pos=1&_sid=399ac2c70&_ss=r"
   }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:26+01:00",
+  "checked": "2026-11-16T21:47:56+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2019,11 +2124,17 @@
     "d": "2026-11-16",
     "p": 436.1,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
+    "p": 490.0,
+    "s": "lepage"
    }
   ],
   "id": "seiko-ssk033k1",
   "images": {
-   "idealo": "https://cdn.idealo.com/folder/Product/204887/6/204887650/s11_produktbild_gross/seiko-5-sports-ssk033k1.jpg"
+   "idealo": "https://cdn.idealo.com/folder/Product/204887/6/204887650/s11_produktbild_gross/seiko-5-sports-ssk033k1.jpg",
+   "lepage": "https://www.lepage.fr/95187-home_default/seiko-5-skx-sports-gmt-automatic-white-dial-steel-bracelet-425-mm.jpg"
   },
   "name": "5 Sports SSK033K1",
   "prices": {
@@ -2032,6 +2143,12 @@
     "d": "2026-11-16",
     "gh": true,
     "p": 436.1
+   },
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 490.0
    }
   },
   "ref": "SSK033K1",
@@ -2039,17 +2156,21 @@
   "tier": "Gama media",
   "tipo": "Buceo",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/204887650/seiko-5-sports-ssk033k1.html"
+   "idealo": "https://www.idealo.es/precios/204887650/seiko-5-sports-ssk033k1.html",
+   "lepage": "https://www.lepage.fr/en/24504-seiko-5-skx-sports-gmt-automatic-white-dial-steel-bracelet-425-mm-ssk033k1.html"
   }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:30+01:00",
+  "checked": "2026-11-16T21:48:06+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2061,11 +2182,17 @@
     "d": "2026-11-16",
     "p": 511.29,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
+    "p": 490.0,
+    "s": "lepage"
    }
   ],
   "id": "seiko-ssk035k1",
   "images": {
-   "idealo": "https://cdn.idealo.com/folder/Product/204887/7/204887788/s11_produktbild_gross/seiko-5-sports-ssk035k1.jpg"
+   "idealo": "https://cdn.idealo.com/folder/Product/204887/7/204887788/s11_produktbild_gross/seiko-5-sports-ssk035k1.jpg",
+   "lepage": "https://www.lepage.fr/95193-home_default/seiko-5-skx-sports-gmt-automatic-green-dial-steel-bracelet-425-mm.jpg"
   },
   "name": "5 Sports SSK035K1",
   "prices": {
@@ -2074,6 +2201,12 @@
     "d": "2026-11-16",
     "gh": true,
     "p": 511.29
+   },
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 490.0
    }
   },
   "ref": "SSK035K1",
@@ -2081,42 +2214,66 @@
   "tier": "Gama media",
   "tipo": "Buceo",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/204887788/seiko-5-sports-ssk035k1.html"
+   "idealo": "https://www.idealo.es/precios/204887788/seiko-5-sports-ssk035k1.html",
+   "lepage": "https://www.lepage.fr/en/24505-seiko-5-skx-sports-gmt-automatic-green-dial-steel-bracelet-425-mm-ssk035k1.html"
   }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 36.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:32+01:00",
+  "checked": "2026-11-16T21:48:14+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-16",
+    "p": 320.0,
+    "s": "lepage"
+   }
+  ],
   "id": "seiko-srpj81k1",
-  "images": {},
+  "images": {
+   "lepage": "https://www.lepage.fr/59749-home_default/seiko-5-midfield-in-the-metal-automatic-black-dial-steel-bracelet-36-mm.jpg"
+  },
   "name": "5 Sports SRPJ81K1",
-  "prices": {},
+  "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 320.0
+   }
+  },
   "ref": "SRPJ81K1",
   "target": null,
   "tier": "Gama media",
   "tipo": "Deportivo",
-  "urls": {}
+  "urls": {
+   "lepage": "https://www.lepage.fr/en/19394-seiko-5-midfield-in-the-metal-automatic-black-dial-steel-bracelet-36-mm-srpj81k1.html"
+  }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:34+01:00",
+  "checked": "2026-11-16T21:48:20+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2137,11 +2294,14 @@
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:36+01:00",
+  "checked": "2026-11-16T21:48:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2162,11 +2322,14 @@
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:40+01:00",
+  "checked": "2026-11-16T21:48:37+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2178,11 +2341,17 @@
     "d": "2026-11-16",
     "p": 306.0,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-16",
+    "p": 450.0,
+    "s": "lepage"
    }
   ],
   "id": "seiko-srpl83k1",
   "images": {
-   "idealo": "https://cdn.idealo.com/folder/Product/206905/6/206905602/s11_produktbild_gross/seiko-5-sports-skx-series-srpl83k1.jpg"
+   "idealo": "https://cdn.idealo.com/folder/Product/206905/6/206905602/s11_produktbild_gross/seiko-5-sports-skx-series-srpl83k1.jpg",
+   "lepage": "https://www.lepage.fr/100658-home_default/seiko-5-sports-skx-redux-7002-automatic-blue-dial-steel-bracelet-425-mm.jpg"
   },
   "name": "5 Sports SRPL83K1",
   "prices": {
@@ -2191,6 +2360,12 @@
     "d": "2026-11-16",
     "gh": true,
     "p": 306.0
+   },
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-16",
+    "gh": true,
+    "p": 450.0
    }
   },
   "ref": "SRPL83K1",
@@ -2198,17 +2373,21 @@
   "tier": "Gama media",
   "tipo": "Deportivo",
   "urls": {
-   "idealo": "https://www.idealo.es/precios/206905602/seiko-5-sports-skx-series-srpl83k1.html"
+   "idealo": "https://www.idealo.es/precios/206905602/seiko-5-sports-skx-series-srpl83k1.html",
+   "lepage": "https://www.lepage.fr/en/25067-seiko-5-sports-skx-redux-7002-automatic-blue-dial-steel-bracelet-425-mm-srpl83k1.html"
   }
  },
  {
   "brand": "Seiko",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 40.8,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:41+01:00",
+  "checked": "2026-11-16T21:48:44+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2224,16 +2403,21 @@
   "target": null,
   "tier": "Gama media",
   "tipo": "Vestir",
-  "urls": {}
+  "urls": {
+   "montredo": "https://www.montredo.com/products/seiko-presage-automatic-blue-41mm-3-35230?_pos=1&_sid=6d8e1e0f4&_ss=r"
+  }
  },
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:45+01:00",
+  "checked": "2026-11-16T21:48:51+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2257,11 +2441,14 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:47+01:00",
+  "checked": "2026-11-16T21:48:58+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2283,11 +2470,14 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:49+01:00",
+  "checked": "2026-11-16T21:49:05+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2309,11 +2499,14 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:52+01:00",
+  "checked": "2026-11-16T21:49:13+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2337,11 +2530,14 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:54+01:00",
+  "checked": "2026-11-16T21:49:20+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2363,11 +2559,14 @@
  {
   "brand": "Casio",
   "buscado": {
-   "idealo": "2026-11-16"
+   "idealo": "2026-11-16",
+   "lepage": "2026-11-16",
+   "montredo": "2026-11-16",
+   "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:55+01:00",
+  "checked": "2026-11-16T21:49:26+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2393,7 +2592,7 @@
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:57+01:00",
+  "checked": "2026-11-16T21:49:26+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2419,7 +2618,7 @@
   },
   "caja_mm": 51,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:03:59+01:00",
+  "checked": "2026-11-16T21:49:26+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2445,7 +2644,7 @@
   },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:01+01:00",
+  "checked": "2026-11-16T21:49:26+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2471,7 +2670,7 @@
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:03+01:00",
+  "checked": "2026-11-16T21:49:26+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2497,7 +2696,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:05+01:00",
+  "checked": "2026-11-16T21:49:26+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2523,7 +2722,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:08+01:00",
+  "checked": "2026-11-16T21:49:27+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2551,7 +2750,7 @@
   },
   "caja_mm": 50,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:10+01:00",
+  "checked": "2026-11-16T21:49:27+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2577,7 +2776,7 @@
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:12+01:00",
+  "checked": "2026-11-16T21:49:27+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2603,7 +2802,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:14+01:00",
+  "checked": "2026-11-16T21:49:27+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2629,7 +2828,7 @@
   },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:16+01:00",
+  "checked": "2026-11-16T21:49:27+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2655,7 +2854,7 @@
   },
   "caja_mm": 51,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:17+01:00",
+  "checked": "2026-11-16T21:49:27+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2681,7 +2880,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:21+01:00",
+  "checked": "2026-11-16T21:49:27+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -2709,7 +2908,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:22+01:00",
+  "checked": "2026-11-16T21:49:27+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -2735,7 +2934,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:26+01:00",
+  "checked": "2026-11-16T21:49:28+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2763,7 +2962,7 @@
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:27+01:00",
+  "checked": "2026-11-16T21:49:28+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -2789,7 +2988,7 @@
   },
   "caja_mm": 56,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:29+01:00",
+  "checked": "2026-11-16T21:49:28+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2815,7 +3014,7 @@
   },
   "caja_mm": 53,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:32+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2843,7 +3042,7 @@
   },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:35+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2869,7 +3068,7 @@
   },
   "caja_mm": 55,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:37+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2895,7 +3094,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:39+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -2921,7 +3120,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:41+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2947,7 +3146,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:43+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -2973,7 +3172,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:45+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -2999,7 +3198,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:47+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3025,7 +3224,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:49+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3051,7 +3250,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:51+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -3077,7 +3276,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:53+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3103,7 +3302,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:55+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3129,7 +3328,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:57+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3155,7 +3354,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3179,7 +3378,7 @@
   "buscado": {},
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3203,7 +3402,7 @@
   "buscado": {},
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3227,7 +3426,7 @@
   "buscado": {},
   "caja_mm": 35,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3251,7 +3450,7 @@
   "buscado": {},
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3275,7 +3474,7 @@
   "buscado": {},
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -3299,7 +3498,7 @@
   "buscado": {},
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3323,7 +3522,7 @@
   "buscado": {},
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -3347,7 +3546,7 @@
   "buscado": {},
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3371,7 +3570,7 @@
   "buscado": {},
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3395,7 +3594,7 @@
   "buscado": {},
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:04:58+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3421,7 +3620,7 @@
   },
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:24:14+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3447,7 +3646,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:24:16+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3473,7 +3672,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:24:18+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3499,7 +3698,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:24:20+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3525,7 +3724,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:24:23+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3551,7 +3750,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:24:25+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3577,7 +3776,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:24:27+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3603,7 +3802,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:24:29+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3629,7 +3828,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:24:32+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -3655,7 +3854,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-16T21:24:34+01:00",
+  "checked": "2026-11-16T21:49:29+01:00",
   "correa": "Titanio",
   "deals": [],
   "descartadas": [],

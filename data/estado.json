@@ -1,6 +1,6 @@
 {
- "at": "2026-11-16T17:17:03+01:00",
- "revisados": 6,
+ "at": "2026-11-16T18:11:01+01:00",
+ "revisados": 18,
  "tiendas": {
   "idealo": {
    "ok": 1,
@@ -26,5 +26,5 @@
  },
  "limpiados": {},
  "errores": [],
- "chollometro": "ok 27"
+ "chollometro": "ok 28"
 }

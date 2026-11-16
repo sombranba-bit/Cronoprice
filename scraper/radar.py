@@ -250,8 +250,11 @@ def make_session():
 # Búsquedas desde GitHub. Cada tienda se activa solo si diagnostico.py confirma que deja entrar.
 SEARCH = {
     "idealo": "https://www.idealo.es/resultados.html?q={q}",
+    "montredo": "https://www.montredo.com/search?q={q}",
+    "lepage": "https://www.lepage.fr/en/search?controller=search&s={q}",
+    "zapatajoyeros": "https://www.zapatajoyeros.com/es/busqueda?s={q}",
 }
-SKIP_PATH = re.compile(r"/search|/buscar|resultados|/c/|/brands?/|/marcas?/|/categor|login|cart|wishlist|\.(?:css|js|png|jpg|svg|webp)", re.I)
+SKIP_PATH = re.compile(r"/search|/buscar|busqueda|recherche|resultados|\?s=|/c/|/brands?/|/marcas?/|/categor|login|cart|wishlist|\.(?:css|js|png|jpg|svg|webp)", re.I)
 
 
 def best_link(page, base, it):

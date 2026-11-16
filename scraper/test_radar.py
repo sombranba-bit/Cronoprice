@@ -72,3 +72,28 @@ assert R.product_image(ld({"@type": "Product", "name": "X", "image": ["https://c
 assert R.product_image('<meta property="og:image" content="https://cdn.idealo.com/images/product/1/g.jpg">') is None
 
 print("OK: pruebas del lector superadas")
+
+
+# 12. Idealo: las ofertas se leen aunque el precio principal sea dudoso (texto sin referencia de comparación)
+def _test_ofertas_con_precio_dudoso():
+    import datetime as _dt
+
+    class _R:
+        def __init__(self, text):
+            self.status_code = 200
+            self.text = text
+
+    R.IDEALO_SHOPS.update({"333": "tienda-c"})
+    pagina = ('<p>Reloj Casio GA-2100-1A1ER · 85,41 €</p>'
+              '<li class="productOffers-listItem x"><a href="/relocator/relocate?price=95.00&sid=333">'
+              '<span class="productOffers-listItemTitle">Casio GA-2100-1A1ER G-Shock</span></a></li>')
+    it = {"id": "casio", "brand": "Casio", "ref": "GA-2100-1A1ER", "urls": {"idealo": "https://www.idealo.es/p/x"},
+          "prices": {}, "history": []}
+    hoy = _dt.date.today().isoformat()
+    R.update_item(it, lambda u: _R(pagina), {}, hoy)
+    assert it["prices"].get("tienda-c", {}).get("p") == 95.0, it["prices"]
+    assert "idealo" not in it["prices"], "el precio dudoso de texto no debe guardarse"
+
+
+_test_ofertas_con_precio_dudoso()
+print("OK: ofertas de Idealo con precio dudoso")

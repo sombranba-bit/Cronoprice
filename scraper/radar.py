@@ -323,6 +323,19 @@ def update_item(it, get, stats, today):
             continue
         p, stock, how = extract(r.text, it["ref"], url)
         ref = ref_price(prices, shop)
+        if shop == "idealo":
+            # las ofertas de la página de Idealo se leen aunque el precio principal se descarte
+            for sid, vp in idealo_offers(r.text, it["ref"]).items():
+                own = prices.get(sid) or {}
+                if own.get("d") == today and not own.get("via"):
+                    continue                          # ya leída hoy en la propia tienda
+                if not plausible(vp, ref_price(prices, sid), "jsonld"):
+                    continue
+                vs = stats.setdefault(sid, {"ok": 0, "bloqueada": 0, "sin_precio": 0, "dudoso": 0})
+                vs["via_idealo"] = vs.get("via_idealo", 0) + 1
+                prices[sid] = {"p": round(vp, 2), "d": today, "auto": True, "gh": True, "via": "idealo"}
+                hist[:] = [h for h in hist if not (h.get("d") == today and h.get("s") == sid)]
+                hist.append({"d": today, "s": sid, "p": round(vp, 2)})
         ok = bool(p) and plausible(p, ref, how, shop)
         if not p:
             st["sin_precio"] += 1
@@ -335,18 +348,6 @@ def update_item(it, get, stats, today):
             continue
         st["ok"] += 1
         st[how] = st.get(how, 0) + 1
-        if shop == "idealo":
-            for sid, vp in idealo_offers(r.text, it["ref"]).items():
-                own = prices.get(sid) or {}
-                if own.get("d") == today and not own.get("via"):
-                    continue                          # ya leída hoy en la propia tienda
-                if not plausible(vp, ref_price(prices, sid), "jsonld"):
-                    continue
-                vs = stats.setdefault(sid, {"ok": 0, "bloqueada": 0, "sin_precio": 0, "dudoso": 0})
-                vs["via_idealo"] = vs.get("via_idealo", 0) + 1
-                prices[sid] = {"p": round(vp, 2), "d": today, "auto": True, "gh": True, "via": "idealo"}
-                hist[:] = [h for h in hist if not (h.get("d") == today and h.get("s") == sid)]
-                hist.append({"d": today, "s": sid, "p": round(vp, 2)})
         pic = product_image(r.text)
         if pic:
             it.setdefault("images", {})[shop] = pic[:500]

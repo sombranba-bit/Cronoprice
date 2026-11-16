@@ -1,49 +1,55 @@
 {
- "at": "2026-11-16T23:25:00+01:00",
+ "at": "2026-11-17T00:19:37+01:00",
  "revisados": 70,
  "tiendas": {
-  "planetarelojes": {
-   "ok": 11,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 11
-  },
-  "montredo": {
-   "ok": 20,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld-titulo": 20
-  },
-  "lepage": {
-   "ok": 18,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 18
-  },
   "idealo": {
-   "ok": 18,
+   "ok": 8,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
    "jsonld-titulo": 6,
-   "jsonld": 12
-  },
-  "distribuidor": {
-   "ok": 7,
-   "bloqueada": 3,
-   "sin_precio": 3,
-   "dudoso": 0,
-   "jsonld": 7
-  },
-  "oficial": {
-   "ok": 2,
-   "bloqueada": 1,
-   "sin_precio": 1,
-   "dudoso": 0,
    "jsonld": 2
+  },
+  "planetarelojes": {
+   "ok": 10,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 10
+  },
+  "lepage": {
+   "ok": 14,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 3,
+   "jsonld": 14,
+   "ejemplos": [
+    {
+     "reloj": "breitling-ab3110241b1a1",
+     "precio": 6700.0,
+     "referencia": 4445.38,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3111161c1a1",
+     "precio": 6700.0,
+     "referencia": 4277.31,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3113171l1a1",
+     "precio": 6000.0,
+     "referencia": 3705.88,
+     "metodo": "jsonld"
+    }
+   ]
+  },
+  "montredo": {
+   "ok": 22,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld-titulo": 22
   }
  },
  "limpiados": {},

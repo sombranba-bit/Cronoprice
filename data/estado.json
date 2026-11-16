@@ -1,10 +1,10 @@
 {
- "at": "2026-11-16T20:09:41+01:00",
+ "at": "2026-11-16T20:16:44+01:00",
  "revisados": 18,
  "tiendas": {
   "distribuidor": {
    "ok": 4,
-   "bloqueada": 3,
+   "bloqueada": 4,
    "sin_precio": 4,
    "dudoso": 0,
    "jsonld": 4
@@ -12,7 +12,7 @@
   "oficial": {
    "ok": 2,
    "bloqueada": 1,
-   "sin_precio": 2,
+   "sin_precio": 1,
    "dudoso": 0,
    "jsonld": 2
   },

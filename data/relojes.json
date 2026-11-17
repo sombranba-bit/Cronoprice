@@ -721,7 +721,11 @@
   "checked": "2026-11-17T16:23:41+01:00",
   "correa": "Piel",
   "deals": [],
-  "descartadas": [],
+  "descartadas": [
+   {
+    "motivo": "ficha lepage 404 verificada 2026-11-17"
+   }
+  ],
   "fuentes": [
    "https://lepage.fr/en/10093-hamilton-jazzmaster-gent-automatic-watch-blue-dial-blue-leather-strap-40-mm-h32475640.html",
    "https://en.maier.fr/watchmaking-jewelry-brands/hamilton/watches/jazzmaster/auto_h32475640"
@@ -749,12 +753,6 @@
   },
   "name": "Jazzmaster Auto 40 mm (azul)",
   "prices": {
-   "distribuidor": {
-    "d": "2026-11-16",
-    "manual": true,
-    "p": 1025.0,
-    "src": "https://lepage.fr/en/10093-hamilton-jazzmaster-gent-automatic-watch-blue-dial-blue-leather-strap-40-mm-h32475640.html"
-   },
    "montredo": {
     "auto": true,
     "d": "2026-11-17",
@@ -1240,10 +1238,16 @@
   "name": "Submariner Date 41 mm (Oystersteel, negro)",
   "prices": {
    "distribuidor": {
-    "d": "2026-11-16",
+    "d": "2026-11-17",
     "manual": true,
-    "p": 11000.0,
-    "src": "https://www.weirandsons.ie/m126610ln-0001.html"
+    "p": 11300.0,
+    "src": "https://weirandsons.ie/m126610ln-0001.html"
+   },
+   "quera": {
+    "d": "2026-11-17",
+    "manual": true,
+    "p": 11100.0,
+    "src": "https://quera.es/en/rolex/rolex-watches/submariner/m126610ln-0001"
    }
   },
   "ref": "126610LN",
@@ -1251,7 +1255,8 @@
   "tier": "Gama alta",
   "tipo": "Buceo",
   "urls": {
-   "distribuidor": "https://www.weirandsons.ie/m126610ln-0001.html"
+   "distribuidor": "https://weirandsons.ie/m126610ln-0001.html",
+   "quera": "https://quera.es/en/rolex/rolex-watches/submariner/m126610ln-0001"
   },
   "verificada": true
  },

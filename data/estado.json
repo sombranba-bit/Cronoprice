@@ -1,57 +1,55 @@
 {
- "at": "2026-11-17T12:03:41+01:00",
+ "at": "2026-11-17T12:53:48+01:00",
  "revisados": 70,
  "tiendas": {
-  "montredo": {
-   "ok": 26,
+  "planetarelojes": {
+   "ok": 8,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
-   "jsonld-titulo": 26
+   "jsonld": 8
   },
   "idealo": {
-   "ok": 19,
+   "ok": 8,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
-   "jsonld-titulo": 7,
-   "jsonld": 12
-  },
-  "planetarelojes": {
-   "ok": 30,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 30
+   "jsonld-titulo": 6,
+   "jsonld": 2
   },
   "lepage": {
-   "ok": 24,
+   "ok": 13,
    "bloqueada": 0,
    "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 24
-  },
-  "distribuidor": {
-   "ok": 6,
-   "bloqueada": 4,
-   "sin_precio": 2,
-   "dudoso": 1,
+   "dudoso": 4,
+   "jsonld": 13,
    "ejemplos": [
     {
-     "reloj": "oris-aquis-date-01-733-7730-4135-07-8-24-05peb",
-     "precio": 2300.0,
-     "referencia": 1462.18,
+     "reloj": "breitling-ab3110241b1a1",
+     "precio": 6700.0,
+     "referencia": 4445.38,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3111161c1a1",
+     "precio": 6700.0,
+     "referencia": 4277.31,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3113171l1a1",
+     "precio": 6000.0,
+     "referencia": 3705.88,
      "metodo": "jsonld"
     }
-   ],
-   "jsonld": 6
+   ]
   },
-  "oficial": {
-   "ok": 2,
-   "bloqueada": 1,
-   "sin_precio": 1,
+  "montredo": {
+   "ok": 7,
+   "bloqueada": 19,
+   "sin_precio": 0,
    "dudoso": 0,
-   "jsonld": 2
+   "jsonld-titulo": 7
   }
  },
  "limpiados": {},

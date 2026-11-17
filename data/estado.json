@@ -1,18 +1,60 @@
 {
- "at": "2026-11-17T16:27:10+01:00",
+ "at": "2026-11-17T17:31:33+01:00",
  "revisados": 70,
  "tiendas": {
   "lepage": {
-   "ok": 22,
+   "ok": 17,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 4,
+   "jsonld": 17,
+   "ejemplos": [
+    {
+     "reloj": "breitling-ab3110241b1a1",
+     "precio": 6700.0,
+     "referencia": 4445.38,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3111161c1a1",
+     "precio": 6700.0,
+     "referencia": 4277.31,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3113171l1a1",
+     "precio": 6000.0,
+     "referencia": 3705.88,
+     "metodo": "jsonld"
+    }
+   ]
+  },
+  "montredo": {
+   "ok": 8,
+   "bloqueada": 27,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld-titulo": 8
+  },
+  "planetarelojes": {
+   "ok": 10,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
-   "jsonld": 22
+   "jsonld": 10
+  },
+  "idealo": {
+   "ok": 5,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 2,
+   "jsonld-titulo": 3
   },
   "distribuidor": {
-   "ok": 6,
-   "bloqueada": 3,
-   "sin_precio": 3,
+   "ok": 3,
+   "bloqueada": 0,
+   "sin_precio": 2,
    "dudoso": 1,
    "ejemplos": [
     {
@@ -22,36 +64,13 @@
      "metodo": "jsonld"
     }
    ],
-   "jsonld": 6
-  },
-  "montredo": {
-   "ok": 21,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld-titulo": 21
+   "jsonld": 3
   },
   "oficial": {
-   "ok": 2,
+   "ok": 0,
    "bloqueada": 1,
    "sin_precio": 1,
-   "dudoso": 0,
-   "jsonld": 2
-  },
-  "idealo": {
-   "ok": 20,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 12,
-   "jsonld-titulo": 8
-  },
-  "planetarelojes": {
-   "ok": 26,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 26
+   "dudoso": 0
   }
  },
  "limpiados": {},

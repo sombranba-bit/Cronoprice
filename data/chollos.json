@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": 2074192,
+   "t": "Omega Speedmaster Moonwatch Professional 42mm",
+   "p": 6030.0,
+   "shop": "Montredo",
+   "url": "https://www.chollometro.com/share-deal/2074192",
+   "expired": false,
+   "seen": "2026-11-17"
+  },
+  {
    "id": 2072644,
    "t": "Reloj Citizen Eco-Drive Promaster Air Navihawk (Cronógrafo Solar, Cristal de Zafiro, Acero, WR 200m, Dial Salmón)",
    "p": 239.95,
@@ -298,5 +307,5 @@
    "seen": "2026-11-16"
   }
  ],
- "updated": "2026-11-17T17:31:35+01:00"
+ "updated": "2026-11-17T18:40:15+01:00"
 }

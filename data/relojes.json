@@ -5510,13 +5510,19 @@
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://www.larrabe.com/en/seiko-presage/17214-seiko-presage-style-60-s-4r35-light-green-watch-395mm-srpl71j1-8434103519190.html"
+   "https://www.larrabe.com/en/seiko-presage/17214-seiko-presage-style-60-s-4r35-light-green-watch-395mm-srpl71j1-8434103519190.html",
+   "https://joieriagrau.com/en/watches/seiko/8510-reloj-seiko-presage-automatico-con-esfera-verde.html"
   ],
   "history": [
    {
     "d": "2026-11-17",
     "p": 650.0,
     "s": "distribuidor"
+   },
+   {
+    "d": "2026-11-17",
+    "p": 650.0,
+    "s": "joieriagrau"
    }
   ],
   "id": "seiko-srpl71j1",
@@ -5528,6 +5534,12 @@
     "manual": true,
     "p": 650.0,
     "src": "https://www.larrabe.com/en/seiko-presage/17214-seiko-presage-style-60-s-4r35-light-green-watch-395mm-srpl71j1-8434103519190.html"
+   },
+   "joieriagrau": {
+    "d": "2026-11-17",
+    "manual": true,
+    "p": 650.0,
+    "src": "https://joieriagrau.com/en/watches/seiko/8510-reloj-seiko-presage-automatico-con-esfera-verde.html"
    }
   },
   "ref": "SRPL71J1",
@@ -5535,7 +5547,8 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "distribuidor": "https://www.larrabe.com/en/seiko-presage/17214-seiko-presage-style-60-s-4r35-light-green-watch-395mm-srpl71j1-8434103519190.html"
+   "distribuidor": "https://www.larrabe.com/en/seiko-presage/17214-seiko-presage-style-60-s-4r35-light-green-watch-395mm-srpl71j1-8434103519190.html",
+   "joieriagrau": "https://joieriagrau.com/en/watches/seiko/8510-reloj-seiko-presage-automatico-con-esfera-verde.html"
   },
   "verificada": true
  },

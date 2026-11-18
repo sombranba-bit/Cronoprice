@@ -1,70 +1,66 @@
 {
- "at": "2026-11-18T15:31:42+01:00",
+ "at": "2026-11-18T16:31:22+01:00",
  "revisados": 70,
  "tiendas": {
-  "montredo": {
-   "ok": 9,
-   "bloqueada": 23,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld-titulo": 9
-  },
-  "lepage": {
-   "ok": 20,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 1,
-   "ejemplos": [
-    {
-     "reloj": "omega-131.30.41.21.99.001",
-     "precio": 10700.0,
-     "referencia": 6722.69,
-     "metodo": "jsonld"
-    }
-   ],
-   "jsonld": 20
-  },
-  "planetarelojes": {
-   "ok": 17,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 17
-  },
   "idealo": {
-   "ok": 12,
+   "ok": 13,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
    "jsonld": 7,
-   "jsonld-titulo": 5
+   "jsonld-titulo": 6
   },
-  "distribuidor": {
-   "ok": 6,
-   "bloqueada": 3,
-   "sin_precio": 3,
-   "dudoso": 1,
+  "lepage": {
+   "ok": 19,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 4,
+   "jsonld": 19,
    "ejemplos": [
     {
-     "reloj": "oris-aquis-date-01-733-7730-4135-07-8-24-05peb",
-     "precio": 2300.0,
-     "referencia": 1462.18,
+     "reloj": "breitling-ab3110241b1a1",
+     "precio": 6700.0,
+     "referencia": 4445.38,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3111161c1a1",
+     "precio": 6700.0,
+     "referencia": 4277.31,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3113171l1a1",
+     "precio": 6000.0,
+     "referencia": 3705.88,
      "metodo": "jsonld"
     }
-   ],
-   "jsonld": 6
+   ]
   },
-  "oficial": {
-   "ok": 2,
-   "bloqueada": 1,
-   "sin_precio": 1,
+  "montredo": {
+   "ok": 25,
+   "bloqueada": 0,
+   "sin_precio": 0,
    "dudoso": 0,
-   "jsonld": 2
+   "jsonld-titulo": 25
   },
-  "quera": {
+  "planetarelojes": {
+   "ok": 20,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 20
+  },
+  "distribuidor": {
    "ok": 0,
    "bloqueada": 1,
    "sin_precio": 0,
+   "dudoso": 0
+  },
+  "joieriagrau": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
    "dudoso": 0
   }
  },

@@ -91,7 +91,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:14+01:00",
+  "checked": "2026-11-18T17:35:44+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -766,7 +766,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:42+01:00",
+  "checked": "2026-11-18T17:37:55+01:00",
   "correa": "Piel de caimán",
   "deals": [],
   "descartadas": [],
@@ -807,11 +807,6 @@
    },
    {
     "d": "2026-11-18",
-    "p": 6462.18,
-    "s": "montredo"
-   },
-   {
-    "d": "2026-11-18",
     "p": 9500.0,
     "s": "distribuidor"
    },
@@ -819,6 +814,11 @@
     "d": "2026-11-18",
     "p": 9500.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-18",
+    "p": 6462.18,
+    "s": "montredo"
    }
   ],
   "id": "breitling-navitimer-b01-ab0138211b1p1",
@@ -870,7 +870,7 @@
   },
   "caja_mm": 45,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:08+01:00",
+  "checked": "2026-11-18T17:36:56+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -924,7 +924,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:17+01:00",
+  "checked": "2026-11-18T17:37:15+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -967,7 +967,7 @@
   },
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:47+01:00",
+  "checked": "2026-11-18T17:36:32+01:00",
   "correa": "Acero",
   "deals": [],
   "descartadas": [],
@@ -1030,7 +1030,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:14+01:00",
+  "checked": "2026-11-18T17:35:44+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1057,7 +1057,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-18T16:29:33+01:00",
+  "checked": "2026-11-18T17:39:47+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1117,7 +1117,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:47+01:00",
+  "checked": "2026-11-18T17:36:32+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1144,7 +1144,7 @@
   },
   "caja_mm": 33,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:14+01:00",
+  "checked": "2026-11-18T17:35:44+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1171,7 +1171,7 @@
   },
   "caja_mm": 51,
   "categoria": "clasico",
-  "checked": "2026-11-18T16:29:24+01:00",
+  "checked": "2026-11-18T17:39:36+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1201,7 +1201,7 @@
   },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": "2026-11-18T16:29:24+01:00",
+  "checked": "2026-11-18T17:39:36+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -1231,7 +1231,7 @@
   },
   "caja_mm": null,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:53+01:00",
+  "checked": "2026-11-18T17:38:11+01:00",
   "correa": null,
   "deals": [],
   "descartadas": [],
@@ -2150,7 +2150,7 @@
   },
   "caja_mm": 42.8,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:43+01:00",
+  "checked": "2026-11-18T17:36:29+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2178,7 +2178,7 @@
    },
    {
     "d": "2026-11-18",
-    "p": 109.29,
+    "p": 111.99,
     "s": "idealo"
    },
    {
@@ -2198,7 +2198,7 @@
     "auto": true,
     "d": "2026-11-18",
     "gh": true,
-    "p": 109.29
+    "p": 111.99
    },
    "planetarelojes": {
     "auto": true,
@@ -2257,7 +2257,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:17+01:00",
+  "checked": "2026-11-18T17:35:51+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -2299,7 +2299,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:47+01:00",
+  "checked": "2026-11-18T17:36:32+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -2326,7 +2326,7 @@
   },
   "caja_mm": 49.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:24+01:00",
+  "checked": "2026-11-18T17:36:05+01:00",
   "correa": "Titanio",
   "deals": [],
   "descartadas": [],
@@ -2415,7 +2415,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:17+01:00",
+  "checked": "2026-11-18T17:35:51+01:00",
   "correa": "Titanio",
   "deals": [],
   "descartadas": [],
@@ -2445,7 +2445,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:37+01:00",
+  "checked": "2026-11-18T17:36:17+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2476,7 +2476,7 @@
    },
    {
     "d": "2026-11-18",
-    "p": 326.39,
+    "p": 328.6,
     "s": "idealo"
    },
    {
@@ -2496,7 +2496,7 @@
     "auto": true,
     "d": "2026-11-18",
     "gh": true,
-    "p": 326.39
+    "p": 328.6
    },
    "lepage": {
     "auto": true,
@@ -2525,7 +2525,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:17+01:00",
+  "checked": "2026-11-18T17:38:31+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2581,7 +2581,7 @@
   },
   "caja_mm": 45,
   "categoria": "smartwatch",
-  "checked": "2026-11-18T15:29:39+01:00",
+  "checked": "2026-11-18T17:36:21+01:00",
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
@@ -2637,7 +2637,7 @@
   },
   "caja_mm": 41,
   "categoria": "smartwatch",
-  "checked": "2026-11-18T15:30:10+01:00",
+  "checked": "2026-11-18T17:36:58+01:00",
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
@@ -2691,7 +2691,7 @@
   },
   "caja_mm": 47,
   "categoria": "smartwatch",
-  "checked": "2026-11-18T15:30:10+01:00",
+  "checked": "2026-11-18T17:36:58+01:00",
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
@@ -2718,7 +2718,7 @@
   },
   "caja_mm": 45,
   "categoria": "smartwatch",
-  "checked": "2026-11-18T15:31:15+01:00",
+  "checked": "2026-11-18T17:38:29+01:00",
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
@@ -2783,7 +2783,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:28+01:00",
+  "checked": "2026-11-18T17:37:35+01:00",
   "correa": "Titanio (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2819,13 +2819,13 @@
    },
    {
     "d": "2026-11-18",
-    "p": 4915.97,
-    "s": "montredo"
+    "p": 7500.0,
+    "s": "lepage"
    },
    {
     "d": "2026-11-18",
-    "p": 7500.0,
-    "s": "lepage"
+    "p": 4915.97,
+    "s": "montredo"
    }
   ],
   "id": "grand-seiko-sbga413",
@@ -2876,7 +2876,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:39+01:00",
+  "checked": "2026-11-18T17:36:25+01:00",
   "correa": "Titanio (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2957,7 +2957,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:14+01:00",
+  "checked": "2026-11-18T17:35:49+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -2978,13 +2978,13 @@
    },
    {
     "d": "2026-11-18",
-    "p": 689.08,
-    "s": "montredo"
+    "p": 1025.0,
+    "s": "lepage"
    },
    {
     "d": "2026-11-18",
-    "p": 1025.0,
-    "s": "lepage"
+    "p": 689.08,
+    "s": "montredo"
    }
   ],
   "id": "hamilton-h32475520",
@@ -3079,7 +3079,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:14+01:00",
+  "checked": "2026-11-18T17:35:49+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3109,7 +3109,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:12+01:00",
+  "checked": "2026-11-18T17:35:42+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3130,13 +3130,13 @@
    },
    {
     "d": "2026-11-18",
-    "p": 806.72,
-    "s": "montredo"
+    "p": 1145.0,
+    "s": "lepage"
    },
    {
     "d": "2026-11-18",
-    "p": 1145.0,
-    "s": "lepage"
+    "p": 806.72,
+    "s": "montredo"
    }
   ],
   "id": "hamilton-h32675540",
@@ -3179,7 +3179,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:23+01:00",
+  "checked": "2026-11-18T17:37:24+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [
@@ -3247,7 +3247,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:13+01:00",
+  "checked": "2026-11-18T17:38:27+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3323,7 +3323,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:14+01:00",
+  "checked": "2026-11-18T17:37:11+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -3354,13 +3354,13 @@
    },
    {
     "d": "2026-11-18",
-    "p": 1647.06,
-    "s": "montredo"
+    "p": 2450.0,
+    "s": "distribuidor"
    },
    {
     "d": "2026-11-18",
-    "p": 2450.0,
-    "s": "distribuidor"
+    "p": 1647.06,
+    "s": "montredo"
    }
   ],
   "id": "longines-spirit-l3-810-4-53-0",
@@ -3404,7 +3404,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:20+01:00",
+  "checked": "2026-11-18T17:37:19+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3435,13 +3435,13 @@
    },
    {
     "d": "2026-11-18",
-    "p": 731.09,
-    "s": "montredo"
+    "p": 1040.0,
+    "s": "distribuidor"
    },
    {
     "d": "2026-11-18",
-    "p": 1040.0,
-    "s": "distribuidor"
+    "p": 731.09,
+    "s": "montredo"
    }
   ],
   "id": "mido-ocean-star-200-m026-430-11-051-00",
@@ -3702,7 +3702,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:47+01:00",
+  "checked": "2026-11-18T17:36:35+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3726,7 +3726,7 @@
   ],
   "id": "omega-210.30.42.20.01.001",
   "images": {
-   "montredo": "https://www.montredo.com/cdn/shop/files/Omega-SeamasterDiver-21030422001001-29651-RP-1.png?v=1784294675&width=1920"
+   "montredo": "https://www.montredo.com/cdn/shop/files/Omega-Diver_300M-210.30.42.20.01.001-29651-NP-1.webp?v=1795005238&width=1920"
   },
   "name": "Seamaster Diver 300M",
   "prices": {
@@ -3808,7 +3808,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:32+01:00",
+  "checked": "2026-11-18T17:37:42+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3844,13 +3844,13 @@
    },
    {
     "d": "2026-11-18",
-    "p": 4983.19,
-    "s": "montredo"
+    "p": 7600.0,
+    "s": "lepage"
    },
    {
     "d": "2026-11-18",
-    "p": 7600.0,
-    "s": "lepage"
+    "p": 4983.19,
+    "s": "montredo"
    }
   ],
   "id": "omega-speedmaster-moonwatch-310-30-42-50-01-001",
@@ -3901,7 +3901,7 @@
   },
   "caja_mm": 43.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:12+01:00",
+  "checked": "2026-11-18T17:37:05+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -3972,7 +3972,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:37+01:00",
+  "checked": "2026-11-18T17:36:19+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4053,7 +4053,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:27+01:00",
+  "checked": "2026-11-18T17:36:07+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4092,7 +4092,7 @@
   },
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:29+01:00",
+  "checked": "2026-11-18T17:36:10+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4146,7 +4146,7 @@
   },
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:32+01:00",
+  "checked": "2026-11-18T17:36:13+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4200,7 +4200,7 @@
   },
   "caja_mm": 39.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:17+01:00",
+  "checked": "2026-11-18T17:38:31+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4230,7 +4230,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:17+01:00",
+  "checked": "2026-11-18T17:38:31+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4260,7 +4260,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:17+01:00",
+  "checked": "2026-11-18T17:38:31+01:00",
   "correa": "Oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4290,7 +4290,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:17+01:00",
+  "checked": "2026-11-18T17:35:54+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4344,7 +4344,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:19+01:00",
+  "checked": "2026-11-18T17:35:57+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4398,7 +4398,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:19+01:00",
+  "checked": "2026-11-18T17:35:59+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4425,7 +4425,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:17+01:00",
+  "checked": "2026-11-18T17:38:31+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4455,7 +4455,7 @@
   },
   "caja_mm": 31,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:17+01:00",
+  "checked": "2026-11-18T17:38:33+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4507,7 +4507,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:43+01:00",
+  "checked": "2026-11-18T17:37:56+01:00",
   "correa": "Oystersteel (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4657,7 +4657,7 @@
   },
   "caja_mm": 40.8,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:23+01:00",
+  "checked": "2026-11-18T17:37:29+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4727,7 +4727,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:49+01:00",
+  "checked": "2026-11-18T17:36:37+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4766,7 +4766,7 @@
   },
   "caja_mm": 45,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:52+01:00",
+  "checked": "2026-11-18T17:36:39+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4805,7 +4805,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:28+01:00",
+  "checked": "2026-11-18T17:38:47+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4840,11 +4840,6 @@
    },
    {
     "d": "2026-11-18",
-    "p": 260.5,
-    "s": "montredo"
-   },
-   {
-    "d": "2026-11-18",
     "p": 245.0,
     "s": "idealo"
    },
@@ -4852,6 +4847,11 @@
     "d": "2026-11-18",
     "p": 320.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-18",
+    "p": 260.5,
+    "s": "montredo"
    },
    {
     "d": "2026-11-18",
@@ -4915,7 +4915,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:30+01:00",
+  "checked": "2026-11-18T17:38:48+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4956,7 +4956,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:36+01:00",
+  "checked": "2026-11-18T17:38:57+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -4991,11 +4991,6 @@
    },
    {
     "d": "2026-11-18",
-    "p": 260.5,
-    "s": "montredo"
-   },
-   {
-    "d": "2026-11-18",
     "p": 297.6,
     "s": "idealo"
    },
@@ -5003,6 +4998,11 @@
     "d": "2026-11-18",
     "p": 320.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-18",
+    "p": 260.5,
+    "s": "montredo"
    },
    {
     "d": "2026-11-18",
@@ -5066,7 +5066,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:48+01:00",
+  "checked": "2026-11-18T17:38:05+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -5107,11 +5107,6 @@
    },
    {
     "d": "2026-11-18",
-    "p": 260.5,
-    "s": "montredo"
-   },
-   {
-    "d": "2026-11-18",
     "p": 245.0,
     "s": "idealo"
    },
@@ -5119,6 +5114,11 @@
     "d": "2026-11-18",
     "p": 320.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-18",
+    "p": 260.5,
+    "s": "montredo"
    }
   ],
   "id": "seiko-srpd55k1",
@@ -5179,7 +5179,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:42+01:00",
+  "checked": "2026-11-18T17:39:05+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -5214,11 +5214,6 @@
    },
    {
     "d": "2026-11-18",
-    "p": 260.5,
-    "s": "montredo"
-   },
-   {
-    "d": "2026-11-18",
     "p": 245.0,
     "s": "idealo"
    },
@@ -5226,6 +5221,11 @@
     "d": "2026-11-18",
     "p": 320.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-18",
+    "p": 260.5,
+    "s": "montredo"
    },
    {
     "d": "2026-11-18",
@@ -5289,7 +5289,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T16:28:58+01:00",
+  "checked": "2026-11-18T17:39:13+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -5409,7 +5409,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T16:29:05+01:00",
+  "checked": "2026-11-18T17:39:22+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -5585,7 +5585,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-18T16:29:11+01:00",
+  "checked": "2026-11-18T17:39:28+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -5673,7 +5673,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-18T16:29:18+01:00",
+  "checked": "2026-11-18T17:39:36+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -5793,7 +5793,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-18T16:29:24+01:00",
+  "checked": "2026-11-18T17:39:43+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -5946,7 +5946,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:22+01:00",
+  "checked": "2026-11-18T17:38:38+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -6217,7 +6217,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-18T16:29:27+01:00",
+  "checked": "2026-11-18T17:39:47+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -6564,7 +6564,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:24+01:00",
+  "checked": "2026-11-18T17:37:29+01:00",
   "correa": "Piel (también brazalete)",
   "deals": [],
   "descartadas": [],
@@ -6610,7 +6610,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:31:06+01:00",
+  "checked": "2026-11-18T17:38:22+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -6852,7 +6852,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:59+01:00",
+  "checked": "2026-11-18T17:36:48+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -6985,7 +6985,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:05+01:00",
+  "checked": "2026-11-18T17:36:54+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -7229,7 +7229,7 @@
   },
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:30:36+01:00",
+  "checked": "2026-11-18T17:37:47+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -7310,7 +7310,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:56+01:00",
+  "checked": "2026-11-18T17:36:45+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -7364,7 +7364,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-18T15:29:54+01:00",
+  "checked": "2026-11-18T17:36:42+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],

@@ -1,40 +1,46 @@
 {
- "at": "2026-11-18T23:51:51+01:00",
+ "at": "2026-11-19T00:48:46+01:00",
  "revisados": 70,
  "tiendas": {
-  "lepage": {
-   "ok": 23,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 23
-  },
-  "montredo": {
-   "ok": 23,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld-titulo": 23
-  },
-  "planetarelojes": {
-   "ok": 28,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 28
-  },
   "idealo": {
-   "ok": 20,
+   "ok": 6,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
-   "jsonld-titulo": 8,
-   "jsonld": 12
+   "jsonld-titulo": 4,
+   "jsonld": 2
+  },
+  "lepage": {
+   "ok": 18,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 4,
+   "jsonld": 18,
+   "ejemplos": [
+    {
+     "reloj": "breitling-ab3110241b1a1",
+     "precio": 6700.0,
+     "referencia": 4445.38,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3111161c1a1",
+     "precio": 6700.0,
+     "referencia": 4277.31,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3113171l1a1",
+     "precio": 6000.0,
+     "referencia": 3705.88,
+     "metodo": "jsonld"
+    }
+   ]
   },
   "distribuidor": {
-   "ok": 6,
-   "bloqueada": 3,
-   "sin_precio": 3,
+   "ok": 2,
+   "bloqueada": 1,
+   "sin_precio": 0,
    "dudoso": 1,
    "ejemplos": [
     {
@@ -44,20 +50,27 @@
      "metodo": "jsonld"
     }
    ],
-   "jsonld": 6
-  },
-  "oficial": {
-   "ok": 2,
-   "bloqueada": 1,
-   "sin_precio": 1,
-   "dudoso": 0,
    "jsonld": 2
   },
-  "quera": {
+  "joieriagrau": {
    "ok": 0,
-   "bloqueada": 1,
-   "sin_precio": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
    "dudoso": 0
+  },
+  "montredo": {
+   "ok": 32,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld-titulo": 32
+  },
+  "planetarelojes": {
+   "ok": 11,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 11
   }
  },
  "limpiados": {},

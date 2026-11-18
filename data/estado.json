@@ -1,66 +1,62 @@
 {
- "at": "2026-11-18T03:32:47+01:00",
+ "at": "2026-11-18T04:55:07+01:00",
  "revisados": 70,
  "tiendas": {
   "montredo": {
-   "ok": 27,
+   "ok": 25,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
-   "jsonld-titulo": 27
-  },
-  "planetarelojes": {
-   "ok": 9,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 9
-  },
-  "idealo": {
-   "ok": 8,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld-titulo": 6,
-   "jsonld": 2
+   "jsonld-titulo": 25
   },
   "lepage": {
-   "ok": 13,
+   "ok": 25,
    "bloqueada": 0,
    "sin_precio": 0,
-   "dudoso": 4,
-   "jsonld": 13,
-   "ejemplos": [
-    {
-     "reloj": "breitling-ab3110241b1a1",
-     "precio": 6700.0,
-     "referencia": 4445.38,
-     "metodo": "jsonld"
-    },
-    {
-     "reloj": "breitling-ab3111161c1a1",
-     "precio": 6700.0,
-     "referencia": 4277.31,
-     "metodo": "jsonld"
-    },
-    {
-     "reloj": "breitling-ab3113171l1a1",
-     "precio": 6000.0,
-     "referencia": 3705.88,
-     "metodo": "jsonld"
-    }
-   ]
+   "dudoso": 0,
+   "jsonld": 25
+  },
+  "idealo": {
+   "ok": 19,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld-titulo": 7,
+   "jsonld": 12
+  },
+  "planetarelojes": {
+   "ok": 30,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 30
   },
   "distribuidor": {
+   "ok": 6,
+   "bloqueada": 4,
+   "sin_precio": 2,
+   "dudoso": 1,
+   "ejemplos": [
+    {
+     "reloj": "oris-aquis-date-01-733-7730-4135-07-8-24-05peb",
+     "precio": 2300.0,
+     "referencia": 1462.18,
+     "metodo": "jsonld"
+    }
+   ],
+   "jsonld": 6
+  },
+  "oficial": {
+   "ok": 2,
+   "bloqueada": 1,
+   "sin_precio": 1,
+   "dudoso": 0,
+   "jsonld": 2
+  },
+  "quera": {
    "ok": 0,
    "bloqueada": 1,
    "sin_precio": 0,
-   "dudoso": 0
-  },
-  "joieriagrau": {
-   "ok": 0,
-   "bloqueada": 0,
-   "sin_precio": 1,
    "dudoso": 0
   }
  },

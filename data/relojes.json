@@ -143,20 +143,29 @@
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "wristler"
+   "wristler",
+   "douxjoaillier"
   ],
   "history": [],
   "id": "breitling-a17367d71b1s1",
   "images": {},
   "material": "Acero inoxidable",
   "name": "Superocean 44",
-  "prices": {},
+  "prices": {
+   "douxjoaillier": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4150.0,
+    "src": "https://www.douxjoaillier.com/en/p/breitling-superocean-automatic-44-watch-ee89"
+   }
+  },
   "ref": "A17367D71B1S1",
   "resistencia_m": 1000,
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
   "urls": {
+   "douxjoaillier": "https://www.douxjoaillier.com/en/p/breitling-superocean-automatic-44-watch-ee89",
    "wristler": "https://wristler.eu/watches/215542-breitling-superocean-44"
   }
  },
@@ -769,21 +778,39 @@
   "esfera": "Negro",
   "fuentes": [
    "https://masquerelojes.com/precios-relojes/breitling",
-   "https://relojdelujo.com/marcas/breitling"
+   "https://relojdelujo.com/marcas/breitling",
+   "wristler",
+   "elcronometro"
   ],
   "history": [],
   "id": "breitling-ab2010121b1a1",
   "images": {},
   "material": "Cerámica y acero",
   "name": "Superocean Heritage B20 42",
-  "prices": {},
+  "prices": {
+   "elcronometro": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 5650.0,
+    "src": "https://elcronometro.com/en/shop/watches/breitling/breitling-superocean-heritage/breitling-superocean-heritage-b20-automatic-42-ab2010121b1a1"
+   },
+   "wristler": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4059.0,
+    "src": "https://wristler.eu/watches/196013-breitling-superocean-heritage-ii-42"
+   }
+  },
   "ref": "AB2010121B1A1",
   "resistencia_m": 200,
   "specs_fuente": "watchbase.com",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "elcronometro": "https://elcronometro.com/en/shop/watches/breitling/breitling-superocean-heritage/breitling-superocean-heritage-b20-automatic-42-ab2010121b1a1",
+   "wristler": "https://wristler.eu/watches/196013-breitling-superocean-heritage-ii-42"
+  }
  },
  {
   "brand": "Breitling",
@@ -2117,18 +2144,29 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "relojeshermosos"
   ],
   "history": [],
   "id": "casio-ga-2100-4a",
   "images": {},
+  "material": "Resina",
   "name": "G-Shock GA-2100-4A",
-  "prices": {},
+  "prices": {
+   "relojeshermosos": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 89.91,
+    "src": "https://www.relojeshermosos.es/casio-g-shock-ga-2100-4aer.html"
+   }
+  },
   "ref": "GA-2100-4A",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "relojeshermosos": "https://www.relojeshermosos.es/casio-g-shock-ga-2100-4aer.html"
+  }
  },
  {
   "brand": "Casio",
@@ -3215,6 +3253,7 @@
    "zapatajoyeros": "2026-11-17"
   },
   "caja_mm": 46,
+  "calibre": "Citizen J280",
   "categoria": "clasico",
   "checked": "2026-11-20T09:59:18+01:00",
   "correa": "Titanio",
@@ -3222,18 +3261,30 @@
   "descartadas": [],
   "fuentes": [
    "https://laguardajoiers.com/en/citizen-bn4061-08e-promaster-eco-drive-titanium.html",
-   "https://www.watchpatrol.net/es/descubrir/marcas/citizen/promaster/"
+   "https://www.watchpatrol.net/es/descubrir/marcas/citizen/promaster/",
+   "laguardajoiers"
   ],
   "history": [],
   "id": "citizen-bn4061-08e",
   "images": {},
+  "material": "Titanio",
   "name": "Promaster Titanium BN4061-08E",
-  "prices": {},
+  "prices": {
+   "laguardajoiers": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 789.0,
+    "src": "https://laguardajoiers.com/en/citizen-bn4061-08e-promaster-eco-drive-titanium.html"
+   }
+  },
   "ref": "BN4061-08E",
+  "resistencia_m": 200,
   "target": null,
   "tier": "Asequible",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "laguardajoiers": "https://laguardajoiers.com/en/citizen-bn4061-08e-promaster-eco-drive-titanium.html"
+  }
  },
  {
   "brand": "Citizen",

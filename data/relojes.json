@@ -2721,6 +2721,7 @@
   "history": [],
   "id": "casio-gm-s2110ns-8aer",
   "images": {},
+  "material": "Resina y acero inoxidable",
   "name": "G-Shock GM-S2110NS-8AER",
   "prices": {},
   "ref": "GM-S2110NS-8AER",
@@ -3137,9 +3138,11 @@
   "history": [],
   "id": "citizen-bn0150-28e",
   "images": {},
+  "material": "Acero inoxidable",
   "name": "Promaster Diver BN0150-28E",
   "prices": {},
   "ref": "BN0150-28E",
+  "resistencia_m": 200,
   "target": null,
   "tier": "Asequible",
   "tipo": "Buceo",
@@ -3598,17 +3601,30 @@
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "triathlonstore.fr"
+  ],
   "history": [],
   "id": "garmin-010-02809-10",
   "images": {},
+  "material": "Titanio",
   "name": "Forerunner 965",
-  "prices": {},
+  "prices": {
+   "triathlonstore.fr": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 489.99,
+    "src": "https://triathlonstore.fr/en/products/garmin-forerunner-965-noir"
+   }
+  },
   "ref": "010-02809-10",
+  "resistencia_m": 50,
   "target": null,
   "tier": "Smartwatch",
   "tipo": "Smartwatch",
-  "urls": {}
+  "urls": {
+   "triathlonstore.fr": "https://triathlonstore.fr/en/products/garmin-forerunner-965-noir"
+  }
  },
  {
   "brand": "Garmin",
@@ -4191,20 +4207,29 @@
   "fuentes": [
    "https://www.joyeriamarcos.com/en/product/mens-watches/automatic-watches-en/hamilton-jazzmaster-viewmatic-auto-40mm-h32515535/",
    "https://pisa1940.com/en/products/jazzmaster-auto",
-   "watchbase"
+   "watchbase",
+   "maier.fr"
   ],
   "history": [],
   "id": "hamilton-h32515535",
   "images": {},
   "material": "Acero inoxidable",
   "name": "Jazzmaster Viewmatic Auto",
-  "prices": {},
+  "prices": {
+   "maier.fr": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 845.0,
+    "src": "https://en.maier.fr/watchmaking-jewelry-brands/hamilton/watches/jazzmaster/jazzmaster-viewmatic-auto_h32515535"
+   }
+  },
   "ref": "H32515535",
   "resistencia_m": 50,
   "target": null,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "maier.fr": "https://en.maier.fr/watchmaking-jewelry-brands/hamilton/watches/jazzmaster/jazzmaster-viewmatic-auto_h32515535",
    "watchbase": "https://watchbase.com/hamilton/jazzmaster/h32515535"
   }
  },
@@ -6626,14 +6651,15 @@
  {
   "brand": "Patek Philippe",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.8,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "pisa1940.com"
   ],
   "history": [
    {
@@ -6643,9 +6669,16 @@
    }
   ],
   "id": "patek-philippe-5167a-001",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Aquanaut 5167A",
   "prices": {
+   "pisa1940.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 24948.0,
+    "src": "https://pisa1940.com/en/products/aquanaut-4"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -6658,6 +6691,7 @@
   "tier": "Ultra lujo",
   "tipo": "Vestir",
   "urls": {
+   "pisa1940.com": "https://pisa1940.com/en/products/aquanaut-4",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -7099,7 +7133,7 @@
  {
   "brand": "Rolex",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -7116,6 +7150,7 @@
    }
   ],
   "id": "rolex-126334",
+  "material": "Oystersteel y oro blanco",
   "movimiento": "automatico",
   "name": "Datejust 41mm Azul Jubilee",
   "prices": {
@@ -7128,6 +7163,7 @@
   },
   "pvp_oficial": 11500.0,
   "ref": "126334",
+  "resistencia_m": 100,
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {

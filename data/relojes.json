@@ -1,5 +1,81 @@
 [
  {
+  "brand": "Audemars Piguet",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 45000.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "audemars-piguet-15510st-oo-1320st-06",
+  "movimiento": "automatico",
+  "name": "Royal Oak 15510ST",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 45000.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 30000.0,
+  "ref": "15510ST.OO.1320ST.06",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Audemars Piguet",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 50000.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "audemars-piguet-26238st-oo-a340ca-01",
+  "movimiento": "automatico",
+  "name": "Royal Oak Offshore 26238ST",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 50000.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 39000.0,
+  "ref": "26238ST.OO.A340CA.01",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
   "brand": "Breitling",
   "buscado": {
    "idealo": "2026-11-16",
@@ -301,6 +377,44 @@
   "tipo": "Cronógrafo",
   "urls": {
    "lepage": "https://www.lepage.fr/en/16642-breitling-navitimer-automatic-watch-b01-chronograph-green-dial-black-leather-strap-46-mm-ab0137241l1p1.html"
+  }
+ },
+ {
+  "brand": "Breitling",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 10500.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "breitling-ab0138241c1a1",
+  "movimiento": "automatico",
+  "name": "Navitimer B01 43",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 10500.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 10500.0,
+  "ref": "AB0138241C1A1",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
  {
@@ -1080,6 +1194,272 @@
    "distribuidor": "https://www.watchia.com/eu/bulova-precisionist-96b257.html"
   },
   "verificada": true
+ },
+ {
+  "brand": "Cartier",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 7050.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "cartier-wsbb0046",
+  "movimiento": "automatico",
+  "name": "Ballon Bleu de Cartier 40mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7050.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 7050.0,
+  "ref": "WSBB0046",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Cartier",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 7000.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "cartier-wsnm0015",
+  "movimiento": "automatico",
+  "name": "Drive de Cartier Acero",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7000.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 7000.0,
+  "ref": "WSNM0015",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Cartier",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 4800.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "cartier-wspn0007",
+  "movimiento": "cuarzo",
+  "name": "Panthère de Cartier Medium",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4800.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 4800.0,
+  "ref": "WSPN0007",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Cartier",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 7800.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "cartier-wssa0018",
+  "movimiento": "automatico",
+  "name": "Santos de Cartier Large",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7800.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 7800.0,
+  "ref": "WSSA0018",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Cartier",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 7200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "cartier-wssa0029",
+  "movimiento": "automatico",
+  "name": "Santos de Cartier Medium",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 7200.0,
+  "ref": "WSSA0029",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Cartier",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 3200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "cartier-wsta0041",
+  "movimiento": "cuarzo",
+  "name": "Tank Must de Cartier",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 3200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 3200.0,
+  "ref": "WSTA0041",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Cartier",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 3700.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "cartier-wsta0065",
+  "movimiento": "cuarzo",
+  "name": "Tank Française Medium",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 3700.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 3700.0,
+  "ref": "WSTA0065",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
  },
  {
   "brand": "Casio",
@@ -3044,6 +3424,44 @@
  },
  {
   "brand": "Grand Seiko",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 7000.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "grand-seiko-sbga211",
+  "movimiento": "spring_drive",
+  "name": "SBGA211 Snowflake",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7000.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 7000.0,
+  "ref": "SBGA211",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Grand Seiko",
   "buscado": {
    "idealo": "2026-11-16",
    "lepage": "2026-11-16",
@@ -3173,6 +3591,82 @@
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {}
+ },
+ {
+  "brand": "Grand Seiko",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 10500.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "grand-seiko-slgh005",
+  "movimiento": "automatico",
+  "name": "SLGH005 White Birch",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 10500.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 10500.0,
+  "ref": "SLGH005",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Hamilton",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 1025.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "hamilton-h24411732",
+  "movimiento": "cuarzo",
+  "name": "Ventura Quartz 32.3mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1025.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 1025.0,
+  "ref": "H24411732",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
  },
  {
   "brand": "Hamilton",
@@ -3403,6 +3897,44 @@
  },
  {
   "brand": "Hamilton",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 1145.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "hamilton-h32675140",
+  "movimiento": "automatico",
+  "name": "Jazzmaster Open Heart Auto 40mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1145.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 1145.0,
+  "ref": "H32675140",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Hamilton",
   "buscado": {
    "idealo": "2026-11-16",
    "lepage": "2026-11-17",
@@ -3479,6 +4011,196 @@
   "urls": {
    "lepage": "https://www.lepage.fr/en/16233-hamilton-jazzmaster-open-heart-auto-watch-blue-dial-brown-leather-strap-40-mm-h32675540.html",
    "montredo": "https://www.montredo.com/products/hamilton-jazzmaster-automatic-blue-40mm-13-48276?_pos=1&_sid=41ffc3424&_ss=r"
+  }
+ },
+ {
+  "brand": "Hamilton",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 2700.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "hamilton-h38416541",
+  "movimiento": "automatico",
+  "name": "Intra-Matic Auto Chrono 40mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 2700.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 2700.0,
+  "ref": "H38416541",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Hamilton",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 1200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "hamilton-h64615135",
+  "movimiento": "automatico",
+  "name": "Khaki Aviation Pilot Day Date Auto 42mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 1200.0,
+  "ref": "H64615135",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Hamilton",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 625.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "hamilton-h69439931",
+  "movimiento": "manual",
+  "name": "Khaki Field Mechanical 38mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 625.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 625.0,
+  "ref": "H69439931",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Hamilton",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 995.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "hamilton-h70405730",
+  "movimiento": "automatico",
+  "name": "Khaki Field Murph 38mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 995.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 995.0,
+  "ref": "H70405730",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Hamilton",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 1025.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "hamilton-h82305131",
+  "movimiento": "automatico",
+  "name": "Khaki Navy Scuba Auto 40mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1025.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 1025.0,
+  "ref": "H82305131",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
  {
@@ -3640,6 +4362,614 @@
    "oficial": "https://www.hamiltonwatch.com/es-es/h70605160-khaki-field-auto.html"
   },
   "verificada": true
+ },
+ {
+  "brand": "IWC",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 5800.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "iwc-iw328203",
+  "movimiento": "automatico",
+  "name": "Pilot's Watch Mark XX 40mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 5800.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 5800.0,
+  "ref": "IW328203",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "IWC",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 5500.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "iwc-iw328207",
+  "movimiento": "automatico",
+  "name": "Pilot's Watch Mark XX 40mm Verde",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 5500.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 5500.0,
+  "ref": "IW328207",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "IWC",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 5800.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "iwc-iw329005",
+  "movimiento": "automatico",
+  "name": "Aquatimer Automatic 42mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 5800.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 5800.0,
+  "ref": "IW329005",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "IWC",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 9800.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "iwc-iw329301",
+  "movimiento": "automatico",
+  "name": "Big Pilot 43mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 9800.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 9800.0,
+  "ref": "IW329301",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "IWC",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 6200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "iwc-iw356601",
+  "movimiento": "automatico",
+  "name": "Da Vinci Automatic 40mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 6200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 6200.0,
+  "ref": "IW356601",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "IWC",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 10200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "iwc-iw357002",
+  "movimiento": "automatico",
+  "name": "Ingenieur Automatic 40mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 10200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 10200.0,
+  "ref": "IW357002",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "IWC",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 10200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "iwc-iw371617",
+  "movimiento": "automatico",
+  "name": "Portugieser Chronograph 41mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 10200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 10200.0,
+  "ref": "IW371617",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "IWC",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 7500.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "iwc-iw387903",
+  "movimiento": "automatico",
+  "name": "Pilot's Watch Chronograph Spitfire 41mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7500.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 7500.0,
+  "ref": "IW387903",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Jaeger-LeCoultre",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 13200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "jaeger-lecoultre-q1368430",
+  "movimiento": "automatico",
+  "name": "Master Ultra Thin Moon",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 13200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 13200.0,
+  "ref": "Q1368430",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Jaeger-LeCoultre",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 11000.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "jaeger-lecoultre-q3978480",
+  "movimiento": "manual",
+  "name": "Reverso Tribute Small Seconds",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 11000.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 11000.0,
+  "ref": "Q3978480",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Longines",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 3400.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "longines-l2-759-4-78-6",
+  "movimiento": "automatico",
+  "name": "Master Collection Chronograph 42mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 3400.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 3400.0,
+  "ref": "L2.759.4.78.6",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Longines",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 3700.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "longines-l2-919-4-92-6",
+  "movimiento": "automatico",
+  "name": "Master Collection Fases Lunares 40mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 3700.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 3700.0,
+  "ref": "L2.919.4.92.6",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Longines",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 1100.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "longines-l3-726-4-96-6",
+  "movimiento": "cuarzo",
+  "name": "Conquest VHP 41mm Azul",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1100.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 1100.0,
+  "ref": "L3.726.4.96.6",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Longines",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 2800.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "longines-l3-774-4-90-2",
+  "movimiento": "automatico",
+  "name": "Legend Diver 42mm Negro",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 2800.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 2800.0,
+  "ref": "L3.774.4.90.2",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Longines",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 2250.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "longines-l3-781-4-56-9",
+  "movimiento": "automatico",
+  "name": "HydroConquest 41mm Verde",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 2250.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 2250.0,
+  "ref": "L3.781.4.56.9",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Longines",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 2450.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "longines-l3-811-4-93-6",
+  "movimiento": "automatico",
+  "name": "Spirit 42mm Azul COSC",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 2450.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 2450.0,
+  "ref": "L3.811.4.93.6",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
  },
  {
   "brand": "Longines",
@@ -4058,6 +5388,44 @@
  },
  {
   "brand": "Omega",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 6500.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "omega-210-30-42-20-03-001",
+  "movimiento": "automatico",
+  "name": "Seamaster Diver 300M Azul",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 6500.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 6500.0,
+  "ref": "210.30.42.20.03.001",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Omega",
   "buscado": {
    "idealo": "2026-11-16",
    "lepage": "2026-11-16",
@@ -4117,6 +5485,44 @@
  },
  {
   "brand": "Omega",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 7800.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "omega-215-30-44-21-01-001",
+  "movimiento": "automatico",
+  "name": "Seamaster Planet Ocean 600M 43.5mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7800.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 7800.0,
+  "ref": "215.30.44.21.01.001",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Omega",
   "buscado": {
    "idealo": "2026-11-16",
    "lepage": "2026-11-17",
@@ -4171,6 +5577,120 @@
   "tipo": "Buceo",
   "urls": {
    "montredo": "https://www.montredo.com/products/omega-seamaster-automatic-blue-41mm-7-29857?_pos=1&_sid=785eac039&_ss=r"
+  }
+ },
+ {
+  "brand": "Omega",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 7200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "omega-310-30-42-50-01-002",
+  "movimiento": "manual",
+  "name": "Speedmaster Moonwatch Professional",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 7200.0,
+  "ref": "310.30.42.50.01.002",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Omega",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 8500.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "omega-329-30-44-51-01-002",
+  "movimiento": "automatico",
+  "name": "Speedmaster Racing Co-Axial 44.25mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 8500.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 8500.0,
+  "ref": "329.30.44.51.01.002",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Omega",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 4200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "omega-424-10-40-20-03-001",
+  "movimiento": "automatico",
+  "name": "De Ville Prestige 40mm Azul",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 4200.0,
+  "ref": "424.10.40.20.03.001",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
  {
@@ -4278,6 +5798,196 @@
  },
  {
   "brand": "Oris",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 3500.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "oris-01-400-7769-4135",
+  "movimiento": "automatico",
+  "name": "Aquis Date Calibre 400 41.5mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 3500.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 3500.0,
+  "ref": "01 400 7769 4135",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Oris",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 2400.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "oris-01-733-7766-4135",
+  "movimiento": "automatico",
+  "name": "Aquis Date 41.5mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 2400.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 2400.0,
+  "ref": "01 733 7766 4135",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Oris",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 2150.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "oris-01-733-7771-4055",
+  "movimiento": "automatico",
+  "name": "Divers Sixty-Five 36mm Azul",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 2150.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 2150.0,
+  "ref": "01 733 7771 4055",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Oris",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 1950.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "oris-01-754-7741-4065",
+  "movimiento": "automatico",
+  "name": "Big Crown Pointer Date 40mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1950.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 1950.0,
+  "ref": "01 754 7741 4065",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Oris",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 4200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "oris-01-798-7773-4284",
+  "movimiento": "automatico",
+  "name": "ProPilot X Calibre 400 GMT",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 4200.0,
+  "ref": "01 798 7773 4284",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Oris",
   "buscado": {
    "idealo": "2026-11-16",
    "lepage": "2026-11-16",
@@ -4351,6 +6061,120 @@
    "montredo": "https://www.montredo.com/products/oris-aquis-automatic-blue-43mm-3-17064?_pos=1&_sid=cbad67b3a&_ss=r"
   },
   "verificada": true
+ },
+ {
+  "brand": "Patek Philippe",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 55000.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "patek-philippe-5167a-001",
+  "movimiento": "automatico",
+  "name": "Aquanaut 5167A",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 55000.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 24600.0,
+  "ref": "5167A-001",
+  "tier": "Ultra lujo",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Patek Philippe",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 35000.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "patek-philippe-5226g-001",
+  "movimiento": "automatico",
+  "name": "Calatrava 5226G",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 35000.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 43800.0,
+  "ref": "5226G-001",
+  "tier": "Ultra lujo",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Patek Philippe",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 200000.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "patek-philippe-5811-1g-001",
+  "movimiento": "automatico",
+  "name": "Nautilus 5811/1G",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 200000.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 150000.0,
+  "ref": "5811/1G-001",
+  "tier": "Ultra lujo",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
  },
  {
   "brand": "Rolex",
@@ -4437,6 +6261,44 @@
   "tier": "Gama alta",
   "tipo": "Buceo",
   "urls": {}
+ },
+ {
+  "brand": "Rolex",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 9500.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "rolex-124270",
+  "movimiento": "automatico",
+  "name": "Explorer 36mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 9500.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 7800.0,
+  "ref": "124270",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
  },
  {
   "brand": "Rolex",
@@ -4593,6 +6455,82 @@
   "tipo": "Vestir",
   "urls": {
    "montredo": "https://www.montredo.com/products/rolex-datejust-oyster-perpetual-automatic-black-36-66915?_pos=1&_sid=a381e07de&_ss=r"
+  }
+ },
+ {
+  "brand": "Rolex",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 11000.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "rolex-126234",
+  "movimiento": "automatico",
+  "name": "Datejust 36mm Azul",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 11000.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 10200.0,
+  "ref": "126234",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Rolex",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 13500.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "rolex-126334",
+  "movimiento": "automatico",
+  "name": "Datejust 41mm Azul Jubilee",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 13500.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 11500.0,
+  "ref": "126334",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
  {
@@ -4859,6 +6797,44 @@
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {}
+ },
+ {
+  "brand": "Rolex",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 50000.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "rolex-228238",
+  "movimiento": "automatico",
+  "name": "Day-Date 40 Oro Amarillo",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 50000.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 42000.0,
+  "ref": "228238",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
  },
  {
   "brand": "Rolex",
@@ -5233,6 +7209,120 @@
   "tipo": "Buceo",
   "urls": {
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/seiko-prospex-spb143j1"
+  }
+ },
+ {
+  "brand": "Seiko",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 995.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "seiko-spb167j1",
+  "movimiento": "automatico",
+  "name": "Presage Sharp Edged Tokiwa Verde",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 995.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 995.0,
+  "ref": "SPB167J1",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Seiko",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 1750.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "seiko-spb293j1",
+  "movimiento": "automatico",
+  "name": "Presage Classic Esmalte Blanco",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1750.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 1750.0,
+  "ref": "SPB293J1",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Seiko",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 440.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "seiko-srpb43j1",
+  "movimiento": "automatico",
+  "name": "Presage Cocktail Time Blue Moon",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 440.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 440.0,
+  "ref": "SRPB43J1",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
  {
@@ -7014,6 +9104,44 @@
  },
  {
   "brand": "Seiko",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 550.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "seiko-ssa405j1",
+  "movimiento": "automatico",
+  "name": "Presage Cocktail Time Manhattan Open Heart",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 550.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 550.0,
+  "ref": "SSA405J1",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Seiko",
   "buscado": {
    "idealo": "2026-11-16",
    "lepage": "2026-11-16",
@@ -7496,6 +9624,234 @@
   "verificada": true
  },
  {
+  "brand": "TAG Heuer",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 1950.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tag-heuer-caz1010-ba0842",
+  "movimiento": "cuarzo",
+  "name": "Formula 1 Quartz 43mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1950.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 1950.0,
+  "ref": "CAZ1010.BA0842",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "TAG Heuer",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 7600.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tag-heuer-cbl2111-ba0644",
+  "movimiento": "automatico",
+  "name": "Monaco Calibre Heuer 02 39mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7600.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 7600.0,
+  "ref": "CBL2111.BA0644",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "TAG Heuer",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 6300.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tag-heuer-cbn2a1b-ba0643",
+  "movimiento": "automatico",
+  "name": "Carrera Chronograph 44mm Heuer 02",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 6300.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 6300.0,
+  "ref": "CBN2A1B.BA0643",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "TAG Heuer",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 5800.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tag-heuer-cbs2210-ba0631",
+  "movimiento": "automatico",
+  "name": "Carrera Chronograph 39mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 5800.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 5800.0,
+  "ref": "CBS2210.BA0631",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "TAG Heuer",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 2650.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tag-heuer-wbc2112-ba0603",
+  "movimiento": "automatico",
+  "name": "Link Calibre 5 41mm Azul",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 2650.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 2650.0,
+  "ref": "WBC2112.BA0603",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "TAG Heuer",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 3450.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tag-heuer-wbp201b-ba0632",
+  "movimiento": "automatico",
+  "name": "Aquaracer Professional 300 43mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 3450.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 3450.0,
+  "ref": "WBP201B.BA0632",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
   "brand": "Tissot",
   "buscado": {
    "idealo": "2026-11-16",
@@ -7617,6 +9973,82 @@
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-prx-t1374101105100"
   },
   "verificada": true
+ },
+ {
+  "brand": "Tissot",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 650.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tissot-t006-407-11-033-01",
+  "movimiento": "automatico",
+  "name": "Le Locle Powermatic 80 39mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 650.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 650.0,
+  "ref": "T006.407.11.033.01",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Tissot",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 1100.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tissot-t120-607-11-041-01",
+  "movimiento": "automatico",
+  "name": "Seastar 2000 Professional 46mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1100.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 1100.0,
+  "ref": "T120.607.11.041.01",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
  },
  {
   "brand": "Tissot",
@@ -7918,6 +10350,158 @@
   "urls": {
    "lepage": "https://www.lepage.fr/en/22571-tissot-seastar-1000-gmt-pvd-yellow-gold-quartz-watch-black-and-brown-bezel-black-dial-steel-bracelet-and-yellow-pvd-40-mm-t1208522205100.html",
    "montredo": "https://www.montredo.com/products/tissot-t-sport-seastar-1000-quartz-gmt-quartz-black-40-53862?_pos=1&_sid=8f62d6d78&_ss=r"
+  }
+ },
+ {
+  "brand": "Tissot",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 475.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tissot-t125-617-11-051-00",
+  "movimiento": "cuarzo",
+  "name": "Supersport Chrono 45mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 475.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 475.0,
+  "ref": "T125.617.11.051.00",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Tissot",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 925.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tissot-t127-407-11-041-01",
+  "movimiento": "automatico",
+  "name": "Gentleman Powermatic 80 Silicium Azul",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 925.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 925.0,
+  "ref": "T127.407.11.041.01",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Tissot",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 775.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tissot-t137-407-11-041-00",
+  "movimiento": "automatico",
+  "name": "PRX Powermatic 80 Azul",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 775.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 775.0,
+  "ref": "T137.407.11.041.00",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Tissot",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 775.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tissot-t137-407-11-091-01",
+  "movimiento": "automatico",
+  "name": "PRX Powermatic 80 Verde",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 775.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 775.0,
+  "ref": "T137.407.11.091.01",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
  {
@@ -8307,6 +10891,120 @@
  },
  {
   "brand": "Tudor",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 4200.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tudor-m25407n",
+  "movimiento": "automatico",
+  "name": "Pelagos 39mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4200.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 4200.0,
+  "ref": "M25407N",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Tudor",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 2900.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tudor-m28500-0006",
+  "movimiento": "automatico",
+  "name": "Royal 41mm Azul",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 2900.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 2900.0,
+  "ref": "M28500-0006",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Tudor",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 4820.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tudor-m79030n",
+  "movimiento": "automatico",
+  "name": "Black Bay Fifty-Eight 39mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4820.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 4820.0,
+  "ref": "M79030N",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Tudor",
   "buscado": {
    "idealo": "2026-11-16",
    "lepage": "2026-11-16",
@@ -8366,6 +11064,82 @@
  },
  {
   "brand": "Tudor",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 2900.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tudor-m79540-0007",
+  "movimiento": "automatico",
+  "name": "Black Bay 41mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 2900.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 2900.0,
+  "ref": "M79540-0007",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Tudor",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 4670.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tudor-m79830rb",
+  "movimiento": "automatico",
+  "name": "Black Bay GMT Pepsi",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4670.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 4670.0,
+  "ref": "M79830RB",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Tudor",
   "buscado": {
    "idealo": "2026-11-16",
    "lepage": "2026-11-16",
@@ -8421,6 +11195,82 @@
   "tipo": "Buceo",
   "urls": {
    "lepage": "https://www.lepage.fr/en/10946-tudor-black-bay-gmt-automatic-watch-pepsi-bezel-black-dial-steel-bracelet-41-mm-m79830rb-0001.html"
+  }
+ },
+ {
+  "brand": "Tudor",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 3630.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "tudor-m79950-0001",
+  "movimiento": "automatico",
+  "name": "Ranger 39mm",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 3630.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 3630.0,
+  "ref": "M79950-0001",
+  "tier": "Gama media",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
+  }
+ },
+ {
+  "brand": "Zenith",
+  "buscado": {},
+  "caja_mm": null,
+  "categoria": "clasico",
+  "checked": "2026-11-20T09:00:35+01:00",
+  "correa": "",
+  "deals": [],
+  "descartadas": [],
+  "fuentes": [
+   "https://relojdelujo.com/precios"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 10300.0,
+    "s": "relojdelujo"
+   }
+  ],
+  "id": "zenith-03-3100-3600-69-m3100",
+  "movimiento": "automatico",
+  "name": "Chronomaster Sport",
+  "prices": {
+   "relojdelujo": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 10300.0,
+    "src": "https://relojdelujo.com/precios"
+   }
+  },
+  "pvp_oficial": 10300.0,
+  "ref": "03.3100.3600/69.M3100",
+  "tier": "Gama alta",
+  "tipo": "Vestir",
+  "urls": {
+   "relojdelujo": "https://relojdelujo.com/precios"
   }
  }
 ]

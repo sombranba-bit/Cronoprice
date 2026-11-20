@@ -6462,12 +6462,21 @@
   "id": "rolex-124060",
   "images": {},
   "name": "Submariner No-Date",
-  "prices": {},
+  "prices": {
+   "wristler": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 12750.0,
+    "src": "https://wristler.eu/es/relojes/204448-rolex-submariner-no-date"
+   }
+  },
   "ref": "124060",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "wristler": "https://wristler.eu/es/relojes/204448-rolex-submariner-no-date"
+  }
  },
  {
   "brand": "Rolex",
@@ -6763,12 +6772,21 @@
   "id": "rolex-126500ln",
   "images": {},
   "name": "Cosmograph Daytona acero",
-  "prices": {},
+  "prices": {
+   "elcorteingles": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 16550.0,
+    "src": "https://www.elcorteingles.es/boutique-rolex/en/rolex-cosmograph-daytona-m126500ln-0001"
+   }
+  },
   "ref": "126500LN",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "elcorteingles": "https://www.elcorteingles.es/boutique-rolex/en/rolex-cosmograph-daytona-m126500ln-0001"
+  }
  },
  {
   "brand": "Rolex",
@@ -6793,12 +6811,21 @@
   "id": "rolex-126503",
   "images": {},
   "name": "Cosmograph Daytona bicolor",
-  "prices": {},
+  "prices": {
+   "elcorteingles": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 24100.0,
+    "src": "https://www.elcorteingles.es/boutique-rolex/en/rolex-cosmograph-daytona-m126503-0001"
+   }
+  },
   "ref": "126503",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "elcorteingles": "https://www.elcorteingles.es/boutique-rolex/en/rolex-cosmograph-daytona-m126503-0001"
+  }
  },
  {
   "brand": "Rolex",
@@ -6823,12 +6850,21 @@
   "id": "rolex-126518ln",
   "images": {},
   "name": "Cosmograph Daytona oro amarillo",
-  "prices": {},
+  "prices": {
+   "wristler": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 43950.0,
+    "src": "https://wristler.eu/watches/123637-rolex-daytona"
+   }
+  },
   "ref": "126518LN",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "wristler": "https://wristler.eu/watches/123637-rolex-daytona"
+  }
  },
  {
   "brand": "Rolex",
@@ -6968,12 +7004,21 @@
   "id": "rolex-126710blro",
   "images": {},
   "name": "GMT-Master II Pepsi",
-  "prices": {},
+  "prices": {
+   "wristler": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 21450.0,
+    "src": "https://wristler.eu/es/relojes/221270-rolex-gmt-master-ii"
+   }
+  },
   "ref": "126710BLRO",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Vestir",
-  "urls": {}
+  "urls": {
+   "wristler": "https://wristler.eu/es/relojes/221270-rolex-gmt-master-ii"
+  }
  },
  {
   "brand": "Rolex",
@@ -6998,12 +7043,21 @@
   "id": "rolex-126711chnr",
   "images": {},
   "name": "GMT-Master II bicolor",
-  "prices": {},
+  "prices": {
+   "wristler": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 18190.0,
+    "src": "https://wristler.eu/es/relojes/221841-rolex-gmt-master-ii"
+   }
+  },
   "ref": "126711CHNR",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Vestir",
-  "urls": {}
+  "urls": {
+   "wristler": "https://wristler.eu/es/relojes/221841-rolex-gmt-master-ii"
+  }
  },
  {
   "brand": "Rolex",

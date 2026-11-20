@@ -2,12 +2,15 @@
  {
   "brand": "Audemars Piguet",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.0,
+  "calibre": "AP 4302",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -19,6 +22,7 @@
    }
   ],
   "id": "audemars-piguet-15510st-oo-1320st-06",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Royal Oak 15510ST",
   "prices": {
@@ -31,6 +35,8 @@
   },
   "pvp_oficial": 30000.0,
   "ref": "15510ST.OO.1320ST.06",
+  "resistencia_m": 50,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -40,12 +46,15 @@
  {
   "brand": "Audemars Piguet",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 42.0,
+  "calibre": "AP 4404",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -57,6 +66,7 @@
    }
   ],
   "id": "audemars-piguet-26238st-oo-a340ca-01",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Royal Oak Offshore 26238ST",
   "prices": {
@@ -69,6 +79,8 @@
   },
   "pvp_oficial": 39000.0,
   "ref": "26238ST.OO.A340CA.01",
+  "resistencia_m": 100,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -224,12 +236,15 @@
    "planetarelojes": "2026-11-16",
    "zapatajoyeros": "2026-11-16"
   },
-  "caja_mm": 42,
+  "caja_mm": 42.0,
+  "calibre": "Breitling B01",
   "categoria": "clasico",
   "checked": "2026-11-20T02:26:19+01:00",
   "correa": "Acero (brazalete)",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Verde",
   "fuentes": [
    "https://masquerelojes.com/precios-relojes/breitling",
    "https://relojdelujo.com/marcas/breitling"
@@ -237,9 +252,12 @@
   "history": [],
   "id": "breitling-ab0134101l1a1",
   "images": {},
+  "material": "Acero inoxidable",
   "name": "Chronomat B01 42 acero",
   "prices": {},
   "ref": "AB0134101L1A1",
+  "resistencia_m": 200,
+  "specs_fuente": "watchbase.com",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
@@ -382,12 +400,15 @@
  {
   "brand": "Breitling",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 43.0,
+  "calibre": "Breitling B01",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul hielo",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -399,6 +420,7 @@
    }
   ],
   "id": "breitling-ab0138241c1a1",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Navitimer B01 43",
   "prices": {
@@ -411,6 +433,8 @@
   },
   "pvp_oficial": 10500.0,
   "ref": "AB0138241C1A1",
+  "resistencia_m": 30,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -669,12 +693,15 @@
    "planetarelojes": "2026-11-16",
    "zapatajoyeros": "2026-11-16"
   },
-  "caja_mm": 42,
+  "caja_mm": 42.0,
+  "calibre": "Breitling B20",
   "categoria": "clasico",
   "checked": "2026-11-20T02:27:15+01:00",
   "correa": "Caucho",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://masquerelojes.com/precios-relojes/breitling",
    "https://relojdelujo.com/marcas/breitling"
@@ -682,9 +709,12 @@
   "history": [],
   "id": "breitling-ab2010121b1a1",
   "images": {},
+  "material": "Cerámica y acero",
   "name": "Superocean Heritage B20 42",
   "prices": {},
   "ref": "AB2010121B1A1",
+  "resistencia_m": 200,
+  "specs_fuente": "watchbase.com",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
@@ -3633,12 +3663,15 @@
  {
   "brand": "Hamilton",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 32.3,
+  "calibre": "ETA F05.111",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Mineral",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -3650,6 +3683,7 @@
    }
   ],
   "id": "hamilton-h24411732",
+  "material": "Acero inoxidable",
   "movimiento": "cuarzo",
   "name": "Ventura Quartz 32.3mm",
   "prices": {
@@ -3662,6 +3696,8 @@
   },
   "pvp_oficial": 1025.0,
   "ref": "H24411732",
+  "resistencia_m": 50,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -3898,12 +3934,15 @@
  {
   "brand": "Hamilton",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
+  "calibre": "Hamilton H-10 ND",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -3915,6 +3954,7 @@
    }
   ],
   "id": "hamilton-h32675140",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Jazzmaster Open Heart Auto 40mm",
   "prices": {
@@ -3927,6 +3967,8 @@
   },
   "pvp_oficial": 1145.0,
   "ref": "H32675140",
+  "resistencia_m": 50,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -4016,12 +4058,15 @@
  {
   "brand": "Hamilton",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
+  "calibre": "Hamilton H-31",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4033,6 +4078,7 @@
    }
   ],
   "id": "hamilton-h38416541",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Intra-Matic Auto Chrono 40mm",
   "prices": {
@@ -4045,6 +4091,8 @@
   },
   "pvp_oficial": 2700.0,
   "ref": "H38416541",
+  "resistencia_m": 100,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -4054,12 +4102,15 @@
  {
   "brand": "Hamilton",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 42.0,
+  "calibre": "Hamilton H-40",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4071,6 +4122,7 @@
    }
   ],
   "id": "hamilton-h64615135",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Khaki Aviation Pilot Day Date Auto 42mm",
   "prices": {
@@ -4083,6 +4135,8 @@
   },
   "pvp_oficial": 1200.0,
   "ref": "H64615135",
+  "resistencia_m": 100,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -4092,12 +4146,15 @@
  {
   "brand": "Hamilton",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 38.0,
+  "calibre": "Hamilton H-50 ND",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4109,6 +4166,7 @@
    }
   ],
   "id": "hamilton-h69439931",
+  "material": "Acero inoxidable",
   "movimiento": "manual",
   "name": "Khaki Field Mechanical 38mm",
   "prices": {
@@ -4121,6 +4179,8 @@
   },
   "pvp_oficial": 625.0,
   "ref": "H69439931",
+  "resistencia_m": 50,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -4130,12 +4190,15 @@
  {
   "brand": "Hamilton",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 38.0,
+  "calibre": "Hamilton H-10 ND",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4147,6 +4210,7 @@
    }
   ],
   "id": "hamilton-h70405730",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Khaki Field Murph 38mm",
   "prices": {
@@ -4159,6 +4223,8 @@
   },
   "pvp_oficial": 995.0,
   "ref": "H70405730",
+  "resistencia_m": 100,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -4168,12 +4234,15 @@
  {
   "brand": "Hamilton",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
+  "calibre": "Hamilton H-10",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4185,6 +4254,7 @@
    }
   ],
   "id": "hamilton-h82305131",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Khaki Navy Scuba Auto 40mm",
   "prices": {
@@ -4197,6 +4267,8 @@
   },
   "pvp_oficial": 1025.0,
   "ref": "H82305131",
+  "resistencia_m": 100,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -4366,12 +4438,15 @@
  {
   "brand": "IWC",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
+  "calibre": "IWC 32111",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4383,6 +4458,7 @@
    }
   ],
   "id": "iwc-iw328203",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Pilot's Watch Mark XX 40mm",
   "prices": {
@@ -4395,6 +4471,8 @@
   },
   "pvp_oficial": 5800.0,
   "ref": "IW328203",
+  "resistencia_m": 100,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -4404,12 +4482,15 @@
  {
   "brand": "IWC",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
+  "calibre": "IWC 32111",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Blanco",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4421,6 +4502,7 @@
    }
   ],
   "id": "iwc-iw328207",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Pilot's Watch Mark XX 40mm Verde",
   "prices": {
@@ -4433,6 +4515,8 @@
   },
   "pvp_oficial": 5500.0,
   "ref": "IW328207",
+  "resistencia_m": 100,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -4442,12 +4526,15 @@
  {
   "brand": "IWC",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 42.0,
+  "calibre": "IWC 30120",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4459,6 +4546,7 @@
    }
   ],
   "id": "iwc-iw329005",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Aquatimer Automatic 42mm",
   "prices": {
@@ -4471,6 +4559,8 @@
   },
   "pvp_oficial": 5800.0,
   "ref": "IW329005",
+  "resistencia_m": 300,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -4480,12 +4570,15 @@
  {
   "brand": "IWC",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 43.0,
+  "calibre": "IWC 82100",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4497,6 +4590,7 @@
    }
   ],
   "id": "iwc-iw329301",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Big Pilot 43mm",
   "prices": {
@@ -4509,6 +4603,8 @@
   },
   "pvp_oficial": 9800.0,
   "ref": "IW329301",
+  "resistencia_m": 100,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -4518,12 +4614,15 @@
  {
   "brand": "IWC",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
+  "calibre": "IWC 35111",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Plata",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4535,6 +4634,7 @@
    }
   ],
   "id": "iwc-iw356601",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Da Vinci Automatic 40mm",
   "prices": {
@@ -4547,6 +4647,8 @@
   },
   "pvp_oficial": 6200.0,
   "ref": "IW356601",
+  "resistencia_m": 30,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -4556,12 +4658,15 @@
  {
   "brand": "IWC",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
+  "calibre": "IWC 35111",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4573,6 +4678,7 @@
    }
   ],
   "id": "iwc-iw357002",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Ingenieur Automatic 40mm",
   "prices": {
@@ -4585,6 +4691,8 @@
   },
   "pvp_oficial": 10200.0,
   "ref": "IW357002",
+  "resistencia_m": 120,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -4594,12 +4702,15 @@
  {
   "brand": "IWC",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.0,
+  "calibre": "IWC 69355",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Plata",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4611,6 +4722,7 @@
    }
   ],
   "id": "iwc-iw371617",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Portugieser Chronograph 41mm",
   "prices": {
@@ -4623,6 +4735,8 @@
   },
   "pvp_oficial": 10200.0,
   "ref": "IW371617",
+  "resistencia_m": 30,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -4632,12 +4746,15 @@
  {
   "brand": "IWC",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.1,
+  "calibre": "IWC 69380",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4649,6 +4766,7 @@
    }
   ],
   "id": "iwc-iw387903",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Pilot's Watch Chronograph Spitfire 41mm",
   "prices": {
@@ -4661,6 +4779,8 @@
   },
   "pvp_oficial": 7500.0,
   "ref": "IW387903",
+  "resistencia_m": 60,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -4670,12 +4790,15 @@
  {
   "brand": "Jaeger-LeCoultre",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 39.0,
+  "calibre": "JLC 925AA",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Plata",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4687,6 +4810,7 @@
    }
   ],
   "id": "jaeger-lecoultre-q1368430",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Master Ultra Thin Moon",
   "prices": {
@@ -4699,6 +4823,8 @@
   },
   "pvp_oficial": 13200.0,
   "ref": "Q1368430",
+  "resistencia_m": 50,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -4746,12 +4872,15 @@
  {
   "brand": "Longines",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 42.0,
+  "calibre": "Longines L688.2",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Plata",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4763,6 +4892,7 @@
    }
   ],
   "id": "longines-l2-759-4-78-6",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Master Collection Chronograph 42mm",
   "prices": {
@@ -4775,6 +4905,8 @@
   },
   "pvp_oficial": 3400.0,
   "ref": "L2.759.4.78.6",
+  "resistencia_m": 30,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -4784,12 +4916,15 @@
  {
   "brand": "Longines",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 42.0,
+  "calibre": "Longines L899.2",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4801,6 +4936,7 @@
    }
   ],
   "id": "longines-l2-919-4-92-6",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Master Collection Fases Lunares 40mm",
   "prices": {
@@ -4813,6 +4949,8 @@
   },
   "pvp_oficial": 3700.0,
   "ref": "L2.919.4.92.6",
+  "resistencia_m": 30,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -4860,12 +4998,15 @@
  {
   "brand": "Longines",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 42.0,
+  "calibre": "Longines L888.5",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4877,6 +5018,7 @@
    }
   ],
   "id": "longines-l3-774-4-90-2",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Legend Diver 42mm Negro",
   "prices": {
@@ -4889,6 +5031,8 @@
   },
   "pvp_oficial": 2800.0,
   "ref": "L3.774.4.90.2",
+  "resistencia_m": 300,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -4898,12 +5042,15 @@
  {
   "brand": "Longines",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.0,
+  "calibre": "Longines L888.2",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4915,6 +5062,7 @@
    }
   ],
   "id": "longines-l3-781-4-56-9",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "HydroConquest 41mm Verde",
   "prices": {
@@ -4927,6 +5075,8 @@
   },
   "pvp_oficial": 2250.0,
   "ref": "L3.781.4.56.9",
+  "resistencia_m": 300,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -4936,12 +5086,15 @@
  {
   "brand": "Longines",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 42.0,
+  "calibre": "Longines L888.4",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -4953,6 +5106,7 @@
    }
   ],
   "id": "longines-l3-811-4-93-6",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Spirit 42mm Azul COSC",
   "prices": {
@@ -4965,6 +5119,8 @@
   },
   "pvp_oficial": 2450.0,
   "ref": "L3.811.4.93.6",
+  "resistencia_m": 100,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -5389,12 +5545,15 @@
  {
   "brand": "Omega",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 42.0,
+  "calibre": "Omega 8800",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -5406,6 +5565,7 @@
    }
   ],
   "id": "omega-210-30-42-20-03-001",
+  "material": "Cerámica y acero",
   "movimiento": "automatico",
   "name": "Seamaster Diver 300M Azul",
   "prices": {
@@ -5418,6 +5578,8 @@
   },
   "pvp_oficial": 6500.0,
   "ref": "210.30.42.20.03.001",
+  "resistencia_m": 300,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -5486,12 +5648,15 @@
  {
   "brand": "Omega",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 43.5,
+  "calibre": "Omega 8900",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -5503,6 +5668,7 @@
    }
   ],
   "id": "omega-215-30-44-21-01-001",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Seamaster Planet Ocean 600M 43.5mm",
   "prices": {
@@ -5515,6 +5681,8 @@
   },
   "pvp_oficial": 7800.0,
   "ref": "215.30.44.21.01.001",
+  "resistencia_m": 600,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -5582,12 +5750,15 @@
  {
   "brand": "Omega",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 42.0,
+  "calibre": "Omega 3861",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -5599,6 +5770,7 @@
    }
   ],
   "id": "omega-310-30-42-50-01-002",
+  "material": "Acero inoxidable",
   "movimiento": "manual",
   "name": "Speedmaster Moonwatch Professional",
   "prices": {
@@ -5611,6 +5783,8 @@
   },
   "pvp_oficial": 7200.0,
   "ref": "310.30.42.50.01.002",
+  "resistencia_m": 50,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -5620,12 +5794,15 @@
  {
   "brand": "Omega",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 44.25,
+  "calibre": "Omega 9900",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -5637,6 +5814,7 @@
    }
   ],
   "id": "omega-329-30-44-51-01-002",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Speedmaster Racing Co-Axial 44.25mm",
   "prices": {
@@ -5649,6 +5827,8 @@
   },
   "pvp_oficial": 8500.0,
   "ref": "329.30.44.51.01.002",
+  "resistencia_m": 50,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -5658,12 +5838,15 @@
  {
   "brand": "Omega",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 39.5,
+  "calibre": "Omega 2500",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -5675,6 +5858,7 @@
    }
   ],
   "id": "omega-424-10-40-20-03-001",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "De Ville Prestige 40mm Azul",
   "prices": {
@@ -5687,6 +5871,8 @@
   },
   "pvp_oficial": 4200.0,
   "ref": "424.10.40.20.03.001",
+  "resistencia_m": 30,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -10393,12 +10579,15 @@
  {
   "brand": "Tissot",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
+  "calibre": "ETA C07.601",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Gris",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -10410,6 +10599,7 @@
    }
   ],
   "id": "tissot-t127-407-11-041-01",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Gentleman Powermatic 80 Silicium Azul",
   "prices": {
@@ -10422,6 +10612,8 @@
   },
   "pvp_oficial": 925.0,
   "ref": "T127.407.11.041.01",
+  "resistencia_m": 50,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -10892,12 +11084,15 @@
  {
   "brand": "Tudor",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 39.0,
+  "calibre": "Tudor MT5400",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -10909,6 +11104,7 @@
    }
   ],
   "id": "tudor-m25407n",
+  "material": "Titanio y cerámica",
   "movimiento": "automatico",
   "name": "Pelagos 39mm",
   "prices": {
@@ -10921,6 +11117,8 @@
   },
   "pvp_oficial": 4200.0,
   "ref": "M25407N",
+  "resistencia_m": 200,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -11065,12 +11263,15 @@
  {
   "brand": "Tudor",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.0,
+  "calibre": "Tudor T600",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -11082,6 +11283,7 @@
    }
   ],
   "id": "tudor-m79540-0007",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Black Bay 41mm",
   "prices": {
@@ -11094,6 +11296,8 @@
   },
   "pvp_oficial": 2900.0,
   "ref": "M79540-0007",
+  "resistencia_m": 150,
+  "specs_fuente": "watchbase.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {

@@ -3776,24 +3776,44 @@
    "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 40,
+  "calibre": "Grand Seiko 9S85",
   "categoria": "clasico",
   "checked": "2026-11-20T09:59:43+01:00",
   "correa": "Titanio (brazalete)",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://www.europeanwatch.com/watch/grand-seiko-sbga413-sbga413-shunbun-high-intensity-titanium-pink-70221"
+   "https://www.europeanwatch.com/watch/grand-seiko-sbga413-sbga413-shunbun-high-intensity-titanium-pink-70221",
+   "grandseiko",
+   "wristler"
   ],
   "history": [],
   "id": "grand-seiko-sbgh343g",
   "images": {},
+  "material": "Titanio",
   "name": "Heritage Sakura Wakaba",
-  "prices": {},
+  "prices": {
+   "grandseiko": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 8500.0,
+    "src": "https://www.grand-seiko.com/benelux-en/collections/sbgh343g"
+   },
+   "wristler": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 5990.0,
+    "src": "https://wristler.eu/watches/218486-grand-seiko-heritage-collection"
+   }
+  },
   "ref": "SBGH343G",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Vestir",
-  "urls": {}
+  "urls": {
+   "grandseiko": "https://www.grand-seiko.com/benelux-en/collections/sbgh343g",
+   "wristler": "https://wristler.eu/watches/218486-grand-seiko-heritage-collection"
+  }
  },
  {
   "brand": "Grand Seiko",
@@ -4089,6 +4109,7 @@
    "zapatajoyeros": "2026-11-17"
   },
   "caja_mm": 40,
+  "calibre": "Hamilton H-10",
   "categoria": "clasico",
   "checked": "2026-11-20T09:59:16+01:00",
   "correa": "Piel",
@@ -4096,18 +4117,23 @@
   "descartadas": [],
   "fuentes": [
    "https://www.joyeriamarcos.com/en/product/mens-watches/automatic-watches-en/hamilton-jazzmaster-viewmatic-auto-40mm-h32515535/",
-   "https://pisa1940.com/en/products/jazzmaster-auto"
+   "https://pisa1940.com/en/products/jazzmaster-auto",
+   "watchbase"
   ],
   "history": [],
   "id": "hamilton-h32515535",
   "images": {},
+  "material": "Acero inoxidable",
   "name": "Jazzmaster Viewmatic Auto",
   "prices": {},
   "ref": "H32515535",
+  "resistencia_m": 50,
   "target": null,
   "tier": "Gama media",
   "tipo": "Vestir",
-  "urls": {}
+  "urls": {
+   "watchbase": "https://watchbase.com/hamilton/jazzmaster/h32515535"
+  }
  },
  {
   "brand": "Hamilton",
@@ -5595,6 +5621,7 @@
    "zapatajoyeros": "2026-11-17"
   },
   "caja_mm": 36,
+  "calibre": "Omega 8800",
   "categoria": "clasico",
   "checked": "2026-11-20T02:27:27+01:00",
   "correa": "Acero y oro (brazalete)",
@@ -5602,18 +5629,31 @@
   "descartadas": [],
   "fuentes": [
    "https://worldwatchmuseum.com/relojes/omega/constellation/omega-constellation-203/",
-   "https://www.pedroluisolivaresjoyero.com/es/relojes/omega/constellation"
+   "https://www.pedroluisolivaresjoyero.com/es/relojes/omega/constellation",
+   "wristler"
   ],
   "history": [],
   "id": "omega-131.20.36.20.02.001",
   "images": {},
+  "material": "Acero y oro Sedna",
   "name": "Constellation 36 cuarzo",
-  "prices": {},
+  "prices": {
+   "wristler": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7950.0,
+    "src": "https://wristler.eu/watches/234683-omega-constellation"
+   }
+  },
   "ref": "131.20.36.20.02.001",
+  "resistencia_m": 50,
   "target": null,
   "tier": "Gama alta",
   "tipo": "Vestir",
-  "urls": {}
+  "urls": {
+   "wristler": "https://wristler.eu/watches/234683-omega-constellation",
+   "wristler_2024": "https://wristler.eu/watches/67970-omega-constellation"
+  }
  },
  {
   "brand": "Omega",
@@ -10694,18 +10734,30 @@
   "descartadas": [],
   "fuentes": [
    "https://www.nicols.es/es/tissot-28",
-   "https://www.tissotwatches.com/es-es/collection.html"
+   "https://www.tissotwatches.com/es-es/collection.html",
+   "tissot"
   ],
   "history": [],
   "id": "tissot-t120.217.17.011.00",
   "images": {},
+  "material": "Acero inoxidable",
   "name": "Seastar 1000 Chronograph 38 mm",
-  "prices": {},
+  "prices": {
+   "tissot": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 545.0,
+    "src": "https://www.tissotwatches.com/es-es/T1202171701100.html"
+   }
+  },
   "ref": "T120.217.17.011.00",
+  "resistencia_m": 300,
   "target": null,
   "tier": "Gama media",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "tissot": "https://www.tissotwatches.com/es-es/T1202171701100.html"
+  }
  },
  {
   "brand": "Tissot",

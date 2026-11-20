@@ -1379,7 +1379,7 @@
  {
   "brand": "Cartier",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -1408,6 +1408,11 @@
   },
   "pvp_oficial": 7000.0,
   "ref": "WSNM0015",
+  "specs": {
+   "material": "Acero",
+   "resistencia_m": 30,
+   "specs_fuente": "https://www.tourneau.com/watches/cartier/drive-de-cartier-wsnm0015-CAR0190021.html"
+  },
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -1417,14 +1422,15 @@
  {
   "brand": "Cartier",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 37,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "bucherer.com"
   ],
   "history": [
    {
@@ -1437,6 +1443,12 @@
   "movimiento": "cuarzo",
   "name": "Panthère de Cartier Medium",
   "prices": {
+   "bucherer.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 5550,
+    "src": "https://www.bucherer.com/de/en/watches/cartier/panthere-de-cartier/1294-475-9.html"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -1446,23 +1458,30 @@
   },
   "pvp_oficial": 4800.0,
   "ref": "WSPN0007",
+  "specs": {
+   "material": "Acero",
+   "resistencia_m": 30,
+   "specs_fuente": "https://www.bucherer.com/de/en/watches/cartier/panthere-de-cartier/1294-475-9.html"
+  },
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
+   "bucherer.com": "https://www.bucherer.com/de/en/watches/cartier/panthere-de-cartier/1294-475-9.html",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
  {
   "brand": "Cartier",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 39.8,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "mrporter.com"
   ],
   "history": [
    {
@@ -1475,6 +1494,12 @@
   "movimiento": "automatico",
   "name": "Santos de Cartier Large",
   "prices": {
+   "mrporter.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 9250,
+    "src": "https://www.mrporter.com/en-it/mens/product/cartier/luxury-watches/dress-watches/santos-large-automatic-interchangeable-stainless-steel-watch-ref-wssa0018/46376663162940326"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -1484,9 +1509,15 @@
   },
   "pvp_oficial": 7800.0,
   "ref": "WSSA0018",
+  "specs": {
+   "material": "Acero",
+   "resistencia_m": 100,
+   "specs_fuente": "https://www.the1916company.com/watches/cartier/santos/wssa0018/"
+  },
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
+   "mrporter.com": "https://www.mrporter.com/en-it/mens/product/cartier/luxury-watches/dress-watches/santos-large-automatic-interchangeable-stainless-steel-watch-ref-wssa0018/46376663162940326",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -1544,14 +1575,15 @@
  {
   "brand": "Cartier",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 33.7,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "bucherer.com"
   ],
   "history": [
    {
@@ -1564,6 +1596,12 @@
   "movimiento": "cuarzo",
   "name": "Tank Must de Cartier",
   "prices": {
+   "bucherer.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 3700,
+    "src": "https://bucherer.com/de/en/watches/cartier/tank/1341-744-2.html"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -1573,9 +1611,15 @@
   },
   "pvp_oficial": 3200.0,
   "ref": "WSTA0041",
+  "specs": {
+   "material": "Acero",
+   "resistencia_m": 30,
+   "specs_fuente": "https://en.maier.fr/watchmaking-jewelry-brands/cartier/watches/tank-must_4-28363"
+  },
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
+   "bucherer.com": "https://bucherer.com/de/en/watches/cartier/tank/1341-744-2.html",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -3918,14 +3962,15 @@
  {
   "brand": "Grand Seiko",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "grand-seiko.com"
   ],
   "history": [
    {
@@ -3938,6 +3983,12 @@
   "movimiento": "automatico",
   "name": "SLGH005 White Birch",
   "prices": {
+   "grand-seiko.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 10000,
+    "src": "https://www.grand-seiko.com/fr-fr/collections/slgh005g"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -3947,9 +3998,15 @@
   },
   "pvp_oficial": 10500.0,
   "ref": "SLGH005",
+  "specs": {
+   "material": "Acero",
+   "resistencia_m": 100,
+   "specs_fuente": "https://grand-seiko.com/ca-fr/collections/slgh005g"
+  },
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
+   "grand-seiko.com": "https://www.grand-seiko.com/fr-fr/collections/slgh005g",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -5167,7 +5224,7 @@
  {
   "brand": "Jaeger-LeCoultre",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 45.6,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -5196,6 +5253,10 @@
   },
   "pvp_oficial": 11000.0,
   "ref": "Q3978480",
+  "specs": {
+   "material": "Acero",
+   "specs_fuente": "https://www.jaeger-lecoultre.com/ru-en/watches/reverso/reverso-tribute/reverso-tribute-monoface-small-seconds-stainless-steel-q397843j"
+  },
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -5293,14 +5354,15 @@
  {
   "brand": "Longines",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 43,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "perodri.es"
   ],
   "history": [
    {
@@ -5313,6 +5375,12 @@
   "movimiento": "cuarzo",
   "name": "Conquest VHP 41mm Azul",
   "prices": {
+   "perodri.es": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1200,
+    "src": "https://www.perodri.es/en/relojes/longines/conquest-vhp/longines-conquest-vhp-2/"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -5322,9 +5390,15 @@
   },
   "pvp_oficial": 1100.0,
   "ref": "L3.726.4.96.6",
+  "specs": {
+   "material": "Acero",
+   "resistencia_m": 50,
+   "specs_fuente": "https://www.watchonista.com/node/471547"
+  },
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "perodri.es": "https://www.perodri.es/en/relojes/longines/conquest-vhp/longines-conquest-vhp-2/",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -10404,14 +10478,15 @@
  {
   "brand": "TAG Heuer",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 43,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "tagheuer.com"
   ],
   "history": [
    {
@@ -10429,14 +10504,26 @@
     "manual": true,
     "p": 1950.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "tagheuer.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1950,
+    "src": "https://tagheuer.com/fr/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chronograph/CAZ1010.BA0842.html"
    }
   },
   "pvp_oficial": 1950.0,
   "ref": "CAZ1010.BA0842",
+  "specs": {
+   "material": "Acero",
+   "resistencia_m": 200,
+   "specs_fuente": "https://tagheuer.com/at/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz/CAZ1010.BA0842.html"
+  },
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "tagheuer.com": "https://tagheuer.com/fr/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chronograph/CAZ1010.BA0842.html"
   }
  },
  {
@@ -10538,7 +10625,7 @@
  {
   "brand": "TAG Heuer",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 39,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -10567,6 +10654,10 @@
   },
   "pvp_oficial": 5800.0,
   "ref": "CBS2210.BA0631",
+  "specs": {
+   "material": "Acero",
+   "specs_fuente": "https://tagheuer.com/ad/en/timepieces/collections/tag-heuer-carrera/39-mm-th20-00/CBS2210.FC6534.html"
+  },
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -12187,14 +12278,15 @@
  {
   "brand": "Zenith",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "bucherer.com"
   ],
   "history": [
    {
@@ -12207,6 +12299,12 @@
   "movimiento": "automatico",
   "name": "Chronomaster Sport",
   "prices": {
+   "bucherer.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 12200,
+    "src": "https://www.bucherer.com/fr/en/watches/zenith/chronomaster/1340-336-6.html"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -12216,9 +12314,15 @@
   },
   "pvp_oficial": 10300.0,
   "ref": "03.3100.3600/69.M3100",
+  "specs": {
+   "material": "Acero",
+   "resistencia_m": 100,
+   "specs_fuente": "https://www.bucherer.com/fr/en/watches/zenith/chronomaster/1340-336-6.html"
+  },
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
+   "bucherer.com": "https://www.bucherer.com/fr/en/watches/zenith/chronomaster/1340-336-6.html",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  }

@@ -1626,14 +1626,15 @@
  {
   "brand": "Cartier",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 25.7,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "https://chrono24.com/cartier/cartier-tank-francaise-sm-wsta0065--id44844565.htm"
   ],
   "history": [
    {
@@ -6725,14 +6726,15 @@
  {
   "brand": "Oris",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.5,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "https://dials.co/watches/oris/propilot/01-798-7773-4284-hb-zqn-set"
   ],
   "history": [
    {

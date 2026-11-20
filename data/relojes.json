@@ -2992,18 +2992,34 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "https://www.watchia.com/eu/casio-g-shock-master-of-g-land-rangeman-gpr-h1000-1er.html"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 659.0,
+    "s": "watchia"
+   }
+  ],
   "id": "casio-gpr-h1000-1er",
   "images": {},
   "name": "G-Shock GPR-H1000-1ER",
-  "prices": {},
+  "prices": {
+   "watchia": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 659.0,
+    "src": "https://www.watchia.com/eu/casio-g-shock-master-of-g-land-rangeman-gpr-h1000-1er.html"
+   }
+  },
   "ref": "GPR-H1000-1ER",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "watchia": "https://www.watchia.com/eu/casio-g-shock-master-of-g-land-rangeman-gpr-h1000-1er.html"
+  }
  },
  {
   "brand": "Casio",
@@ -3022,18 +3038,34 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "https://notebookcheck.net/Casio-s-sapphire-equipped-G-Shock-GST-W1000-series-gets-European-pricing-and-release-window.1433588.0.html"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 779.0,
+    "s": "notebookcheck.net"
+   }
+  ],
   "id": "casio-gst-w1000d-1a",
   "images": {},
   "name": "G-Shock GST-W1000D-1A",
-  "prices": {},
+  "prices": {
+   "notebookcheck.net": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 779.0,
+    "src": "https://notebookcheck.net/Casio-s-sapphire-equipped-G-Shock-GST-W1000-series-gets-European-pricing-and-release-window.1433588.0.html"
+   }
+  },
   "ref": "GST-W1000D-1A",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "notebookcheck.net": "https://notebookcheck.net/Casio-s-sapphire-equipped-G-Shock-GST-W1000-series-gets-European-pricing-and-release-window.1433588.0.html"
+  }
  },
  {
   "brand": "Casio",

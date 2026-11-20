@@ -8,6 +8,10 @@
   const main = $('#main');
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const eur = (n) => (n == null ? '—' : n.toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' €');
+  // Precio de una oferta: si la moneda no es EUR, se muestra el importe con una etiqueta de moneda (p. ej. GBP)
+  const pr = (v) => (v.moneda && v.moneda !== 'EUR'
+    ? `${v.p.toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 })} <span class="pill" title="Precio en ${v.moneda}, no convertido">${v.moneda}</span>`
+    : eur(v.p));
   const SHOPS = { idealo: 'Idealo', oficial: 'Tienda oficial', distribuidor: 'Distribuidor', eci: 'El Corte Inglés', amazon: 'Amazon' };
   const shopName = (s) => SHOPS[s] || s;
   const store = (k) => { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch { return null; } };
@@ -19,7 +23,8 @@
   // ---------------------------------------------------------------- datos y cálculos
   let relojes = [], chollos = [];
   const fresh = (item) => Object.entries(item.prices || {})
-    .filter(([, v]) => v && v.p && v.stock !== false && (Date.now() - new Date(v.d).getTime()) / 864e5 <= FRESH_DAYS)
+    // Solo EUR entra en el mejor precio y en la dispersión: no se mezclan monedas sin convertir
+    .filter(([, v]) => v && v.p && v.stock !== false && (!v.moneda || v.moneda === 'EUR') && (Date.now() - new Date(v.d).getTime()) / 864e5 <= FRESH_DAYS)
     .map(([s, v]) => ({ s, ...v }));
   const best = (item) => fresh(item).sort((a, b) => a.p - b.p)[0] || null;
   const spread = (item) => { const f = fresh(item); return f.length > 1 ? Math.max(...f.map((x) => x.p)) - Math.min(...f.map((x) => x.p)) : 0; };
@@ -116,7 +121,7 @@
         </div>
         <div class="panel"><h3 style="font-size:22px;margin-bottom:8px">Precio en cada tienda</h3>
           ${offers.length ? `<table><thead><tr><th>Tienda</th><th class="n">Precio</th></tr></thead><tbody>
-            ${offers.map((o, k) => `<tr class="${k === 0 ? 'best' : ''}"><td>${esc(shopName(o.s))}${o.via ? ` <span class="muted">vía ${esc(shopName(o.via))}</span>` : ''}<br><span class="muted">${ago(o.d)}${o.stock === false ? ' · agotado' : ''}${o.manual ? ' · verificado a mano' : ''}</span></td><td class="n">${eur(o.p)}</td></tr>`).join('')}
+            ${offers.map((o, k) => `<tr class="${k === 0 ? 'best' : ''}"><td>${esc(shopName(o.s))}${o.via ? ` <span class="muted">vía ${esc(shopName(o.via))}</span>` : ''}<br><span class="muted">${ago(o.d)}${o.stock === false ? ' · agotado' : ''}${o.manual ? ' · verificado a mano' : ''}</span></td><td class="n">${pr(o)}</td></tr>`).join('')}
           </tbody></table>` : '<p class="muted">Todavía no hay precios para este reloj.</p>'}
         </div>
         ${deals.length ? `<div class="panel"><h3 style="font-size:22px;margin-bottom:8px">Chollos publicados</h3>${deals.slice(0, 4).map((c) => `<p><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.t)}</a><br><span class="muted">${c.p != null ? eur(c.p) : ''}</span></p>`).join('')}</div>` : ''}

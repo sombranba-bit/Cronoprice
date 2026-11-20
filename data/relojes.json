@@ -1778,18 +1778,28 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "notebookcheck.net"
   ],
   "history": [],
   "id": "casio-dw-5600ssh-4",
   "images": {},
   "name": "G-Shock DW-5600SSH-4",
-  "prices": {},
+  "prices": {
+   "notebookcheck.net": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 139,
+    "src": "https://notebookcheck.net/casio-s-new-made-in-japan-sushi-g-shocks-launch-in-the-eu-but-the-pricing-order-flips.1440607.0.html"
+   }
+  },
   "ref": "DW-5600SSH-4",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "notebookcheck.net": "https://notebookcheck.net/casio-s-new-made-in-japan-sushi-g-shocks-launch-in-the-eu-but-the-pricing-order-flips.1440607.0.html"
+  }
  },
  {
   "brand": "Casio",
@@ -1808,18 +1818,28 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "notebookcheck.net"
   ],
   "history": [],
   "id": "casio-dw-6900ssh-1",
   "images": {},
   "name": "G-Shock DW-6900SSH-1",
-  "prices": {},
+  "prices": {
+   "notebookcheck.net": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 149,
+    "src": "https://notebookcheck.net/casio-s-new-made-in-japan-sushi-g-shocks-launch-in-the-eu-but-the-pricing-order-flips.1440607.0.html"
+   }
+  },
   "ref": "DW-6900SSH-1",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "notebookcheck.net": "https://notebookcheck.net/casio-s-new-made-in-japan-sushi-g-shocks-launch-in-the-eu-but-the-pricing-order-flips.1440607.0.html"
+  }
  },
  {
   "brand": "Casio",
@@ -2367,18 +2387,28 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "notebookcheck.net"
   ],
   "history": [],
   "id": "casio-ga-2100ssh-4a",
   "images": {},
   "name": "G-Shock GA-2100SSH-4A",
-  "prices": {},
+  "prices": {
+   "notebookcheck.net": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 129,
+    "src": "https://notebookcheck.net/casio-s-new-made-in-japan-sushi-g-shocks-launch-in-the-eu-but-the-pricing-order-flips.1440607.0.html"
+   }
+  },
   "ref": "GA-2100SSH-4A",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "notebookcheck.net": "https://notebookcheck.net/casio-s-new-made-in-japan-sushi-g-shocks-launch-in-the-eu-but-the-pricing-order-flips.1440607.0.html"
+  }
  },
  {
   "brand": "Casio",
@@ -3189,19 +3219,31 @@
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "jurawatches.co.uk"
+  ],
   "history": [],
   "id": "citizen-bn0150-28e",
   "images": {},
   "material": "Acero inoxidable",
   "name": "Promaster Diver BN0150-28E",
-  "prices": {},
+  "prices": {
+   "jurawatches.co.uk": {
+    "d": "2026-11-20",
+    "manual": true,
+    "moneda": "GBP",
+    "p": 289,
+    "src": "https://jurawatches.co.uk/products/citizen-watch-eco-drive-wr100-mens-bn0150-28e"
+   }
+  },
   "ref": "BN0150-28E",
   "resistencia_m": 200,
   "target": null,
   "tier": "Asequible",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "jurawatches.co.uk": "https://jurawatches.co.uk/products/citizen-watch-eco-drive-wr100-mens-bn0150-28e"
+  }
  },
  {
   "brand": "Citizen",

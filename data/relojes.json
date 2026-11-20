@@ -5779,6 +5779,12 @@
     "manual": true,
     "p": 7200.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "wristler": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7000.0,
+    "src": "https://wristler.eu/watches/84194-omega-speedmaster-professional-moonwatch"
    }
   },
   "pvp_oficial": 7200.0,
@@ -5788,7 +5794,8 @@
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "wristler": "https://wristler.eu/watches/84194-omega-speedmaster-professional-moonwatch"
   }
  },
  {
@@ -5978,7 +5985,8 @@
   "urls": {
    "distribuidor": "https://bucherer.com/de/en/watches/omega/speedmaster/1337-038-0.html",
    "lepage": "https://www.lepage.fr/en/9698-omega-speedmaster-moonwatch-professional-chronograph-co-axial-master-chronometer-hesalite-crystal-steel-bracelet-42-mm-31030425001001.html",
-   "montredo": "https://www.montredo.com/products/omega-speedmaster-moonwatch-manual-winding-black-42mm-33916?_pos=1&_sid=19813f9ad&_ss=r"
+   "montredo": "https://www.montredo.com/products/omega-speedmaster-moonwatch-manual-winding-black-42mm-33916?_pos=1&_sid=19813f9ad&_ss=r",
+   "wristler": "https://wristler.eu/es/relojes/221320-omega-speedmaster-professional-moonwatch"
   },
   "verificada": true
  },

@@ -1380,12 +1380,15 @@
  {
   "brand": "Cartier",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 35.1,
+  "calibre": "Cartier 1847 MC",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Plata opalina",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -1397,9 +1400,16 @@
    }
   ],
   "id": "cartier-wssa0029",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Santos de Cartier Medium",
   "prices": {
+   "mrporter": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 8450.0,
+    "src": "https://www.mrporter.com/en-fi/mens/product/cartier/luxury-watches/dress-watches/santos-automatic-medium-351mm-stainless-steel-interchangeable-leather-watch-ref-no-wssa0029/46376663162940299"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -1409,9 +1419,12 @@
   },
   "pvp_oficial": 7200.0,
   "ref": "WSSA0029",
+  "resistencia_m": 100,
+  "specs_fuente": "the1916company.com, quera.es",
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
+   "mrporter": "https://www.mrporter.com/en-fi/mens/product/cartier/luxury-watches/dress-watches/santos-automatic-medium-351mm-stainless-steel-interchangeable-leather-watch-ref-no-wssa0029/46376663162940299",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -7408,12 +7421,15 @@
  {
   "brand": "Seiko",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 39.3,
+  "calibre": "Seiko 6R35",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Azul",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -7425,6 +7441,7 @@
    }
   ],
   "id": "seiko-spb167j1",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Presage Sharp Edged Tokiwa Verde",
   "prices": {
@@ -7437,6 +7454,8 @@
   },
   "pvp_oficial": 995.0,
   "ref": "SPB167J1",
+  "resistencia_m": 100,
+  "specs_fuente": "varias tiendas y seikowatches.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -11180,12 +11199,15 @@
  {
   "brand": "Tudor",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 39.0,
+  "calibre": "Tudor MT5402",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
+  "esfera": "Negro",
   "fuentes": [
    "https://relojdelujo.com/precios"
   ],
@@ -11197,6 +11219,7 @@
    }
   ],
   "id": "tudor-m79030n",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Black Bay Fifty-Eight 39mm",
   "prices": {
@@ -11209,6 +11232,8 @@
   },
   "pvp_oficial": 4820.0,
   "ref": "M79030N",
+  "resistencia_m": 200,
+  "specs_fuente": "petitegeneve.com, finks.com",
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {

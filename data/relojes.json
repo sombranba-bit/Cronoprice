@@ -6455,14 +6455,15 @@
  {
   "brand": "Oris",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.5,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "oris.ch"
   ],
   "history": [
    {
@@ -6475,6 +6476,13 @@
   "movimiento": "automatico",
   "name": "Aquis Date Calibre 400 41.5mm",
   "prices": {
+   "oris.ch": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 3500,
+    "src": "https://www.oris.ch/en-SK/product/watch/aquis/aquis-date-calibre-400/01-400-7769-4135-07-8-22-09PEB",
+    "variante": "01 400 7769 4135-07 8 22 09PEB"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -6484,9 +6492,15 @@
   },
   "pvp_oficial": 3500.0,
   "ref": "01 400 7769 4135",
+  "specs": {
+   "material": "Acero",
+   "resistencia_m": 300,
+   "specs_fuente": "https://www.oris.ch/en-SK/product/watch/aquis/aquis-date-calibre-400/01-400-7769-4135-07-8-22-09PEB"
+  },
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "oris.ch": "https://www.oris.ch/en-SK/product/watch/aquis/aquis-date-calibre-400/01-400-7769-4135-07-8-22-09PEB",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -10667,14 +10681,15 @@
  {
   "brand": "TAG Heuer",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "tagheuer.com"
   ],
   "history": [
    {
@@ -10692,14 +10707,25 @@
     "manual": true,
     "p": 2650.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "tagheuer.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4050,
+    "src": "https://www.tagheuer.com/mk/en/timepieces/collections/tag-heuer-link/41-mm-calibre-5-automatic/WBC2112.BA0603.html"
    }
   },
   "pvp_oficial": 2650.0,
   "ref": "WBC2112.BA0603",
+  "specs": {
+   "material": "Acero",
+   "specs_fuente": "https://www.tagheuer.com/mk/en/timepieces/collections/tag-heuer-link/41-mm-calibre-5-automatic/WBC2112.BA0603.html"
+  },
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "tagheuer.com": "https://www.tagheuer.com/mk/en/timepieces/collections/tag-heuer-link/41-mm-calibre-5-automatic/WBC2112.BA0603.html"
   }
  },
  {
@@ -10891,14 +10917,15 @@
  {
   "brand": "Tissot",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 39.3,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "tissotwatches.com"
   ],
   "history": [
    {
@@ -10916,14 +10943,26 @@
     "manual": true,
     "p": 650.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "tissotwatches.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 745,
+    "src": "https://www.tissotwatches.com/en-ie/T0064071103300.html",
+    "variante": "T006.407.11.033.00"
    }
   },
   "pvp_oficial": 650.0,
   "ref": "T006.407.11.033.01",
+  "specs": {
+   "material": "Acero",
+   "specs_fuente": "https://www.tissotwatches.com/es-es/T0064071103300.html"
+  },
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "tissotwatches.com": "https://www.tissotwatches.com/en-ie/T0064071103300.html"
   }
  },
  {
@@ -11446,14 +11485,15 @@
  {
   "brand": "Tissot",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "tissotwatches.com"
   ],
   "history": [
    {
@@ -11471,14 +11511,25 @@
     "manual": true,
     "p": 775.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "tissotwatches.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 775,
+    "src": "https://www.tissotwatches.com/es-es/T1374071109101.html"
    }
   },
   "pvp_oficial": 775.0,
   "ref": "T137.407.11.091.01",
+  "specs": {
+   "material": "Acero",
+   "specs_fuente": "https://www.tissotwatches.com/es-es/T1374071109101.html"
+  },
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "tissotwatches.com": "https://www.tissotwatches.com/es-es/T1374071109101.html"
   }
  },
  {

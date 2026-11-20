@@ -2877,18 +2877,29 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "maier.fr"
   ],
   "history": [],
   "id": "casio-gmw-b5000d-1cer",
   "images": {},
+  "material": "Acero",
   "name": "G-Shock GMW-B5000D-1CER",
-  "prices": {},
+  "prices": {
+   "maier.fr": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 549.0,
+    "src": "https://en.maier.fr/watchmaking-jewelry-brands/g-shock/watches/g-shock-origin/gmw-b5000d-1c_gmw-b5000d-1cer"
+   }
+  },
   "ref": "GMW-B5000D-1CER",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "maier.fr": "https://en.maier.fr/watchmaking-jewelry-brands/g-shock/watches/g-shock-origin/gmw-b5000d-1c_gmw-b5000d-1cer"
+  }
  },
  {
   "brand": "Casio",
@@ -6456,14 +6467,15 @@
  {
   "brand": "Oris",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 38.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "oris.ch"
   ],
   "history": [
    {
@@ -6473,9 +6485,16 @@
    }
   ],
   "id": "oris-01-733-7771-4055",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Divers Sixty-Five 36mm Azul",
   "prices": {
+   "oris.ch": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 2450.0,
+    "src": "https://www.oris.ch/en-DE/watch/divers-sixty-five/01-733-7771-4055-07-8-19-18"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -6485,23 +6504,26 @@
   },
   "pvp_oficial": 2150.0,
   "ref": "01 733 7771 4055",
+  "resistencia_m": 100,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "oris.ch": "https://www.oris.ch/en-DE/watch/divers-sixty-five/01-733-7771-4055-07-8-19-18",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
  {
   "brand": "Oris",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "oris.ch"
   ],
   "history": [
    {
@@ -6511,9 +6533,17 @@
    }
   ],
   "id": "oris-01-754-7741-4065",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Big Crown Pointer Date 40mm",
   "prices": {
+   "oris.ch": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1950.0,
+    "src": "https://www.oris.ch/en-GR/watch/big-crown-pointer-date/01-754-7741-4065-07-5-20-63",
+    "variante": "01 754 7741 4065-07 5 20 63"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -6526,6 +6556,7 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "oris.ch": "https://www.oris.ch/en-GR/watch/big-crown-pointer-date/01-754-7741-4065-07-5-20-63",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -6698,14 +6729,15 @@
  {
   "brand": "Patek Philippe",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "pisa1940.com"
   ],
   "history": [
    {
@@ -6715,9 +6747,16 @@
    }
   ],
   "id": "patek-philippe-5226g-001",
+  "material": "Oro blanco 18 kt",
   "movimiento": "automatico",
   "name": "Calatrava 5226G",
   "prices": {
+   "pisa1940.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 42055.0,
+    "src": "https://pisa1940.com/en/products/calatrava-11"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -6727,9 +6766,11 @@
   },
   "pvp_oficial": 43800.0,
   "ref": "5226G-001",
+  "resistencia_m": 30,
   "tier": "Ultra lujo",
   "tipo": "Vestir",
   "urls": {
+   "pisa1940.com": "https://pisa1940.com/en/products/calatrava-11",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -10401,14 +10442,15 @@
  {
   "brand": "TAG Heuer",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 39.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "tagheuer.com"
   ],
   "history": [
    {
@@ -10418,6 +10460,7 @@
    }
   ],
   "id": "tag-heuer-cbl2111-ba0644",
+  "material": "Acero",
   "movimiento": "automatico",
   "name": "Monaco Calibre Heuer 02 39mm",
   "prices": {
@@ -10426,27 +10469,36 @@
     "manual": true,
     "p": 7600.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "tagheuer.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 8450.0,
+    "src": "https://www.tagheuer.com/es/es/relojes/colecciones/tag-heuer-monaco/39-mm-th20-00/CBL2111.BA0644.html"
    }
   },
   "pvp_oficial": 7600.0,
   "ref": "CBL2111.BA0644",
+  "resistencia_m": 100,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "tagheuer.com": "https://www.tagheuer.com/es/es/relojes/colecciones/tag-heuer-monaco/39-mm-th20-00/CBL2111.BA0644.html"
   }
  },
  {
   "brand": "TAG Heuer",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 44.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "tagheuer.com"
   ],
   "history": [
    {
@@ -10456,6 +10508,7 @@
    }
   ],
   "id": "tag-heuer-cbn2a1b-ba0643",
+  "material": "Acero y cerámica",
   "movimiento": "automatico",
   "name": "Carrera Chronograph 44mm Heuer 02",
   "prices": {
@@ -10464,14 +10517,22 @@
     "manual": true,
     "p": 6300.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "tagheuer.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 6950.0,
+    "src": "https://tagheuer.com/ad/en/timepieces/collections/tag-heuer-carrera/44-mm-th20-00/CBN2A1B.BA0643.html"
    }
   },
   "pvp_oficial": 6300.0,
   "ref": "CBN2A1B.BA0643",
+  "resistencia_m": 100,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "tagheuer.com": "https://tagheuer.com/ad/en/timepieces/collections/tag-heuer-carrera/44-mm-th20-00/CBN2A1B.BA0643.html"
   }
  },
  {
@@ -10777,14 +10838,15 @@
  {
   "brand": "Tissot",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 46.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "tissotwatches.com"
   ],
   "history": [
    {
@@ -10794,6 +10856,7 @@
    }
   ],
   "id": "tissot-t120-607-11-041-01",
+  "material": "Acero inoxidable 316L",
   "movimiento": "automatico",
   "name": "Seastar 2000 Professional 46mm",
   "prices": {
@@ -10802,14 +10865,22 @@
     "manual": true,
     "p": 1100.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "tissotwatches.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1225.0,
+    "src": "https://www.tissotwatches.com/es-es/T1206071104101.html"
    }
   },
   "pvp_oficial": 1100.0,
   "ref": "T120.607.11.041.01",
+  "resistencia_m": 600,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "tissotwatches.com": "https://www.tissotwatches.com/es-es/T1206071104101.html"
   }
  },
  {
@@ -11144,14 +11215,15 @@
  {
   "brand": "Tissot",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 45.5,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "tissotwatches.com"
   ],
   "history": [
    {
@@ -11161,6 +11233,7 @@
    }
   ],
   "id": "tissot-t125-617-11-051-00",
+  "material": "Acero inoxidable 316L",
   "movimiento": "cuarzo",
   "name": "Supersport Chrono 45mm",
   "prices": {
@@ -11169,14 +11242,22 @@
     "manual": true,
     "p": 475.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "tissotwatches.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 495.0,
+    "src": "https://www.tissotwatches.com/en-fi/T1256171105100.html"
    }
   },
   "pvp_oficial": 475.0,
   "ref": "T125.617.11.051.00",
+  "resistencia_m": 100,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "tissotwatches.com": "https://www.tissotwatches.com/en-fi/T1256171105100.html"
   }
  },
  {

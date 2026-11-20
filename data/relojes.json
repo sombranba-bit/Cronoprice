@@ -1340,7 +1340,7 @@
  {
   "brand": "Cartier",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -1357,6 +1357,7 @@
    }
   ],
   "id": "cartier-wsbb0046",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Ballon Bleu de Cartier 40mm",
   "prices": {
@@ -2185,18 +2186,28 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "ebay.com"
   ],
   "history": [],
   "id": "casio-ga-2100-7a",
   "images": {},
   "name": "G-Shock GA-2100-7A",
-  "prices": {},
+  "prices": {
+   "ebay.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 84.0,
+    "src": "https://www.ebay.com/itm/284503508889"
+   }
+  },
   "ref": "GA-2100-7A",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "ebay.com": "https://www.ebay.com/itm/284503508889"
+  }
  },
  {
   "brand": "Casio",
@@ -5796,6 +5807,7 @@
   "history": [],
   "id": "omega-131.30.41.21.03.001",
   "images": {},
+  "material": "Acero",
   "name": "Constellation 41 azul",
   "prices": {},
   "ref": "131.30.41.21.03.001",
@@ -6371,14 +6383,15 @@
  {
   "brand": "Oris",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.5,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "wristler.eu"
   ],
   "history": [
    {
@@ -6388,6 +6401,7 @@
    }
   ],
   "id": "oris-01-733-7766-4135",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Aquis Date 41.5mm",
   "prices": {
@@ -6396,14 +6410,22 @@
     "manual": true,
     "p": 2400.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "wristler.eu": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 1698.0,
+    "src": "https://wristler.eu/es/relojes/6596-oris-aquis-date"
    }
   },
   "pvp_oficial": 2400.0,
   "ref": "01 733 7766 4135",
+  "resistencia_m": 300,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "wristler.eu": "https://wristler.eu/es/relojes/6596-oris-aquis-date"
   }
  },
  {
@@ -6680,14 +6702,15 @@
  {
   "brand": "Patek Philippe",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "pisa1940.com"
   ],
   "history": [
    {
@@ -6697,9 +6720,16 @@
    }
   ],
   "id": "patek-philippe-5811-1g-001",
+  "material": "Oro blanco 18 kt",
   "movimiento": "automatico",
   "name": "Nautilus 5811/1G",
   "prices": {
+   "pisa1940.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 72824.0,
+    "src": "https://pisa1940.com/en/products/nautilus-7"
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -6709,9 +6739,11 @@
   },
   "pvp_oficial": 150000.0,
   "ref": "5811/1G-001",
+  "resistencia_m": 30,
   "tier": "Ultra lujo",
   "tipo": "Vestir",
   "urls": {
+   "pisa1940.com": "https://pisa1940.com/en/products/nautilus-7",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -7903,7 +7935,6 @@
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
-  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
   "fuentes": [
@@ -10486,14 +10517,15 @@
  {
   "brand": "TAG Heuer",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 43.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "tagheuer.com"
   ],
   "history": [
    {
@@ -10503,6 +10535,7 @@
    }
   ],
   "id": "tag-heuer-wbp201b-ba0632",
+  "material": "Acero",
   "movimiento": "automatico",
   "name": "Aquaracer Professional 300 43mm",
   "prices": {
@@ -10511,14 +10544,22 @@
     "manual": true,
     "p": 3450.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "tagheuer.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4050.0,
+    "src": "https://www.tagheuer.com/es/en/timepieces/collections/tag-heuer-aquaracer/43-mm-calibre-5-automatic/WBP201B.BA0632.html"
    }
   },
   "pvp_oficial": 3450.0,
   "ref": "WBP201B.BA0632",
+  "resistencia_m": 300,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "tagheuer.com": "https://www.tagheuer.com/es/en/timepieces/collections/tag-heuer-aquaracer/43-mm-calibre-5-automatic/WBP201B.BA0632.html"
   }
  },
  {
@@ -11149,14 +11190,15 @@
  {
   "brand": "Tissot",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
   "fuentes": [
-   "https://relojdelujo.com/precios"
+   "https://relojdelujo.com/precios",
+   "tissotwatches.com"
   ],
   "history": [
    {
@@ -11166,6 +11208,7 @@
    }
   ],
   "id": "tissot-t137-407-11-041-00",
+  "material": "Acero inoxidable 316L",
   "movimiento": "automatico",
   "name": "PRX Powermatic 80 Azul",
   "prices": {
@@ -11174,14 +11217,22 @@
     "manual": true,
     "p": 775.0,
     "src": "https://relojdelujo.com/precios"
+   },
+   "tissotwatches.com": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 775.0,
+    "src": "https://www.tissotwatches.com/es-es/t1374071104100.html"
    }
   },
   "pvp_oficial": 775.0,
   "ref": "T137.407.11.041.00",
+  "resistencia_m": 100,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
-   "relojdelujo": "https://relojdelujo.com/precios"
+   "relojdelujo": "https://relojdelujo.com/precios",
+   "tissotwatches.com": "https://www.tissotwatches.com/es-es/t1374071104100.html"
   }
  },
  {

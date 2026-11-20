@@ -1,91 +1,203 @@
 {
- "at": "2026-11-20T10:01:58+01:00",
+ "at": "2026-11-20T18:49:30+01:00",
  "revisados": 70,
  "tiendas": {
-  "wristler": {
-   "ok": 1,
+  "idealo": {
+   "ok": 13,
    "bloqueada": 0,
-   "sin_precio": 3,
-   "dudoso": 1,
-   "jsonld": 1,
+   "sin_precio": 1,
+   "dudoso": 0,
+   "jsonld": 7,
+   "jsonld-titulo": 6
+  },
+  "lepage": {
+   "ok": 18,
+   "bloqueada": 2,
+   "sin_precio": 0,
+   "dudoso": 3,
+   "jsonld": 18,
    "ejemplos": [
     {
-     "reloj": "rolex-126711chnr",
-     "precio": 18.78,
-     "referencia": 18190.0,
-     "metodo": "texto"
+     "reloj": "breitling-ab3110241b1a1",
+     "precio": 6700.0,
+     "referencia": 4445.38,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3111161c1a1",
+     "precio": 6700.0,
+     "referencia": 4277.31,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3113171l1a1",
+     "precio": 6000.0,
+     "referencia": 3705.88,
+     "metodo": "jsonld"
     }
    ]
   },
   "montredo": {
-   "ok": 31,
+   "ok": 21,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
-   "jsonld-titulo": 31
-  },
-  "lepage": {
-   "ok": 19,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 1,
-   "ejemplos": [
-    {
-     "reloj": "omega-131.30.41.21.99.001",
-     "precio": 10700.0,
-     "referencia": 6722.69,
-     "metodo": "jsonld"
-    }
-   ],
-   "jsonld": 19
+   "jsonld-titulo": 21
   },
   "planetarelojes": {
-   "ok": 16,
+   "ok": 21,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
-   "jsonld": 16
+   "jsonld": 21
   },
-  "idealo": {
-   "ok": 11,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 6,
-   "jsonld-titulo": 5
-  },
-  "distribuidor": {
-   "ok": 6,
+  "notebookcheck.net": {
+   "ok": 0,
    "bloqueada": 3,
-   "sin_precio": 3,
+   "sin_precio": 0,
+   "dudoso": 0
+  },
+  "breitling": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 0,
    "dudoso": 1,
    "ejemplos": [
     {
-     "reloj": "oris-aquis-date-01-733-7730-4135-07-8-24-05peb",
-     "precio": 2300.0,
-     "referencia": 1462.18,
+     "reloj": "breitling-ab0134101l1a1",
+     "precio": 9600.0,
+     "referencia": 6287.0,
      "metodo": "jsonld"
     }
-   ],
-   "jsonld": 6
+   ]
   },
-  "oficial": {
-   "ok": 2,
-   "bloqueada": 1,
-   "sin_precio": 1,
+  "wristler": {
+   "ok": 3,
+   "bloqueada": 0,
+   "sin_precio": 2,
    "dudoso": 0,
-   "jsonld": 2
+   "jsonld": 3
   },
-  "quera": {
+  "relojeshermosos": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "ebay.com": {
    "ok": 0,
    "bloqueada": 1,
    "sin_precio": 0,
    "dudoso": 0
   },
-  "elcorteingles": {
+  "maier.fr": {
+   "ok": 1,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 1
+  },
+  "watchia": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 1,
+   "ejemplos": [
+    {
+     "reloj": "casio-gpr-h1000-1er",
+     "precio": 1009.0,
+     "referencia": 659.0,
+     "metodo": "jsonld"
+    }
+   ]
+  },
+  "distribuidor": {
+   "ok": 0,
+   "bloqueada": 1,
+   "sin_precio": 0,
+   "dudoso": 0
+  },
+  "joieriagrau": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "elcronometro": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "wristler_2024": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "tissot": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "boutiquedosrelogios": {
+   "ok": 1,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 1
+  },
+  "douxjoaillier": {
+   "ok": 1,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 1
+  },
+  "maier": {
+   "ok": 1,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 1
+  },
+  "relojdelujo": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 7,
+   "dudoso": 2,
+   "ejemplos": [
+    {
+     "reloj": "audemars-piguet-15510st-oo-1320st-06",
+     "precio": 45.0,
+     "referencia": 45000.0,
+     "metodo": "texto"
+    },
+    {
+     "reloj": "audemars-piguet-26238st-oo-a340ca-01",
+     "precio": 50.0,
+     "referencia": 50000.0,
+     "metodo": "texto"
+    }
+   ]
+  },
+  "bucherer.com": {
    "ok": 0,
    "bloqueada": 0,
    "sin_precio": 2,
+   "dudoso": 0
+  },
+  "mrporter.com": {
+   "ok": 0,
+   "bloqueada": 1,
+   "sin_precio": 0,
+   "dudoso": 0
+  },
+  "mrporter": {
+   "ok": 0,
+   "bloqueada": 1,
+   "sin_precio": 0,
    "dudoso": 0
   }
  },

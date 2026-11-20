@@ -1872,7 +1872,7 @@
    "planetarelojes": "2026-11-17",
    "zapatajoyeros": "2026-11-17"
   },
-  "caja_mm": null,
+  "caja_mm": 45.0,
   "categoria": "clasico",
   "checked": "2026-11-20T10:01:16+01:00",
   "correa": null,
@@ -1880,7 +1880,8 @@
   "descartadas": [],
   "fuentes": [
    "https://www.casio.com/uk/watches/gshock/product.GA-2100-1A1/",
-   "https://www.footshop.eu/en/watches/99322-casio-g-shock-ga-2100-1a1er.html"
+   "https://www.footshop.eu/en/watches/99322-casio-g-shock-ga-2100-1a1er.html",
+   "watchclick"
   ],
   "history": [
    {
@@ -1979,6 +1980,12 @@
     "d": "2026-11-20",
     "gh": true,
     "p": 90.0
+   },
+   "watchclick": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 122.0,
+    "src": "https://watchclick.com/es/products/mens-watch-casio-g-shock-ga-2100-1a1er"
    }
   },
   "ref": "GA-2100-1A1ER",
@@ -1988,7 +1995,8 @@
   "urls": {
    "distribuidor": "https://www.watchclick.com/es/products/mens-watch-casio-g-shock-ga-2100-1a1er",
    "idealo": "https://www.idealo.es/precios/6800790/casio-g-shock-ga-2100-1a1er.html",
-   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/casio-g-shock-ga-2100-1a1er"
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/casio-g-shock-ga-2100-1a1er",
+   "watchclick": "https://watchclick.com/es/products/mens-watch-casio-g-shock-ga-2100-1a1er"
   },
   "verificada": true
  },

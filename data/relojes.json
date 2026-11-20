@@ -3677,7 +3677,8 @@
  {
   "brand": "Grand Seiko",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.0,
+  "calibre": "Grand Seiko 9R65",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -3694,6 +3695,7 @@
    }
   ],
   "id": "grand-seiko-sbga211",
+  "material": "Titanio",
   "movimiento": "spring_drive",
   "name": "SBGA211 Snowflake",
   "prices": {
@@ -3706,6 +3708,7 @@
   },
   "pvp_oficial": 7000.0,
   "ref": "SBGA211",
+  "resistencia_m": 100,
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -6815,7 +6818,8 @@
  {
   "brand": "Rolex",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 36.0,
+  "calibre": "Rolex 3230",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -6832,6 +6836,7 @@
    }
   ],
   "id": "rolex-124270",
+  "material": "Oystersteel",
   "movimiento": "automatico",
   "name": "Explorer 36mm",
   "prices": {
@@ -6844,6 +6849,7 @@
   },
   "pvp_oficial": 7800.0,
   "ref": "124270",
+  "resistencia_m": 100,
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -7020,7 +7026,8 @@
  {
   "brand": "Rolex",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 36.0,
+  "calibre": "Rolex 3235",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -7037,6 +7044,7 @@
    }
   ],
   "id": "rolex-126234",
+  "material": "Oystersteel y oro blanco",
   "movimiento": "automatico",
   "name": "Datejust 36mm Azul",
   "prices": {
@@ -7049,6 +7057,7 @@
   },
   "pvp_oficial": 10200.0,
   "ref": "126234",
+  "resistencia_m": 100,
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -7424,7 +7433,8 @@
  {
   "brand": "Rolex",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.0,
+  "calibre": "Rolex 3255",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -7441,6 +7451,7 @@
    }
   ],
   "id": "rolex-228238",
+  "material": "Oro amarillo 18 kt",
   "movimiento": "automatico",
   "name": "Day-Date 40 Oro Amarillo",
   "prices": {
@@ -7453,6 +7464,7 @@
   },
   "pvp_oficial": 42000.0,
   "ref": "228238",
+  "resistencia_m": 100,
   "tier": "Gama alta",
   "tipo": "Vestir",
   "urls": {
@@ -7886,10 +7898,12 @@
  {
   "brand": "Seiko",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.5,
+  "calibre": "Seiko 6R31",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
+  "cristal": "Zafiro",
   "deals": [],
   "descartadas": [],
   "fuentes": [
@@ -7903,6 +7917,7 @@
    }
   ],
   "id": "seiko-spb293j1",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Presage Classic Esmalte Blanco",
   "prices": {
@@ -7924,7 +7939,8 @@
  {
   "brand": "Seiko",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.5,
+  "calibre": "Seiko 4R35",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -7941,6 +7957,7 @@
    }
   ],
   "id": "seiko-srpb43j1",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Presage Cocktail Time Blue Moon",
   "prices": {
@@ -7953,6 +7970,7 @@
   },
   "pvp_oficial": 440.0,
   "ref": "SRPB43J1",
+  "resistencia_m": 50,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -9754,7 +9772,8 @@
  {
   "brand": "Seiko",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 40.5,
+  "calibre": "Seiko 4R38",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -9771,6 +9790,7 @@
    }
   ],
   "id": "seiko-ssa405j1",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Presage Cocktail Time Manhattan Open Heart",
   "prices": {
@@ -9783,6 +9803,7 @@
   },
   "pvp_oficial": 550.0,
   "ref": "SSA405J1",
+  "resistencia_m": 50,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
@@ -11849,7 +11870,8 @@
  {
   "brand": "Tudor",
   "buscado": {},
-  "caja_mm": null,
+  "caja_mm": 41.0,
+  "calibre": "Tudor MT5652",
   "categoria": "clasico",
   "checked": "2026-11-20T09:00:35+01:00",
   "correa": "",
@@ -11866,6 +11888,7 @@
    }
   ],
   "id": "tudor-m79830rb",
+  "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Black Bay GMT Pepsi",
   "prices": {
@@ -11878,6 +11901,7 @@
   },
   "pvp_oficial": 4670.0,
   "ref": "M79830RB",
+  "resistencia_m": 200,
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {

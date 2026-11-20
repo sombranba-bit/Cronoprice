@@ -102,17 +102,29 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "boutiquedosrelogios"
+  ],
   "history": [],
   "id": "breitling-a17318101b1x1",
   "images": {},
+  "material": "Acero inoxidable",
   "name": "Avenger 42",
-  "prices": {},
+  "prices": {
+   "boutiquedosrelogios": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 4150.0,
+    "src": "https://boutiquedosrelogios.pt/en/avenger-aut-43-breitling"
+   }
+  },
   "ref": "A17318101B1X1",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "boutiquedosrelogios": "https://boutiquedosrelogios.pt/en/avenger-aut-43-breitling"
+  }
  },
  {
   "brand": "Breitling",
@@ -124,22 +136,29 @@
    "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 44,
+  "calibre": "Breitling 17",
   "categoria": "clasico",
   "checked": "2026-11-20T02:27:33+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "wristler"
+  ],
   "history": [],
   "id": "breitling-a17367d71b1s1",
   "images": {},
+  "material": "Acero inoxidable",
   "name": "Superocean 44",
   "prices": {},
   "ref": "A17367D71B1S1",
+  "resistencia_m": 1000,
   "target": null,
   "tier": "Gama alta",
   "tipo": "Buceo",
-  "urls": {}
+  "urls": {
+   "wristler": "https://wristler.eu/watches/215542-breitling-superocean-44"
+  }
  },
  {
   "brand": "Breitling",
@@ -151,22 +170,45 @@
    "zapatajoyeros": "2026-11-16"
   },
   "caja_mm": 42,
+  "calibre": "Breitling 01",
   "categoria": "clasico",
   "checked": "2026-11-20T02:27:33+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "esfera": "Antracita",
+  "fuentes": [
+   "wristler",
+   "maier"
+  ],
   "history": [],
   "id": "breitling-ab0118221b1p1",
   "images": {},
+  "material": "Acero inoxidable",
   "name": "Premier B01 42",
-  "prices": {},
+  "prices": {
+   "maier": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 8550.0,
+    "src": "https://en.maier.fr/watchmaking-jewelry-brands/breitling/watches/premier/premier-b01-chronograph-42_ab0118221b1p1"
+   },
+   "wristler": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 7200.0,
+    "src": "https://wristler.eu/watches/73289-breitling-premier"
+   }
+  },
   "ref": "AB0118221B1P1",
+  "resistencia_m": 100,
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "maier": "https://en.maier.fr/watchmaking-jewelry-brands/breitling/watches/premier/premier-b01-chronograph-42_ab0118221b1p1",
+   "wristler": "https://wristler.eu/watches/73289-breitling-premier"
+  }
  },
  {
   "brand": "Breitling",
@@ -247,21 +289,39 @@
   "esfera": "Verde",
   "fuentes": [
    "https://masquerelojes.com/precios-relojes/breitling",
-   "https://relojdelujo.com/marcas/breitling"
+   "https://relojdelujo.com/marcas/breitling",
+   "breitling",
+   "wristler"
   ],
   "history": [],
   "id": "breitling-ab0134101l1a1",
   "images": {},
   "material": "Acero inoxidable",
   "name": "Chronomat B01 42 acero",
-  "prices": {},
+  "prices": {
+   "breitling": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 9600.0,
+    "src": "https://www.breitling.com/ie-en/watches/chronomat/chronomat-b01-42/AB0134101L1"
+   },
+   "wristler": {
+    "d": "2026-11-20",
+    "manual": true,
+    "p": 6287.0,
+    "src": "https://wristler.eu/watches/194135-breitling-chronomat-42"
+   }
+  },
   "ref": "AB0134101L1A1",
   "resistencia_m": 200,
   "specs_fuente": "watchbase.com",
   "target": null,
   "tier": "Gama alta",
   "tipo": "Cronógrafo",
-  "urls": {}
+  "urls": {
+   "breitling": "https://www.breitling.com/ie-en/watches/chronomat/chronomat-b01-42/AB0134101L1",
+   "wristler": "https://wristler.eu/watches/194135-breitling-chronomat-42"
+  }
  },
  {
   "brand": "Breitling",

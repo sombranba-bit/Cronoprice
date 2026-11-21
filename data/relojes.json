@@ -11,7 +11,7 @@
   "caja_mm": 41.0,
   "calibre": "AP 4302",
   "categoria": "clasico",
-  "checked": "2026-11-20T18:47:21+01:00",
+  "checked": "2026-11-21T15:55:15+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -61,7 +61,7 @@
   "caja_mm": 42.0,
   "calibre": "AP 4404",
   "categoria": "clasico",
-  "checked": "2026-11-20T18:47:38+01:00",
+  "checked": "2026-11-21T15:55:15+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -110,7 +110,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:40+01:00",
+  "checked": "2026-11-21T15:54:51+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -127,7 +127,7 @@
   "prices": {
    "boutiquedosrelogios": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 4350.0,
     "stock": false
@@ -153,7 +153,7 @@
   "caja_mm": 44,
   "calibre": "Breitling 17",
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:44+01:00",
+  "checked": "2026-11-21T15:54:56+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -164,6 +164,11 @@
   "history": [
    {
     "d": "2026-11-20",
+    "p": 4250.0,
+    "s": "douxjoaillier"
+   },
+   {
+    "d": "2026-11-21",
     "p": 4250.0,
     "s": "douxjoaillier"
    }
@@ -177,7 +182,7 @@
   "prices": {
    "douxjoaillier": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 4250.0
    }
@@ -204,7 +209,7 @@
   "caja_mm": 42,
   "calibre": "Breitling 01",
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:48+01:00",
+  "checked": "2026-11-21T15:55:00+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -218,6 +223,11 @@
     "d": "2026-11-20",
     "p": 9250.0,
     "s": "maier"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 9250.0,
+    "s": "maier"
    }
   ],
   "id": "breitling-ab0118221b1p1",
@@ -229,7 +239,7 @@
   "prices": {
    "maier": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 9250.0
    },
@@ -331,7 +341,7 @@
   "caja_mm": 42.0,
   "calibre": "Breitling B01",
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:04+01:00",
+  "checked": "2026-11-21T15:53:27+01:00",
   "correa": "Acero (brazalete)",
   "cristal": "Zafiro",
   "deals": [],
@@ -346,6 +356,11 @@
   "history": [
    {
     "d": "2026-11-20",
+    "p": 6287.0,
+    "s": "wristler"
+   },
+   {
+    "d": "2026-11-21",
     "p": 6287.0,
     "s": "wristler"
    }
@@ -365,7 +380,7 @@
    },
    "wristler": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 6287.0
    }
@@ -392,7 +407,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:08+01:00",
+  "checked": "2026-11-21T15:54:24+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -425,6 +440,11 @@
     "d": "2026-11-20",
     "p": 9500.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 9500.0,
+    "s": "lepage"
    }
   ],
   "id": "breitling-ab0137211b1p1",
@@ -435,7 +455,7 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 9500.0
    }
@@ -459,7 +479,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:09+01:00",
+  "checked": "2026-11-21T15:54:26+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -492,6 +512,11 @@
     "d": "2026-11-20",
     "p": 9500.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 9500.0,
+    "s": "lepage"
    }
   ],
   "id": "breitling-ab0137241l1p1",
@@ -502,7 +527,7 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 9500.0
    }
@@ -527,7 +552,7 @@
   "caja_mm": 43.0,
   "calibre": "Breitling B01",
   "categoria": "clasico",
-  "checked": "2026-11-20T18:47:57+01:00",
+  "checked": "2026-11-21T15:55:19+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -551,6 +576,16 @@
     "d": "2026-11-20",
     "p": 9850.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 9850.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 6243.7,
+    "s": "montredo"
    }
   ],
   "id": "breitling-ab0138241c1a1",
@@ -564,13 +599,13 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 9850.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 6243.7
    },
@@ -604,7 +639,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:49+01:00",
+  "checked": "2026-11-21T15:54:09+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -637,6 +672,11 @@
     "d": "2026-11-20",
     "p": 9500.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 9500.0,
+    "s": "lepage"
    }
   ],
   "id": "breitling-ab0138241c1p1",
@@ -647,7 +687,7 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 9500.0
    }
@@ -671,7 +711,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:02+01:00",
+  "checked": "2026-11-21T15:54:21+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -704,6 +744,11 @@
     "d": "2026-11-20",
     "p": 9500.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 9500.0,
+    "s": "lepage"
    }
   ],
   "id": "breitling-ab0138241k1p1",
@@ -714,7 +759,7 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 9500.0
    }
@@ -738,7 +783,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:59+01:00",
+  "checked": "2026-11-21T15:54:19+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -755,7 +800,7 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 9500.0,
     "stock": false
@@ -780,7 +825,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:05+01:00",
+  "checked": "2026-11-21T15:54:23+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -813,6 +858,11 @@
     "d": "2026-11-20",
     "p": 6386.55,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 6386.55,
+    "s": "montredo"
    }
   ],
   "id": "breitling-ab0139211b1p1",
@@ -823,7 +873,7 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 6386.55
    }
@@ -848,7 +898,7 @@
   "caja_mm": 42.0,
   "calibre": "Breitling B20",
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:19+01:00",
+  "checked": "2026-11-21T15:54:32+01:00",
   "correa": "Caucho",
   "cristal": "Zafiro",
   "deals": [],
@@ -863,6 +913,11 @@
   "history": [
    {
     "d": "2026-11-20",
+    "p": 4059.0,
+    "s": "wristler"
+   },
+   {
+    "d": "2026-11-21",
     "p": 4059.0,
     "s": "wristler"
    }
@@ -882,7 +937,7 @@
    },
    "wristler": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 4059.0
    }
@@ -909,7 +964,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:22+01:00",
+  "checked": "2026-11-21T15:54:34+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -942,6 +997,11 @@
     "d": "2026-11-20",
     "p": 4445.38,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 4445.38,
+    "s": "montredo"
    }
   ],
   "id": "breitling-ab3110241b1a1",
@@ -952,7 +1012,7 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 4445.38
    }
@@ -977,7 +1037,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:25+01:00",
+  "checked": "2026-11-21T15:54:36+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -1005,6 +1065,11 @@
     "d": "2026-11-20",
     "p": 4277.31,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 4277.31,
+    "s": "montredo"
    }
   ],
   "id": "breitling-ab3111161c1a1",
@@ -1015,7 +1080,7 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 4277.31
    }
@@ -1040,7 +1105,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:29+01:00",
+  "checked": "2026-11-21T15:54:40+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1088,6 +1153,16 @@
     "d": "2026-11-20",
     "p": 4798.32,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 6400.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 4798.32,
+    "s": "montredo"
    }
   ],
   "id": "breitling-ab3112361l1s1",
@@ -1099,13 +1174,13 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 6400.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 4798.32
    }
@@ -1130,7 +1205,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:32+01:00",
+  "checked": "2026-11-21T15:54:42+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -1158,6 +1233,11 @@
     "d": "2026-11-20",
     "p": 3705.88,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 3705.88,
+    "s": "montredo"
    }
   ],
   "id": "breitling-ab3113171l1a1",
@@ -1168,7 +1248,7 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 3705.88
    }
@@ -1454,7 +1534,7 @@
   },
   "caja_mm": 40.0,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:48:12+01:00",
+  "checked": "2026-11-21T15:55:19+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -1499,7 +1579,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:48:27+01:00",
+  "checked": "2026-11-21T15:55:19+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -1548,7 +1628,7 @@
   },
   "caja_mm": 37,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:48:44+01:00",
+  "checked": "2026-11-21T15:55:20+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -1605,7 +1685,7 @@
   },
   "caja_mm": 39.8,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:48:59+01:00",
+  "checked": "2026-11-21T15:55:20+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -1663,7 +1743,7 @@
   "caja_mm": 35.1,
   "calibre": "Cartier 1847 MC",
   "categoria": "clasico",
-  "checked": "2026-11-20T18:49:14+01:00",
+  "checked": "2026-11-21T15:55:20+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -1719,7 +1799,7 @@
   },
   "caja_mm": 33.7,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:49:30+01:00",
+  "checked": "2026-11-21T15:55:45+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -1776,7 +1856,7 @@
   },
   "caja_mm": 25.7,
   "categoria": "clasico",
-  "checked": "2026-11-21T00:49:44+01:00",
+  "checked": "2026-11-21T15:55:45+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -2278,7 +2358,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:27+01:00",
+  "checked": "2026-11-21T15:53:47+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2336,6 +2416,16 @@
     "d": "2026-11-20",
     "p": 90.0,
     "s": "planetarelojes"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 79.92,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 90.0,
+    "s": "planetarelojes"
    }
   ],
   "id": "casio-ga-2100-1a4er",
@@ -2347,13 +2437,13 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
-    "p": 84.49
+    "p": 79.92
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 90.0
    }
@@ -2378,7 +2468,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:28+01:00",
+  "checked": "2026-11-21T15:53:48+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2419,7 +2509,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:28+01:00",
+  "checked": "2026-11-21T15:53:48+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2459,7 +2549,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:29+01:00",
+  "checked": "2026-11-21T15:53:50+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2492,6 +2582,11 @@
     "d": "2026-11-20",
     "p": 103.99,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 103.99,
+    "s": "idealo"
    }
   ],
   "id": "casio-ga-2100bm-7a2",
@@ -2502,7 +2597,7 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 103.99
    }
@@ -2526,7 +2621,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:29+01:00",
+  "checked": "2026-11-21T15:53:50+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2556,7 +2651,7 @@
   },
   "caja_mm": 45.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:30+01:00",
+  "checked": "2026-11-21T15:53:50+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2596,7 +2691,7 @@
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:30+01:00",
+  "checked": "2026-11-21T15:53:50+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2626,7 +2721,7 @@
   },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:30+01:00",
+  "checked": "2026-11-21T15:53:50+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2656,7 +2751,7 @@
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:32+01:00",
+  "checked": "2026-11-21T15:53:52+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2673,7 +2768,7 @@
   "prices": {
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 131.12,
     "stock": false
@@ -2698,7 +2793,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:32+01:00",
+  "checked": "2026-11-21T15:53:52+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2728,7 +2823,7 @@
   },
   "caja_mm": 46,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:33+01:00",
+  "checked": "2026-11-21T15:53:54+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2761,6 +2856,11 @@
     "d": "2026-11-20",
     "p": 269.0,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 269.0,
+    "s": "idealo"
    }
   ],
   "id": "casio-gbx-h5600-1er",
@@ -2771,7 +2871,7 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 269.0
    }
@@ -2795,7 +2895,7 @@
   },
   "caja_mm": 50,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:33+01:00",
+  "checked": "2026-11-21T15:53:54+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2825,7 +2925,7 @@
   },
   "caja_mm": 53,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:46+01:00",
+  "checked": "2026-11-21T15:54:07+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2858,6 +2958,11 @@
     "d": "2026-11-20",
     "p": 340.5,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 340.5,
+    "s": "idealo"
    }
   ],
   "id": "casio-gg-b100x-1aer",
@@ -2868,7 +2973,7 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 340.5
    }
@@ -2892,7 +2997,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:35+01:00",
+  "checked": "2026-11-21T15:53:56+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -2925,6 +3030,11 @@
     "d": "2026-11-20",
     "p": 143.64,
     "s": "idealo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 143.64,
+    "s": "idealo"
    }
   ],
   "id": "casio-gm-s2110-1a7er",
@@ -2935,7 +3045,7 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 143.64
    }
@@ -2959,7 +3069,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:35+01:00",
+  "checked": "2026-11-21T15:53:56+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -2990,7 +3100,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:39+01:00",
+  "checked": "2026-11-21T15:54:00+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3048,6 +3158,16 @@
     "d": "2026-11-20",
     "p": 107.1,
     "s": "planetarelojes"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 102.9,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 107.1,
+    "s": "planetarelojes"
    }
   ],
   "id": "casio-gma-s2100sk-7aer",
@@ -3059,13 +3179,13 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 102.9
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 107.1
    }
@@ -3090,7 +3210,7 @@
   },
   "caja_mm": 51,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:33+01:00",
+  "checked": "2026-11-21T15:53:54+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3120,7 +3240,7 @@
   },
   "caja_mm": 49,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:42+01:00",
+  "checked": "2026-11-21T15:54:04+01:00",
   "correa": "Metal",
   "deals": [],
   "descartadas": [],
@@ -3134,6 +3254,11 @@
     "d": "2026-11-20",
     "p": 549.0,
     "s": "maier.fr"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 549.0,
+    "s": "maier.fr"
    }
   ],
   "id": "casio-gmw-b5000d-1cer",
@@ -3145,7 +3270,7 @@
   "prices": {
    "maier.fr": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 549.0
    }
@@ -3169,7 +3294,7 @@
   },
   "caja_mm": 56,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:44+01:00",
+  "checked": "2026-11-21T15:54:06+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3215,7 +3340,7 @@
   },
   "caja_mm": 55,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:46+01:00",
+  "checked": "2026-11-21T15:54:07+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -3368,7 +3493,7 @@
   },
   "caja_mm": 47,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:46+01:00",
+  "checked": "2026-11-21T15:54:07+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -4070,7 +4195,7 @@
   "caja_mm": 41.0,
   "calibre": "Grand Seiko 9R65",
   "categoria": "clasico",
-  "checked": "2026-11-21T00:50:01+01:00",
+  "checked": "2026-11-21T15:55:48+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -4311,7 +4436,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-21T00:50:20+01:00",
+  "checked": "2026-11-21T15:55:50+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -4384,7 +4509,7 @@
   "caja_mm": 32.3,
   "calibre": "ETA F05.111",
   "categoria": "clasico",
-  "checked": "2026-11-21T00:50:37+01:00",
+  "checked": "2026-11-21T15:55:53+01:00",
   "correa": "",
   "cristal": "Mineral",
   "deals": [],
@@ -6490,7 +6615,7 @@
   "caja_mm": 36,
   "calibre": "Omega 8800",
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:34+01:00",
+  "checked": "2026-11-21T15:54:45+01:00",
   "correa": "Acero y oro (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -6504,6 +6629,11 @@
     "d": "2026-11-20",
     "p": 7950.0,
     "s": "wristler"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 7950.0,
+    "s": "wristler"
    }
   ],
   "id": "omega-131.20.36.20.02.001",
@@ -6515,7 +6645,7 @@
   "prices": {
    "wristler": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 7950.0
    }
@@ -6541,7 +6671,7 @@
   },
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:47:00+01:00",
+  "checked": "2026-11-21T15:55:10+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -6569,6 +6699,11 @@
     "d": "2026-11-20",
     "p": 16067.23,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 16067.23,
+    "s": "montredo"
    }
   ],
   "id": "omega-131.25.39.20.52.001",
@@ -6579,7 +6714,7 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 16067.23
    }
@@ -6603,7 +6738,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:47:00+01:00",
+  "checked": "2026-11-21T15:55:10+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -8555,7 +8690,7 @@
   },
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:10+01:00",
+  "checked": "2026-11-21T15:53:33+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -8587,6 +8722,11 @@
     "d": "2026-11-20",
     "p": 490.0,
     "s": "planetarelojes"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 490.0,
+    "s": "planetarelojes"
    }
   ],
   "id": "seiko-hdb001k1",
@@ -8597,7 +8737,7 @@
   "prices": {
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 490.0
    }
@@ -8621,7 +8761,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:12+01:00",
+  "checked": "2026-11-21T15:53:35+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -8637,7 +8777,7 @@
   "prices": {
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 490.0,
     "stock": false
@@ -9995,7 +10135,7 @@
   },
   "caja_mm": 40.8,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:23+01:00",
+  "checked": "2026-11-21T15:53:44+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10027,6 +10167,11 @@
     "d": "2026-11-20",
     "p": 420.17,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 420.17,
+    "s": "montredo"
    }
   ],
   "id": "seiko-srpg05j1",
@@ -10038,13 +10183,13 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 420.17
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 550.0,
     "stock": false
@@ -10070,7 +10215,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:44:24+01:00",
+  "checked": "2026-11-21T15:52:54+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10127,6 +10272,16 @@
     "d": "2026-11-20",
     "p": 260.5,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 320.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 260.5,
+    "s": "montredo"
    }
   ],
   "id": "seiko-srpg27k1",
@@ -10139,19 +10294,19 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 320.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 260.5
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 350.0,
     "stock": false
@@ -10178,7 +10333,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:44:31+01:00",
+  "checked": "2026-11-21T15:53:02+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10280,6 +10435,26 @@
     "d": "2026-11-20",
     "p": 350.0,
     "s": "planetarelojes"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 212.59,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 320.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 260.5,
+    "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 350.0,
+    "s": "planetarelojes"
    }
   ],
   "id": "seiko-srpg29k1",
@@ -10293,25 +10468,25 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 212.59
    },
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 320.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 260.5
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 350.0
    }
@@ -10338,7 +10513,7 @@
   },
   "caja_mm": 39.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:44:37+01:00",
+  "checked": "2026-11-21T15:53:06+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10395,6 +10570,16 @@
     "d": "2026-11-20",
     "p": 260.5,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 320.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 260.5,
+    "s": "montredo"
    }
   ],
   "id": "seiko-srpg39k1",
@@ -10407,19 +10592,19 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 320.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 260.5
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 350.0,
     "stock": false
@@ -10446,7 +10631,7 @@
   },
   "caja_mm": 36.4,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:08+01:00",
+  "checked": "2026-11-21T15:53:32+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10478,6 +10663,11 @@
     "d": "2026-11-20",
     "p": 320.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 320.0,
+    "s": "lepage"
    }
   ],
   "id": "seiko-srpj81k1",
@@ -10489,13 +10679,13 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 320.0
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 350.0,
     "stock": false
@@ -10601,7 +10791,7 @@
   },
   "caja_mm": 39.5,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:58+01:00",
+  "checked": "2026-11-21T15:54:17+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10659,6 +10849,16 @@
     "d": "2026-11-20",
     "p": 445.38,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 620.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 445.38,
+    "s": "montredo"
    }
   ],
   "id": "seiko-srpl71j1",
@@ -10683,19 +10883,19 @@
    },
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 620.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 445.38
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 650.0,
     "stock": false
@@ -10725,7 +10925,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:19+01:00",
+  "checked": "2026-11-21T15:53:40+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10807,6 +11007,21 @@
     "d": "2026-11-20",
     "p": 490.0,
     "s": "planetarelojes"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 306.0,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 450.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 490.0,
+    "s": "planetarelojes"
    }
   ],
   "id": "seiko-srpl83k1",
@@ -10819,19 +11034,19 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 306.0
    },
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 450.0
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 490.0
    }
@@ -10898,7 +11113,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:44:42+01:00",
+  "checked": "2026-11-21T15:53:10+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10930,6 +11145,11 @@
     "d": "2026-11-20",
     "p": 394.96,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 394.96,
+    "s": "montredo"
    }
   ],
   "id": "seiko-ssk001k1",
@@ -10941,13 +11161,13 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 394.96
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 520.0,
     "stock": false
@@ -10973,7 +11193,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:44:48+01:00",
+  "checked": "2026-11-21T15:53:16+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -11050,6 +11270,21 @@
     "d": "2026-11-20",
     "p": 520.0,
     "s": "planetarelojes"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 463.5,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 394.96,
+    "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 520.0,
+    "s": "planetarelojes"
    }
   ],
   "id": "seiko-ssk003k1",
@@ -11062,19 +11297,19 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 463.5
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 394.96
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 520.0
    }
@@ -11100,7 +11335,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:44:55+01:00",
+  "checked": "2026-11-21T15:53:21+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -11177,6 +11412,21 @@
     "d": "2026-11-20",
     "p": 520.0,
     "s": "planetarelojes"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 437.9,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 490.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 520.0,
+    "s": "planetarelojes"
    }
   ],
   "id": "seiko-ssk033k1",
@@ -11189,19 +11439,19 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 437.9
    },
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 490.0
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 520.0
    }
@@ -11227,7 +11477,7 @@
   },
   "caja_mm": 42.5,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:45:00+01:00",
+  "checked": "2026-11-21T15:53:24+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -11284,6 +11534,11 @@
     "d": "2026-11-20",
     "p": 490.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 490.0,
+    "s": "lepage"
    }
   ],
   "id": "seiko-ssk035k1",
@@ -11302,13 +11557,13 @@
    },
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 490.0
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 520.0,
     "stock": false
@@ -11924,7 +12179,7 @@
   },
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:38+01:00",
+  "checked": "2026-11-21T15:54:48+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -11952,6 +12207,11 @@
     "d": "2026-11-20",
     "p": 386.55,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 386.55,
+    "s": "montredo"
    }
   ],
   "id": "tissot-t120.217.11.061.00",
@@ -11962,7 +12222,7 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 386.55
    }
@@ -11986,7 +12246,7 @@
   },
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:35+01:00",
+  "checked": "2026-11-21T15:54:46+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -12028,7 +12288,7 @@
   },
   "caja_mm": 38,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:51+01:00",
+  "checked": "2026-11-21T15:55:02+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -12056,6 +12316,11 @@
     "d": "2026-11-20",
     "p": 403.36,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 403.36,
+    "s": "montredo"
    }
   ],
   "id": "tissot-t120.217.37.041.00",
@@ -12066,7 +12331,7 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 403.36
    }
@@ -12598,7 +12863,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:46:57+01:00",
+  "checked": "2026-11-21T15:55:08+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -12646,6 +12911,16 @@
     "d": "2026-11-20",
     "p": 588.24,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 775.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 588.24,
+    "s": "montredo"
    }
   ],
   "id": "tissot-t1374071104100",
@@ -12658,19 +12933,19 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 775.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 588.24
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 697.5,
     "stock": false
@@ -12697,7 +12972,7 @@
   },
   "caja_mm": 35,
   "categoria": "clasico",
-  "checked": "2026-11-20T18:47:05+01:00",
+  "checked": "2026-11-21T15:55:14+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -12745,6 +13020,16 @@
     "d": "2026-11-20",
     "p": 630.25,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 925.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-21",
+    "p": 630.25,
+    "s": "montredo"
    }
   ],
   "id": "tissot-t139.407.11.091.00",
@@ -12757,19 +13042,19 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 925.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 630.25
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-20",
+    "d": "2026-11-21",
     "gh": true,
     "p": 832.5,
     "stock": false

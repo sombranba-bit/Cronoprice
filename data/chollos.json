@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": 2081942,
+   "t": "Reloj Timex Marlin Moon Phase (cuarzo, calendario completo, fase lunar, esfera verde, correa piel)",
+   "p": 117.6,
+   "shop": "Amazon",
+   "url": "https://www.chollometro.com/share-deal/2081942",
+   "expired": false,
+   "seen": "2026-11-21"
+  },
+  {
+   "id": 2081744,
+   "t": "Citizen CA0641-16X Eco-Drive Cronógrafo 44 mm – Esfera crema, correa de piel y taquímetro",
+   "p": 140.82,
+   "shop": "Amazon",
+   "url": "https://www.chollometro.com/share-deal/2081744",
+   "expired": false,
+   "seen": "2026-11-21"
+  },
+  {
    "id": 2074908,
    "t": "Hamilton Khaki Aviation Pilot Auto – Automático suizo H-10, esfera verde, zafiro y 80 h de reserva (39 mm)",
    "p": 662.01,
@@ -351,5 +369,5 @@
    "seen": "2026-11-21"
   }
  ],
- "updated": "2026-11-21T07:26:29+01:00"
+ "updated": "2026-11-21T15:55:55+01:00"
 }

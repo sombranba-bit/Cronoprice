@@ -1,105 +1,133 @@
 {
- "at": "2026-11-21T00:53:46+01:00",
+ "at": "2026-11-21T07:26:26+01:00",
  "revisados": 70,
  "tiendas": {
-  "relojdelujo": {
-   "ok": 2,
-   "bloqueada": 33,
-   "sin_precio": 31,
+  "montredo": {
+   "ok": 31,
+   "bloqueada": 0,
+   "sin_precio": 0,
    "dudoso": 0,
-   "texto": 2
+   "jsonld-titulo": 31
   },
   "lepage": {
-   "ok": 10,
+   "ok": 22,
    "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 1,
-   "jsonld": 10,
-   "ejemplos": [
-    {
-     "reloj": "omega-131.30.41.21.99.001",
-     "precio": 10700.0,
-     "referencia": 6722.69,
-     "metodo": "jsonld"
-    }
-   ]
-  },
-  "grand-seiko.com": {
-   "ok": 0,
-   "bloqueada": 0,
-   "sin_precio": 1,
-   "dudoso": 0
-  },
-  "planetarelojes": {
-   "ok": 0,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 1,
-   "ejemplos": [
-    {
-     "reloj": "hamilton-h24411732",
-     "precio": 504.0,
-     "referencia": 1010.0,
-     "metodo": "jsonld"
-    }
-   ]
-  },
-  "montredo": {
-   "ok": 7,
-   "bloqueada": 3,
    "sin_precio": 0,
    "dudoso": 0,
-   "jsonld-titulo": 7
+   "jsonld": 22
   },
-  "perodri.es": {
+  "maier.fr": {
    "ok": 1,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
    "jsonld": 1
   },
+  "watchbase": {
+   "ok": 0,
+   "bloqueada": 1,
+   "sin_precio": 0,
+   "dudoso": 0
+  },
+  "planetarelojes": {
+   "ok": 19,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 19
+  },
+  "laguardajoiers": {
+   "ok": 0,
+   "bloqueada": 1,
+   "sin_precio": 0,
+   "dudoso": 0
+  },
   "wristler": {
+   "ok": 2,
+   "bloqueada": 0,
+   "sin_precio": 2,
+   "dudoso": 1,
+   "jsonld": 2,
+   "ejemplos": [
+    {
+     "reloj": "rolex-126711chnr",
+     "precio": 18.71,
+     "referencia": 18190.0,
+     "metodo": "texto"
+    }
+   ]
+  },
+  "idealo": {
+   "ok": 14,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 9,
+   "jsonld-titulo": 5
+  },
+  "grandseiko": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "jurawatches.co.uk": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "triathlonstore.fr": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "distribuidor": {
+   "ok": 6,
+   "bloqueada": 3,
+   "sin_precio": 3,
+   "dudoso": 1,
+   "ejemplos": [
+    {
+     "reloj": "oris-aquis-date-01-733-7730-4135-07-8-24-05peb",
+     "precio": 2300.0,
+     "referencia": 1462.18,
+     "metodo": "jsonld"
+    }
+   ],
+   "jsonld": 6
+  },
+  "oficial": {
+   "ok": 2,
+   "bloqueada": 1,
+   "sin_precio": 1,
+   "dudoso": 0,
+   "jsonld": 2
+  },
+  "quera": {
+   "ok": 0,
+   "bloqueada": 1,
+   "sin_precio": 0,
+   "dudoso": 0
+  },
+  "watchclick": {
+   "ok": 1,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 1
+  },
+  "elcorteingles": {
    "ok": 0,
    "bloqueada": 0,
    "sin_precio": 2,
    "dudoso": 0
   },
-  "oris.ch": {
+  "notebookcheck.net": {
    "ok": 0,
-   "bloqueada": 0,
-   "sin_precio": 3,
-   "dudoso": 0
-  },
-  "wristler.eu": {
-   "ok": 1,
-   "bloqueada": 0,
+   "bloqueada": 2,
    "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 1
-  },
-  "pisa1940.com": {
-   "ok": 0,
-   "bloqueada": 3,
-   "sin_precio": 0,
-   "dudoso": 0
-  },
-  "tagheuer.com": {
-   "ok": 0,
-   "bloqueada": 5,
-   "sin_precio": 0,
-   "dudoso": 0
-  },
-  "tissotwatches.com": {
-   "ok": 4,
-   "bloqueada": 0,
-   "sin_precio": 1,
-   "dudoso": 0,
-   "jsonld": 4
-  },
-  "bucherer.com": {
-   "ok": 0,
-   "bloqueada": 0,
-   "sin_precio": 1,
    "dudoso": 0
   }
  },

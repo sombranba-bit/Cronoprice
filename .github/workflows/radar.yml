@@ -28,9 +28,12 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python scraper/test_radar.py
+      - run: python scraper/test_validar_datos.py
       - run: python scraper/radar.py
         env:
           RADAR_BATCH: ${{ github.event.inputs.relojes || '70' }}
+      - name: Validar datos antes de publicar
+        run: python scraper/validar_datos.py
       - name: Guardar datos
         run: |
           git config user.name "radar-bot"

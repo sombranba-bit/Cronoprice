@@ -32,7 +32,8 @@
   const drop = (item) => {
     const b = best(item); if (!b) return null;
     const cut = Date.now() - 30 * 864e5;
-    const vals = (item.history || []).filter((h) => new Date(h.d).getTime() >= cut).map((h) => h.p);
+    // Solo historial en EUR: el de otras monedas no se compara con el mejor precio en EUR
+    const vals = (item.history || []).filter((h) => !h.moneda || h.moneda === 'EUR').filter((h) => new Date(h.d).getTime() >= cut).map((h) => h.p);
     if (vals.length < 3) return null;
     const avg = vals.reduce((a, c) => a + c, 0) / vals.length;
     return { pct: (b.p - avg) / avg, avg };

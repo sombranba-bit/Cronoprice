@@ -117,7 +117,13 @@
   "fuentes": [
    "boutiquedosrelogios"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 4350.0,
+    "s": "boutiquedosrelogios"
+   }
+  ],
   "id": "breitling-a17318101b1x1",
   "images": {
    "boutiquedosrelogios": "https://de9mvi9pqgvkh.cloudfront.net/media/catalog/product/cache/b931ec91606cb7355a8b31bcc42f0b77/a/1/a17318101b1x1.png"
@@ -295,7 +301,9 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "montredo"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -881,7 +889,13 @@
    "https://masquerelojes.com/precios-relojes/breitling",
    "https://relojdelujo.com/marcas/breitling"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 9500.0,
+    "s": "lepage"
+   }
+  ],
   "id": "breitling-ab0138241l1p1",
   "images": {
    "lepage": "https://www.lepage.fr/46916-home_default/breitling-navitimer-automatic-watch-b01-chronograph-mint-green-dial-black-leather-strap-43-mm.jpg"
@@ -1601,7 +1615,9 @@
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "idealo"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -1679,7 +1695,13 @@
    "https://www.jurawatches.co.uk/products/bulova-watch-uhf-precisionist-96b257-bul-242",
    "https://www.nywatchstore.com/96b257.html"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-22",
+    "p": 479.0,
+    "s": "distribuidor"
+   }
+  ],
   "id": "bulova-precisionist-96b257",
   "images": {
    "distribuidor": "https://media.watchia.com/catalog/product/cache/8868f1f55ea9b10b8d2c7235a00bab2c/1/-/1-bulova-precisionist.jpg"
@@ -2085,7 +2107,10 @@
   "correa": "Acero",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "idealo",
+   "planetarelojes"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -2200,7 +2225,13 @@
    "https://maroyjoyeros.com/categoria/relojes-g-shock/",
    "notebookcheck.net"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 139.0,
+    "s": "notebookcheck.net"
+   }
+  ],
   "id": "casio-dw-5600ssh-4",
   "images": {},
   "name": "G-Shock DW-5600SSH-4",
@@ -2240,7 +2271,13 @@
    "https://maroyjoyeros.com/categoria/relojes-g-shock/",
    "notebookcheck.net"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 149.0,
+    "s": "notebookcheck.net"
+   }
+  ],
   "id": "casio-dw-6900ssh-1",
   "images": {},
   "name": "G-Shock DW-6900SSH-1",
@@ -2308,6 +2345,7 @@
   "history": [
    {
     "d": "2026-11-23",
+    "moneda": "GBP",
     "p": 15.95,
     "s": "therefstop.co.uk"
    }
@@ -2355,6 +2393,7 @@
   "history": [
    {
     "d": "2026-11-23",
+    "moneda": "GBP",
     "p": 99.0,
     "s": "watchia.com"
    }
@@ -2737,7 +2776,13 @@
    "https://maroyjoyeros.com/categoria/relojes-g-shock/",
    "relojeshermosos"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 89.91,
+    "s": "relojeshermosos"
+   }
+  ],
   "id": "casio-ga-2100-4a",
   "images": {},
   "material": "Resina",
@@ -2778,7 +2823,13 @@
    "https://maroyjoyeros.com/categoria/relojes-g-shock/",
    "ebay.com"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 84.0,
+    "s": "ebay.com"
+   }
+  ],
   "id": "casio-ga-2100-7a",
   "images": {},
   "name": "G-Shock GA-2100-7A",
@@ -2903,6 +2954,7 @@
   "history": [
    {
     "d": "2026-11-23",
+    "moneda": "GBP",
     "p": 119.0,
     "s": "casio.com/uk"
    }
@@ -2947,7 +2999,13 @@
    "https://maroyjoyeros.com/categoria/relojes-g-shock/",
    "notebookcheck.net"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 129.0,
+    "s": "notebookcheck.net"
+   }
+  ],
   "id": "casio-ga-2100ssh-4a",
   "images": {},
   "name": "G-Shock GA-2100SSH-4A",
@@ -2990,6 +3048,7 @@
   "history": [
    {
     "d": "2026-11-23",
+    "moneda": "GBP",
     "p": 167.0,
     "s": "sidekicks.co.uk"
    }
@@ -3037,6 +3096,7 @@
   "history": [
    {
     "d": "2026-11-23",
+    "moneda": "GBP",
     "p": 92.0,
     "s": "tempusshop.com"
    }
@@ -3080,7 +3140,13 @@
    "https://www.baroli.es/",
    "https://maroyjoyeros.com/categoria/relojes-g-shock/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 131.12,
+    "s": "planetarelojes"
+   }
+  ],
   "id": "casio-gbd-100sm-1a7er",
   "images": {
    "planetarelojes": "https://www.planetarelojes.com/89417-tm_thickbox_default/casio-g-shock-gbd-100sm-1a7er.jpg"
@@ -3126,6 +3192,7 @@
   "history": [
    {
     "d": "2026-11-23",
+    "moneda": "GBP",
     "p": 217.0,
     "s": "izoneo.co.uk"
    }
@@ -3255,6 +3322,7 @@
   "history": [
    {
     "d": "2026-11-23",
+    "moneda": "GBP",
     "p": 200.0,
     "s": "goldsmiths.co.uk"
    }
@@ -3466,6 +3534,7 @@
   "history": [
    {
     "d": "2026-11-23",
+    "moneda": "GBP",
     "p": 219.0,
     "s": "watchia.com"
    }
@@ -3644,6 +3713,7 @@
   "history": [
    {
     "d": "2026-11-23",
+    "moneda": "GBP",
     "p": 230.0,
     "s": "tactree.co.uk"
    }
@@ -3839,7 +3909,10 @@
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "idealo",
+   "planetarelojes"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -3990,7 +4063,13 @@
    "https://laguardajoiers.com/en/citizen-bn4061-08e-promaster-eco-drive-titanium.html",
    "https://www.watchpatrol.net/es/descubrir/marcas/citizen/promaster/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-22",
+    "p": 159.6,
+    "s": "planetarelojes"
+   }
+  ],
   "id": "citizen-bn0150-10e",
   "images": {
    "planetarelojes": "https://www.planetarelojes.com/90614-tm_thickbox_default/citizen-promaster-bn0150-10e.jpg"
@@ -4031,7 +4110,14 @@
   "fuentes": [
    "jurawatches.co.uk"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "moneda": "GBP",
+    "p": 289.0,
+    "s": "jurawatches.co.uk"
+   }
+  ],
   "id": "citizen-bn0150-28e",
   "images": {},
   "material": "Acero inoxidable",
@@ -4204,7 +4290,13 @@
    "https://www.watchpatrol.net/es/descubrir/marcas/citizen/promaster/",
    "laguardajoiers"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 789.0,
+    "s": "laguardajoiers"
+   }
+  ],
   "id": "citizen-bn4061-08e",
   "images": {},
   "material": "Titanio",
@@ -4493,7 +4585,9 @@
   "correa": "Silicona",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "lepage"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -4570,7 +4664,13 @@
   "fuentes": [
    "triathlonstore.fr"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 489.99,
+    "s": "triathlonstore.fr"
+   }
+  ],
   "id": "garmin-010-02809-10",
   "images": {},
   "material": "Titanio",
@@ -7973,7 +8073,9 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "montredo"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -9057,7 +9159,9 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "montredo"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -9131,8 +9235,16 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
-  "history": [],
+  "fuentes": [
+   "https://wristler.eu/es/relojes/204448-rolex-submariner-no-date"
+  ],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 12750.0,
+    "s": "wristler"
+   }
+  ],
   "id": "rolex-124060",
   "images": {},
   "name": "Submariner No-Date",
@@ -9208,8 +9320,16 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
-  "history": [],
+  "fuentes": [
+   "montredo"
+  ],
+  "history": [
+   {
+    "d": "2026-11-22",
+    "p": 15084.03,
+    "s": "montredo"
+   }
+  ],
   "id": "rolex-124300",
   "images": {
    "montredo": "https://www.montredo.com/cdn/shop/files/prohunter-oysterperpetual-124300-48807-1.webp?v=1771002838&width=1920"
@@ -9247,7 +9367,9 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "montredo"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -9321,7 +9443,9 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "montredo"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -9480,7 +9604,13 @@
    "https://igormo.com/lista-precios-rolex-2026/",
    "https://www.chrono24.es/rolex/index.htm"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 16550.0,
+    "s": "elcorteingles"
+   }
+  ],
   "id": "rolex-126500ln",
   "images": {},
   "name": "Cosmograph Daytona acero",
@@ -9519,7 +9649,13 @@
    "https://igormo.com/lista-precios-rolex-2026/",
    "https://www.chrono24.es/rolex/index.htm"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 24100.0,
+    "s": "elcorteingles"
+   }
+  ],
   "id": "rolex-126503",
   "images": {},
   "name": "Cosmograph Daytona bicolor",
@@ -9558,7 +9694,13 @@
    "https://igormo.com/lista-precios-rolex-2026/",
    "https://www.chrono24.es/rolex/index.htm"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 43950.0,
+    "s": "wristler"
+   }
+  ],
   "id": "rolex-126518ln",
   "images": {},
   "name": "Cosmograph Daytona oro amarillo",
@@ -9593,7 +9735,9 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "montredo"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -9667,7 +9811,9 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "montredo"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -9741,7 +9887,9 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "wristler"
+  ],
   "history": [
    {
     "d": "2026-11-20",
@@ -9799,7 +9947,13 @@
    "https://igormo.com/lista-precios-rolex-2026/",
    "https://www.chrono24.es/rolex/index.htm"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 18190.0,
+    "s": "wristler"
+   }
+  ],
   "id": "rolex-126711chnr",
   "images": {},
   "name": "GMT-Master II bicolor",
@@ -10084,7 +10238,13 @@
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 490.0,
+    "s": "planetarelojes"
+   }
+  ],
   "id": "seiko-hdb002k1",
   "images": {
    "planetarelojes": "https://www.planetarelojes.com/134869-tm_thickbox_default/seiko-5-sports-field-gmt-esfera-crema-hdb002k1.jpg"
@@ -10212,8 +10372,16 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
-  "history": [],
+  "fuentes": [
+   "planetarelojes"
+  ],
+  "history": [
+   {
+    "d": "2026-11-22",
+    "p": 350.0,
+    "s": "planetarelojes"
+   }
+  ],
   "id": "seiko-skx007k1",
   "images": {
    "planetarelojes": "https://www.planetarelojes.com/3380-tm_thickbox_default/seiko-skx007k1-reloj.jpg"
@@ -10251,8 +10419,16 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
-  "history": [],
+  "fuentes": [
+   "planetarelojes"
+  ],
+  "history": [
+   {
+    "d": "2026-11-22",
+    "p": 1400.0,
+    "s": "planetarelojes"
+   }
+  ],
   "id": "seiko-spb143j1",
   "images": {
    "planetarelojes": "https://www.planetarelojes.com/85419-tm_thickbox_default/seiko-prospex-spb143j1.jpg"
@@ -10616,7 +10792,13 @@
   "fuentes": [
    "https://worldwatchmuseum.com/marca/seiko/5-sports/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-22",
+    "p": 280.0,
+    "s": "planetarelojes"
+   }
+  ],
   "id": "seiko-srpd51k2",
   "images": {
    "planetarelojes": "https://www.planetarelojes.com/63640-tm_thickbox_default/seiko-5-sports-srpd51k2.jpg"
@@ -13874,7 +14056,13 @@
    "https://www.tissotwatches.com/es-es/collection.html",
    "tissot"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-20",
+    "p": 545.0,
+    "s": "tissot"
+   }
+  ],
   "id": "tissot-t120.217.17.011.00",
   "images": {},
   "material": "Acero inoxidable",
@@ -13988,7 +14176,10 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "montredo",
+   "planetarelojes"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -14410,7 +14601,11 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "lepage",
+   "montredo",
+   "planetarelojes"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -15047,7 +15242,9 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "lepage"
+  ],
   "history": [
    {
     "d": "2026-11-16",
@@ -15206,7 +15403,9 @@
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
+  "fuentes": [
+   "lepage"
+  ],
   "history": [
    {
     "d": "2026-11-16",

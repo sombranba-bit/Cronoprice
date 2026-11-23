@@ -11,6 +11,7 @@ Comparador y rastreador de precios de relojes en España: relojes clásicos y sm
 ```
 index.html                  portada (SPA sin frameworks)
 app/cronoprice.css          sistema visual (tokens de DESIGN.md, paleta azul tinta)
+app/logica.js                cálculos puros (precio mínimo, dispersión, bajada) sin DOM
 app/cronoprice.js           vistas: inicio, catálogo con filtros, ficha, chollos, guardados
 data/relojes.json           catálogo: ref, marca, categoría, tipo, precios, historial, fotos
 data/chollos.json           chollos de relojes (Chollometro)
@@ -18,6 +19,9 @@ data/estado.json            resumen de la última pasada por tienda
 scraper/radar.py            lector de precios (una pasada)
 scraper/test_radar.py       pruebas del lector (se ejecutan antes de cada pasada)
 scraper/diagnostico.py      prueba de acceso a las tiendas
+scraper/validar_datos.py    valida relojes.json antes de publicar
+scraper/compactar_historial.py recorta el historial si el archivo crece
+scraper/alertas_tiendas.py  avisa de tiendas bloqueadas pasada tras pasada
 .github/workflows/radar.yml       pasada cada 30 min (input "relojes": 70 normal)
 .github/workflows/diagnostico.yml prueba manual de tiendas
 ```
@@ -42,7 +46,7 @@ Controles de calidad:
 
 ## Pendiente antes de dar la pasada por buena
 
-- **Catálogo.** Hay 6 relojes verificados, cada uno con dos fuentes (campo `fuentes`): Seiko 5 Sports SRPD55K1, Casio G-Shock GA-2100-1A1ER, Tissot PRX T137.410.11.051.00, Hamilton Khaki Field H70605160, Garmin Venu 3 010-02784-00 y Citizen Promaster BN0150-61E. El catálogo de 100–200 referencias sigue pendiente: cada referencia nueva necesita dos fuentes de fabricante o tienda antes de añadirse.
+- **Catálogo.** 206 referencias, todas con caja y 201 con precio. Las 5 que faltan tienen su motivo en `sin_precio_motivo`. Cada referencia nueva necesita al menos dos fuentes de fabricante o tienda antes de añadirse.
 - **Tiendas.** Solo Idealo está activa en la búsqueda. Para cada tienda hay que comprobar con el diagnóstico que deja leer desde GitHub antes de añadirla a `SEARCH`.
 - **Amazon.** Está marcada como `MANUAL` (no se lee automáticamente). Sus condiciones de uso prohíben el scraping; si se quiere su precio, hay que usar una fuente autorizada.
 - **Idealo como puerta trasera.** `IDEALO_SHOPS` se llena con los números de tienda de Idealo. Antes de activarlo conviene revisar las condiciones de uso de Idealo y de cada tienda.
@@ -55,4 +59,10 @@ Controles de calidad:
 ```
 pip install -r requirements.txt
 python3 scraper/test_radar.py
+python3 scraper/test_validar_datos.py
+python3 scraper/test_compactar_historial.py
+python3 scraper/test_alertas_tiendas.py
+node app/test_logica.js
 ```
+
+En cada pasada (radar.yml) se ejecutan estas pruebas, se recorta el historial si `relojes.json` supera 1 MB, se valida el catálogo (un error bloquea la publicación) y se avisa si una tienda lleva 3 pasadas seguidas bloqueada (`data/bloqueos.json`).

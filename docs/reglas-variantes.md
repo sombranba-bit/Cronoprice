@@ -21,12 +21,13 @@ Se guarda con `"variante": "<ref del anuncio>"` dentro del precio. Nunca se usa 
 
 ## 4. Exclusiones de precio
 - Segunda mano, usado, reacondicionado, pre-owned o "sin caja/papeles" sin precio nuevo de referencia.
-- Precio en USD, GBP, CHF u otra moneda (no se convierte).
+- Precio en USD, GBP o CHF: se acepta solo si la tienda es oficial o distribuidor autorizado, y se guarda con `"moneda"` (sin convertir). La app lo muestra con una etiqueta y lo deja fuera del mejor precio, de la dispersión y de la bajada, que solo usan EUR.
 - "Precio a consultar", "Request PVP" o sin precio público visible.
 - Packs, bundles, ofertas con regalo o cupón condicionado.
 - Vendedores de marketplace (eBay, Amazon, Chollometro) solo si no hay tienda oficial o distribuidor autorizado; en ese caso se anota `"fuente_tipo": "marketplace"`.
 
-## 5. Trazabilidad
+## 5. Trazabilidad y moneda
+- Historial: cada entrada no EUR lleva `"moneda"`, para que la bajada de precio no compare libras con euros.
 - Cada precio guarda `d` (fecha), `manual: true`, `src` (URL exacta) y, si aplica, `variante`.
 - Cada fuente entra en `fuentes`.
 - Si la búsqueda no encuentra nada válido, el hueco se queda sin rellenar. No se estima.

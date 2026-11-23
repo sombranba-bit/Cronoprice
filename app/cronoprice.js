@@ -2,16 +2,9 @@
 (() => {
   'use strict';
   const DATA = 'data/';
-  const FRESH_DAYS = 14;
   const ICON_WATCH = (n = 96) => `<svg width="${n}" height="${n}" viewBox="0 0 96 96" aria-hidden="true"><rect x="30" y="18" width="36" height="60" rx="8" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="48" cy="48" r="16" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M48 38v10l7 4" stroke="var(--accent)" stroke-width="2" fill="none" stroke-linecap="round"/></svg>`;
   const $ = (s) => document.querySelector(s);
   const main = $('#main');
-  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-  const eur = (n) => (n == null ? '—' : n.toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' €');
-  // Precio de una oferta: si la moneda no es EUR, se muestra el importe con una etiqueta de moneda (p. ej. GBP)
-  const pr = (v) => (v.moneda && v.moneda !== 'EUR'
-    ? `${v.p.toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 })} <span class="pill" title="Precio en ${v.moneda}, no convertido">${v.moneda}</span>`
-    : eur(v.p));
   const SHOPS = { idealo: 'Idealo', oficial: 'Tienda oficial', distribuidor: 'Distribuidor', eci: 'El Corte Inglés', amazon: 'Amazon' };
   const shopName = (s) => SHOPS[s] || s;
   const store = (k) => { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch { return null; } };
@@ -22,22 +15,7 @@
 
   // ---------------------------------------------------------------- datos y cálculos
   let relojes = [], chollos = [];
-  const fresh = (item) => Object.entries(item.prices || {})
-    // Solo EUR entra en el mejor precio y en la dispersión: no se mezclan monedas sin convertir
-    .filter(([, v]) => v && v.p && v.stock !== false && (!v.moneda || v.moneda === 'EUR') && (Date.now() - new Date(v.d).getTime()) / 864e5 <= FRESH_DAYS)
-    .map(([s, v]) => ({ s, ...v }));
-  const best = (item) => fresh(item).sort((a, b) => a.p - b.p)[0] || null;
-  const spread = (item) => { const f = fresh(item); return f.length > 1 ? Math.max(...f.map((x) => x.p)) - Math.min(...f.map((x) => x.p)) : 0; };
-  // Bajada frente a la media de los últimos 30 días del historial
-  const drop = (item) => {
-    const b = best(item); if (!b) return null;
-    const cut = Date.now() - 30 * 864e5;
-    // Solo historial en EUR: el de otras monedas no se compara con el mejor precio en EUR
-    const vals = (item.history || []).filter((h) => !h.moneda || h.moneda === 'EUR').filter((h) => new Date(h.d).getTime() >= cut).map((h) => h.p);
-    if (vals.length < 3) return null;
-    const avg = vals.reduce((a, c) => a + c, 0) / vals.length;
-    return { pct: (b.p - avg) / avg, avg };
-  };
+  const { FRESH_DAYS, esc, eur, pr, fresh, best, spread, drop } = window.CronoLogica;
   const shownName = (i) => `${i.brand} ${i.name}`;
 
   // ---------------------------------------------------------------- piezas de interfaz
@@ -123,7 +101,7 @@
         <div class="panel"><h3 style="font-size:22px;margin-bottom:8px">Precio en cada tienda</h3>
           ${offers.length ? `<table><thead><tr><th>Tienda</th><th class="n">Precio</th></tr></thead><tbody>
             ${offers.map((o, k) => `<tr class="${k === 0 ? 'best' : ''}"><td>${esc(shopName(o.s))}${o.via ? ` <span class="muted">vía ${esc(shopName(o.via))}</span>` : ''}<br><span class="muted">${ago(o.d)}${o.stock === false ? ' · agotado' : ''}${o.manual ? ' · verificado a mano' : ''}</span></td><td class="n">${pr(o)}</td></tr>`).join('')}
-          </tbody></table>` : '<p class="muted">Todavía no hay precios para este reloj.</p>'}
+          </tbody></table>` : `<p class="muted">${i.sin_precio_motivo ? esc(i.sin_precio_motivo) : 'Todavía no hay precios para este reloj.'}</p>`}
         </div>
         ${deals.length ? `<div class="panel"><h3 style="font-size:22px;margin-bottom:8px">Chollos publicados</h3>${deals.slice(0, 4).map((c) => `<p><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.t)}</a><br><span class="muted">${c.p != null ? eur(c.p) : ''}</span></p>`).join('')}</div>` : ''}
         <p class="disclaimer">Los precios se leen automáticamente cada pasada. Cronoprice no cobra comisión por los enlaces.</p>

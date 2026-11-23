@@ -29,11 +29,18 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python scraper/test_radar.py
       - run: python scraper/test_validar_datos.py
+      - run: python scraper/test_compactar_historial.py
+      - run: python scraper/test_alertas_tiendas.py
+      - run: node app/test_logica.js
       - run: python scraper/radar.py
         env:
           RADAR_BATCH: ${{ github.event.inputs.relojes || '70' }}
+      - name: Recortar historial si el archivo crece
+        run: python scraper/compactar_historial.py
       - name: Validar datos antes de publicar
         run: python scraper/validar_datos.py
+      - name: Vigilar tiendas bloqueadas
+        run: python scraper/alertas_tiendas.py
       - name: Guardar datos
         run: |
           git config user.name "radar-bot"

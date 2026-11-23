@@ -2302,17 +2302,35 @@
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
-  "fuentes": [],
-  "history": [],
+  "fuentes": [
+   "https://therefstop.co.uk/product/casio-f-91w"
+  ],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 15.95,
+    "s": "therefstop.co.uk"
+   }
+  ],
   "id": "casio-f-91w-1ef",
   "images": {},
   "name": "Vintage F-91W",
-  "prices": {},
+  "prices": {
+   "therefstop.co.uk": {
+    "d": "2026-11-23",
+    "manual": true,
+    "moneda": "GBP",
+    "p": 15.95,
+    "src": "https://therefstop.co.uk/product/casio-f-91w"
+   }
+  },
   "ref": "F-91W-1EF",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "therefstop.co.uk": "https://therefstop.co.uk/product/casio-f-91w"
+  }
  },
  {
   "brand": "Casio",
@@ -2331,18 +2349,35 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "https://www.watchia.com/world/casio-g-shock-ga-110cm-3aer.html"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 99.0,
+    "s": "watchia.com"
+   }
+  ],
   "id": "casio-ga-110cm-3aer",
   "images": {},
   "name": "G-Shock GA-110CM-3AER",
-  "prices": {},
+  "prices": {
+   "watchia.com": {
+    "d": "2026-11-23",
+    "manual": true,
+    "moneda": "GBP",
+    "p": 99.0,
+    "src": "https://www.watchia.com/world/casio-g-shock-ga-110cm-3aer.html"
+   }
+  },
   "ref": "GA-110CM-3AER",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "watchia.com": "https://www.watchia.com/world/casio-g-shock-ga-110cm-3aer.html"
+  }
  },
  {
   "brand": "Casio",
@@ -2862,18 +2897,35 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "https://www.casio.com/uk/watches/gshock/product.GA-2100CM-8A/"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 119.0,
+    "s": "casio.com/uk"
+   }
+  ],
   "id": "casio-ga-2100cm-8a",
   "images": {},
   "name": "G-Shock GA-2100CM-8A",
-  "prices": {},
+  "prices": {
+   "casio.com/uk": {
+    "d": "2026-11-23",
+    "manual": true,
+    "moneda": "GBP",
+    "p": 119.0,
+    "src": "https://www.casio.com/uk/watches/gshock/product.GA-2100CM-8A/"
+   }
+  },
   "ref": "GA-2100CM-8A",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "casio.com/uk": "https://www.casio.com/uk/watches/gshock/product.GA-2100CM-8A/"
+  }
  },
  {
   "brand": "Casio",
@@ -2932,18 +2984,35 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "https://sidekicks.co.uk/products/casio-g-shock-ga-2110sl-4a4"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 167.0,
+    "s": "sidekicks.co.uk"
+   }
+  ],
   "id": "casio-ga-2110sl-4a4",
   "images": {},
   "name": "G-Shock GA-2110SL-4A4",
-  "prices": {},
+  "prices": {
+   "sidekicks.co.uk": {
+    "d": "2026-11-23",
+    "manual": true,
+    "moneda": "GBP",
+    "p": 167.0,
+    "src": "https://sidekicks.co.uk/products/casio-g-shock-ga-2110sl-4a4"
+   }
+  },
   "ref": "GA-2110SL-4A4",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "sidekicks.co.uk": "https://sidekicks.co.uk/products/casio-g-shock-ga-2110sl-4a4"
+  }
  },
  {
   "brand": "Casio",
@@ -2962,18 +3031,35 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "https://tempusshop.com/en-gb/products/casio-g-shock-gac-2500-1a"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 92.0,
+    "s": "tempusshop.com"
+   }
+  ],
   "id": "casio-gac-2500-1a",
   "images": {},
   "name": "G-Shock GAC-2500-1A",
-  "prices": {},
+  "prices": {
+   "tempusshop.com": {
+    "d": "2026-11-23",
+    "manual": true,
+    "moneda": "GBP",
+    "p": 92.0,
+    "src": "https://tempusshop.com/en-gb/products/casio-g-shock-gac-2500-1a"
+   }
+  },
   "ref": "GAC-2500-1A",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "tempusshop.com": "https://tempusshop.com/en-gb/products/casio-g-shock-gac-2500-1a"
+  }
  },
  {
   "brand": "Casio",
@@ -3034,18 +3120,35 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "https://izoneo.co.uk/products/casio-g-shock-g-steel-gbm-2100lxb-1a2er"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 217.0,
+    "s": "izoneo.co.uk"
+   }
+  ],
   "id": "casio-gbm-2100lxb-1a2er",
   "images": {},
   "name": "G-Shock GBM-2100LXB-1A2ER",
-  "prices": {},
+  "prices": {
+   "izoneo.co.uk": {
+    "d": "2026-11-23",
+    "manual": true,
+    "moneda": "GBP",
+    "p": 217.0,
+    "src": "https://izoneo.co.uk/products/casio-g-shock-g-steel-gbm-2100lxb-1a2er"
+   }
+  },
   "ref": "GBM-2100LXB-1A2ER",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "izoneo.co.uk": "https://izoneo.co.uk/products/casio-g-shock-g-steel-gbm-2100lxb-1a2er"
+  }
  },
  {
   "brand": "Casio",
@@ -3146,18 +3249,35 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "https://goldsmiths.co.uk/Casio-G+Shock-Mudman-63.5mm-Mens-Watch-Black-GDG+B100+1A5ER/p/17051150"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 200.0,
+    "s": "goldsmiths.co.uk"
+   }
+  ],
   "id": "casio-gdg-b100-1a5er",
   "images": {},
   "name": "G-Shock GDG-B100-1A5ER",
-  "prices": {},
+  "prices": {
+   "goldsmiths.co.uk": {
+    "d": "2026-11-23",
+    "manual": true,
+    "moneda": "GBP",
+    "p": 200.0,
+    "src": "https://goldsmiths.co.uk/Casio-G+Shock-Mudman-63.5mm-Mens-Watch-Black-GDG+B100+1A5ER/p/17051150"
+   }
+  },
   "ref": "GDG-B100-1A5ER",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "goldsmiths.co.uk": "https://goldsmiths.co.uk/Casio-G+Shock-Mudman-63.5mm-Mens-Watch-Black-GDG+B100+1A5ER/p/17051150"
+  }
  },
  {
   "brand": "Casio",
@@ -3340,19 +3460,36 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "https://www.watchia.com/world/casio-g-shock-gm-s-series-gm-s2110ns-8aer.html"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 219.0,
+    "s": "watchia.com"
+   }
+  ],
   "id": "casio-gm-s2110ns-8aer",
   "images": {},
   "material": "Resina y acero inoxidable",
   "name": "G-Shock GM-S2110NS-8AER",
-  "prices": {},
+  "prices": {
+   "watchia.com": {
+    "d": "2026-11-23",
+    "manual": true,
+    "moneda": "GBP",
+    "p": 219.0,
+    "src": "https://www.watchia.com/world/casio-g-shock-gm-s-series-gm-s2110ns-8aer.html"
+   }
+  },
   "ref": "GM-S2110NS-8AER",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "watchia.com": "https://www.watchia.com/world/casio-g-shock-gm-s-series-gm-s2110ns-8aer.html"
+  }
  },
  {
   "brand": "Casio",
@@ -3501,18 +3638,35 @@
   "descartadas": [],
   "fuentes": [
    "https://www.baroli.es/",
-   "https://maroyjoyeros.com/categoria/relojes-g-shock/"
+   "https://maroyjoyeros.com/categoria/relojes-g-shock/",
+   "https://tactree.co.uk/collections/new/products/casio-g-steel-2500-series-shock-resist-analogue-watch-gmc-2500-1aer"
   ],
-  "history": [],
+  "history": [
+   {
+    "d": "2026-11-23",
+    "p": 230.0,
+    "s": "tactree.co.uk"
+   }
+  ],
   "id": "casio-gmc-2500-1a",
   "images": {},
   "name": "G-Shock GMC-2500-1A",
-  "prices": {},
+  "prices": {
+   "tactree.co.uk": {
+    "d": "2026-11-23",
+    "manual": true,
+    "moneda": "GBP",
+    "p": 230.0,
+    "src": "https://tactree.co.uk/collections/new/products/casio-g-steel-2500-series-shock-resist-analogue-watch-gmc-2500-1aer"
+   }
+  },
   "ref": "GMC-2500-1A",
   "target": null,
   "tier": "Asequible",
   "tipo": "Digital",
-  "urls": {}
+  "urls": {
+   "tactree.co.uk": "https://tactree.co.uk/collections/new/products/casio-g-steel-2500-series-shock-resist-analogue-watch-gmc-2500-1aer"
+  }
  },
  {
   "brand": "Casio",

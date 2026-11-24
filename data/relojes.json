@@ -9755,7 +9755,8 @@
   "urls": {
    "pisa1940.com": "https://pisa1940.com/en/products/calatrava-11",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "wempe.com"
  },
  {
   "brand": "Patek Philippe",
@@ -9809,7 +9810,8 @@
   "urls": {
    "pisa1940.com": "https://pisa1940.com/en/products/nautilus-7",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "wempe.com"
  },
  {
   "brand": "Rolex",
@@ -9885,7 +9887,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "montredo": "https://www.montredo.com/products/rolex-daytona-automatic-black-40mm-49872?_pos=1&_sid=9ad56fe62&_ss=r"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Rolex",
@@ -9929,7 +9932,8 @@
   "tipo": "Buceo",
   "urls": {
    "wristler": "https://wristler.eu/es/relojes/204448-rolex-submariner-no-date"
-  }
+  },
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Rolex",
@@ -9976,7 +9980,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Rolex",
@@ -10023,7 +10028,8 @@
   "tipo": "Vestir",
   "urls": {
    "montredo": "https://www.montredo.com/products/pro-hunter-oyster-perpetual-automatic-black-41mm-48807?_pos=1&_sid=1f1a1a1bc&_ss=r"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Rolex",
@@ -10104,7 +10110,8 @@
   "tipo": "Vestir",
   "urls": {
    "montredo": "https://www.montredo.com/products/rolex-oyster-perpetual-36-automatic-multi-color-36-67723?_pos=1&_sid=33ed1c9fc&_ss=r"
-  }
+  },
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Rolex",
@@ -10185,7 +10192,8 @@
   "tipo": "Vestir",
   "urls": {
    "montredo": "https://www.montredo.com/products/rolex-datejust-oyster-perpetual-automatic-black-36-66915?_pos=1&_sid=a381e07de&_ss=r"
-  }
+  },
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Rolex",
@@ -10232,7 +10240,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Rolex",
@@ -10278,7 +10287,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Rolex",
@@ -10368,7 +10378,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "elcorteingles": "https://www.elcorteingles.es/boutique-rolex/en/rolex-cosmograph-daytona-m126503-0001"
-  }
+  },
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Rolex",
@@ -10413,7 +10424,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "wristler": "https://wristler.eu/watches/123637-rolex-daytona"
-  }
+  },
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Rolex",
@@ -10489,7 +10501,8 @@
   "tipo": "Buceo",
   "urls": {
    "montredo": "https://www.montredo.com/products/rolex-sea-dweller-automatic-black-43mm-3-49881?_pos=1&_sid=9209d5b1c&_ss=r"
-  }
+  },
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Rolex",
@@ -10570,7 +10583,8 @@
   "tipo": "Vestir",
   "urls": {
    "montredo": "https://www.montredo.com/products/rolex-gmt-master-ii-automatic-black-40mm-17-49882?_pos=1&_sid=c1bbc9b56&_ss=r"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Rolex",

@@ -2908,7 +2908,8 @@
   "urls": {
    "idealo": "https://www.idealo.es/precios/201863687/casio-g-shock-ga-2100-1a4er.html",
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/casio-g-shock-classic-ga-2100-1a4er"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Casio",
@@ -2955,7 +2956,8 @@
   "tipo": "Digital",
   "urls": {
    "relojeshermosos": "https://www.relojeshermosos.es/casio-g-shock-ga-2100-4aer.html"
-  }
+  },
+  "specs_fuente": "casio.com"
  },
  {
   "brand": "Casio",
@@ -3001,7 +3003,8 @@
   "tipo": "Digital",
   "urls": {
    "ebay.com": "https://www.ebay.com/itm/284503508889"
-  }
+  },
+  "specs_fuente": "casio.com"
  },
  {
   "brand": "Casio",
@@ -3088,7 +3091,8 @@
   "tipo": "Digital",
   "urls": {
    "idealo": "https://www.idealo.es/precios/206310389/casio-g-shock-ga-2100bm-7a2.html"
-  }
+  },
+  "specs_fuente": "casio.com"
  },
  {
   "brand": "Casio",
@@ -3136,7 +3140,8 @@
   "tipo": "Digital",
   "urls": {
    "casio.com/uk": "https://www.casio.com/uk/watches/gshock/product.GA-2100CM-8A/"
-  }
+  },
+  "specs_fuente": "casio.com"
  },
  {
   "brand": "Casio",
@@ -3182,7 +3187,8 @@
   "tipo": "Digital",
   "urls": {
    "notebookcheck.net": "https://notebookcheck.net/casio-s-new-made-in-japan-sushi-g-shocks-launch-in-the-eu-but-the-pricing-order-flips.1440607.0.html"
-  }
+  },
+  "specs_fuente": "casio.com"
  },
  {
   "brand": "Casio",
@@ -4290,7 +4296,8 @@
   "tipo": "Buceo",
   "urls": {
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/citizen-promaster-bn0150-10e"
-  }
+  },
+  "specs_fuente": "citizenwatch.eu"
  },
  {
   "brand": "Citizen",
@@ -4338,7 +4345,8 @@
   "tipo": "Buceo",
   "urls": {
    "jurawatches.co.uk": "https://jurawatches.co.uk/products/citizen-watch-eco-drive-wr100-mens-bn0150-28e"
-  }
+  },
+  "specs_fuente": "citizenwatch.com"
  },
  {
   "brand": "Citizen",
@@ -4482,7 +4490,8 @@
    "idealo": "https://www.idealo.es/precios/4142432/citizen-promaster-land-altichron-eco-drive-bn4021-02e.html",
    "montredo": "https://www.montredo.com/products/citizen-promaster-quartz-black-50mm-37117?_pos=1&_sid=2f551757d&_ss=r",
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/citizen-eco-drive-bn4021-02e"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Citizen",
@@ -4661,7 +4670,8 @@
   "urls": {
    "idealo": "https://www.idealo.es/precios/206131217/citizen-promaster-navihawk-ca4660-61a.html",
    "lepage": "https://www.lepage.fr/en/23686-citizen-promaster-sky-chronographe-navihawk-eco-drive-silver-dial-steel-bracelet-40-mm-ca4660-61a.html"
-  }
+  },
+  "specs_fuente": "citizenwatch.com"
  },
  {
   "brand": "Citizen",
@@ -4717,7 +4727,8 @@
    "distribuidor": "https://laguardajoiers.com/en/bn0150-61e-citizen-promaster-divers-eco-drive.html",
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/citizen-promaster-bn0150-61e"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "citizen.it"
  },
  {
   "brand": "Garmin",
@@ -4798,7 +4809,8 @@
   "tipo": "Smartwatch",
   "urls": {
    "lepage": "https://www.lepage.fr/en/20401-garmin-venu-3-gray-black-silicone-strap-45-mm-0100278401.html"
-  }
+  },
+  "specs_fuente": "garmin.com"
  },
  {
   "brand": "Garmin",
@@ -4879,7 +4891,8 @@
   "tipo": "Smartwatch",
   "urls": {
    "lepage": "https://www.lepage.fr/en/20403-garmin-venu-3s-silver-sage-green-silicone-strap-41-mm-010-02785-01.html"
-  }
+  },
+  "specs_fuente": "garmin.com"
  },
  {
   "brand": "Garmin",
@@ -4925,7 +4938,8 @@
   "tipo": "Smartwatch",
   "urls": {
    "triathlonstore.fr": "https://triathlonstore.fr/en/products/garmin-forerunner-965-noir"
-  }
+  },
+  "specs_fuente": "hollandwatchgroup.com"
  },
  {
   "brand": "Garmin",
@@ -5015,7 +5029,8 @@
    "distribuidor": "https://www.pccomponentes.com/garmin-venu-3-reloj-smartwatch-45mm-bisel-acero-inoxidable-con-caja-y-correa-de-silicona-blanca",
    "lepage": "https://www.lepage.fr/en/20400-garmin-venu-3-silver-white-silicone-strap-45-mm-010-02784-00.html"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "garmin.com"
  },
  {
   "brand": "Grand Seiko",
@@ -5092,7 +5107,8 @@
   "urls": {
    "lepage": "https://www.lepage.fr/en/6959-montre-grand-seiko-heritage-spring-drive-cadran-blanc-bracelet-titane-41-mm-sbga211.html",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "grand-seiko.com"
  },
  {
   "brand": "Grand Seiko",
@@ -5230,7 +5246,8 @@
    "montredo": "https://www.montredo.com/products/grand-seiko-heritage-automatic-pink-40mm-33259?_pos=1&_sid=54eb4dd90&_ss=r",
    "oficial": "https://www.grand-seiko.com/es-es/collections/sbga413g"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "grand-seiko.com"
  },
  {
   "brand": "Grand Seiko",
@@ -5384,7 +5401,8 @@
    "grand-seiko.com": "https://www.grand-seiko.com/fr-fr/collections/slgh005g",
    "lepage": "https://www.lepage.fr/en/9682-watch-grand-seiko-evolution-9-white-birch-hi-beats-automatic-dial-white-bracelet-steel-40-mm-slgh005.html",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "grand-seiko.com"
  },
  {
   "brand": "Hamilton",
@@ -5523,7 +5541,8 @@
   "tipo": "Vestir",
   "urls": {
    "montredo": "https://www.montredo.com/products/hamilton-jazzmaster-quartz-silver-40mm-2-30647?_pos=1&_sid=8a15c6d57&_ss=r"
-  }
+  },
+  "specs_fuente": "watchcanon.com"
  },
  {
   "brand": "Hamilton",
@@ -5629,7 +5648,8 @@
   "urls": {
    "lepage": "https://www.lepage.fr/en/10092-hamilton-jazzmaster-gent-automatic-watch-beige-dial-brown-leather-strap-40-mm-h32475520.html",
    "montredo": "https://www.montredo.com/products/hamilton-jazzmaster-automatic-beige-40mm-4-30565?_pos=1&_sid=15ecf2046&_ss=r"
-  }
+  },
+  "specs_fuente": "hamiltonwatch.com"
  },
  {
   "brand": "Hamilton",
@@ -5687,7 +5707,8 @@
   "tipo": "Vestir",
   "urls": {
    "montredo": "https://www.montredo.com/products/hamilton-jazzmaster-automatic-black-40mm-8-30590?_pos=1&_sid=3c25eb135&_ss=r"
-  }
+  },
+  "specs_fuente": "hamiltonwatch.com"
  },
  {
   "brand": "Hamilton",
@@ -5755,7 +5776,8 @@
   "urls": {
    "maier.fr": "https://en.maier.fr/watchmaking-jewelry-brands/hamilton/watches/jazzmaster/jazzmaster-viewmatic-auto_h32515535",
    "watchbase": "https://watchbase.com/hamilton/jazzmaster/h32515535"
-  }
+  },
+  "specs_fuente": "watchcanon.com"
  },
  {
   "brand": "Hamilton",
@@ -5983,7 +6005,8 @@
   "urls": {
    "lepage": "https://www.lepage.fr/en/16233-hamilton-jazzmaster-open-heart-auto-watch-blue-dial-brown-leather-strap-40-mm-h32675540.html",
    "montredo": "https://www.montredo.com/products/hamilton-jazzmaster-automatic-blue-40mm-13-48276?_pos=1&_sid=41ffc3424&_ss=r"
-  }
+  },
+  "specs_fuente": "hamiltonwatch.com"
  },
  {
   "brand": "Hamilton",
@@ -6542,7 +6565,8 @@
    "distribuidor": "https://lepage.fr/en/10093-hamilton-jazzmaster-gent-automatic-watch-blue-dial-blue-leather-strap-40-mm-h32475640.html",
    "montredo": "https://www.montredo.com/products/hamilton-jazzmaster-automatic-blue-40mm-6-30589?_pos=1&_sid=3fbe5e398&_ss=r"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "watchcanon.com"
  },
  {
   "brand": "Hamilton",
@@ -6668,7 +6692,8 @@
    "lepage": "https://www.lepage.fr/en/23886-hamilton-khaki-field-automatic-watch-khaki-dial-steel-bracelet-42-mm-h70605160.html",
    "oficial": "https://www.hamiltonwatch.com/es-es/h70605160-khaki-field-auto.html"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "IWC",
@@ -7377,7 +7402,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Longines",
@@ -7654,7 +7680,8 @@
   "urls": {
    "perodri.es": "https://www.perodri.es/en/relojes/longines/conquest-vhp/longines-conquest-vhp-2/",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Longines",
@@ -8084,7 +8111,8 @@
    "distribuidor": "https://en.maier.fr/watchmaking-jewelry-brands/longines/watches/longines-spirit/longines-spirit_l3-810-4-53-0",
    "montredo": "https://www.montredo.com/products/longines-spirit-automatic-black-40mm-2-28981?_pos=1&_sid=2e1f695a4&_ss=r"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Mido",

@@ -14552,7 +14552,8 @@
    "montredo": "https://www.montredo.com/products/tag-heuer-formula-1-quartz-black-43mm-3-4457?_pos=1&_sid=724b269e9&_ss=r",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tagheuer.com": "https://tagheuer.com/fr/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chronograph/CAZ1010.BA0842.html"
-  }
+  },
+  "specs_fuente": "tagheuer.com"
  },
  {
   "brand": "TAG Heuer",
@@ -14621,7 +14622,8 @@
    "lepage": "https://www.lepage.fr/en/9261-tag-heuer-monaco-caliber-heuer-02-watch-blue-dial-steel-bracelet-39-mm-cbl2111ba0644.html",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tagheuer.com": "https://www.tagheuer.com/es/es/relojes/colecciones/tag-heuer-monaco/39-mm-th20-00/CBL2111.BA0644.html"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "TAG Heuer",
@@ -14703,7 +14705,8 @@
    "montredo": "https://www.montredo.com/products/tag-heuer-carrera-automatic-black-44mm-2-29884?_pos=1&_sid=626f8fec4&_ss=r",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tagheuer.com": "https://tagheuer.com/ad/en/timepieces/collections/tag-heuer-carrera/44-mm-th20-00/CBN2A1B.BA0643.html"
-  }
+  },
+  "specs_fuente": "tagheuer.com"
  },
  {
   "brand": "TAG Heuer",
@@ -14751,7 +14754,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "relojdelujo.com"
  },
  {
   "brand": "TAG Heuer",
@@ -14818,7 +14822,8 @@
    "lepage": "https://www.lepage.fr/en/8466-tag-heuer-link-calibre-5-watch-blue-dial-steel-bracelet-41-mm-wbc2112ba0603.html",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tagheuer.com": "https://www.tagheuer.com/mk/en/timepieces/collections/tag-heuer-link/41-mm-calibre-5-automatic/WBC2112.BA0603.html"
-  }
+  },
+  "specs_fuente": "tagheuer.com"
  },
  {
   "brand": "TAG Heuer",
@@ -14887,7 +14892,8 @@
    "montredo": "https://www.montredo.com/products/tag-heuer-aquaracer-automatic-blue-43mm-6-30486?_pos=1&_sid=90ec9506c&_ss=r",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tagheuer.com": "https://www.tagheuer.com/es/en/timepieces/collections/tag-heuer-aquaracer/43-mm-calibre-5-automatic/WBP201B.BA0632.html"
-  }
+  },
+  "specs_fuente": "tagheuer.com"
  },
  {
   "brand": "Tissot",
@@ -15070,7 +15076,8 @@
    "oficial": "https://www.tissotwatches.com/es-es/T1374101105100.html",
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-prx-t1374101105100"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "dials.co"
  },
  {
   "brand": "Tissot",
@@ -15127,7 +15134,8 @@
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios",
    "tissotwatches.com": "https://www.tissotwatches.com/en-ie/T0064071103300.html"
-  }
+  },
+  "specs_fuente": "everywatch.com"
  },
  {
   "brand": "Tissot",
@@ -15195,7 +15203,8 @@
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-seastar-2000-professional-powermatic-80-t1206071104101",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tissotwatches.com": "https://www.tissotwatches.com/es-es/T1206071104101.html"
-  }
+  },
+  "specs_fuente": "dials.co"
  },
  {
   "brand": "Tissot",
@@ -15277,7 +15286,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "montredo": "https://www.montredo.com/products/tissot-seastar-quartz-black-38-52191?_pos=1&_sid=967f3f42f&_ss=r"
-  }
+  },
+  "specs_fuente": "dials.co"
  },
  {
   "brand": "Tissot",
@@ -15325,7 +15335,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "tissot": "https://www.tissotwatches.com/es-es/T1202171701100.html"
-  }
+  },
+  "specs_fuente": "dials.co"
  },
  {
   "brand": "Tissot",
@@ -15407,7 +15418,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "montredo": "https://www.montredo.com/products/tissot-seastar-quartz-turquoise-38-52187?_pos=1&_sid=beca4252b&_ss=r"
-  }
+  },
+  "specs_fuente": "watchbase.com"
  },
  {
   "brand": "Tissot",
@@ -15618,7 +15630,8 @@
   "urls": {
    "lepage": "https://www.lepage.fr/en/22571-tissot-seastar-1000-gmt-pvd-yellow-gold-quartz-watch-black-and-brown-bezel-black-dial-steel-bracelet-and-yellow-pvd-40-mm-t1208522205100.html",
    "montredo": "https://www.montredo.com/products/tissot-t-sport-seastar-1000-quartz-gmt-quartz-black-40-53862?_pos=1&_sid=8f62d6d78&_ss=r"
-  }
+  },
+  "specs_fuente": "tissotwatches.com"
  },
  {
   "brand": "Tissot",
@@ -15718,7 +15731,8 @@
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-supersport-chrono-t1256171105100",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tissotwatches.com": "https://www.tissotwatches.com/en-fi/T1256171105100.html"
-  }
+  },
+  "specs_fuente": "dials.co"
  },
  {
   "brand": "Tissot",

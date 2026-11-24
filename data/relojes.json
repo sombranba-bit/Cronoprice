@@ -307,7 +307,7 @@
   },
   "caja_mm": 42,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:27+01:00",
+  "checked": "2026-11-24T11:23:44+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -2289,7 +2289,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:27+01:00",
+  "checked": "2026-11-24T11:23:44+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -2437,7 +2437,7 @@
   },
   "caja_mm": 33,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:27+01:00",
+  "checked": "2026-11-24T11:23:45+01:00",
   "correa": "Resina",
   "deals": [],
   "descartadas": [],
@@ -4230,7 +4230,7 @@
   },
   "caja_mm": 44,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:34+01:00",
+  "checked": "2026-11-24T11:23:54+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -4253,7 +4253,7 @@
   "prices": {
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 159.6,
     "stock": false
@@ -4326,7 +4326,7 @@
   },
   "caja_mm": 49.5,
   "categoria": "clasico",
-  "checked": "2026-11-23T13:15:44+01:00",
+  "checked": "2026-11-24T11:23:59+01:00",
   "correa": "Titanio",
   "deals": [],
   "descartadas": [],
@@ -4414,6 +4414,11 @@
     "d": "2026-11-23",
     "p": 554.62,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 578.0,
+    "s": "idealo"
    }
   ],
   "id": "citizen-bn4021-02e",
@@ -4426,7 +4431,7 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 578.0
    },
@@ -4438,7 +4443,7 @@
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 455.0,
     "stock": false
@@ -4466,7 +4471,7 @@
   "caja_mm": 46,
   "calibre": "Citizen J280",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:34+01:00",
+  "checked": "2026-11-24T11:23:54+01:00",
   "correa": "Titanio",
   "deals": [],
   "descartadas": [],
@@ -5448,7 +5453,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:21+01:00",
+  "checked": "2026-11-24T11:23:41+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -5506,7 +5511,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:29+01:00",
+  "checked": "2026-11-24T11:23:48+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -5564,6 +5569,11 @@
     "d": "2026-11-23",
     "p": 1025.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 1025.0,
+    "s": "lepage"
    }
   ],
   "id": "hamilton-h32475520",
@@ -5575,7 +5585,7 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 1025.0
    },
@@ -5607,7 +5617,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:20+01:00",
+  "checked": "2026-11-24T11:23:39+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -5666,7 +5676,7 @@
   "caja_mm": 40,
   "calibre": "Hamilton H-10",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:32+01:00",
+  "checked": "2026-11-24T11:23:51+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -5691,6 +5701,11 @@
     "d": "2026-11-23",
     "p": 875.0,
     "s": "maier.fr"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 875.0,
+    "s": "maier.fr"
    }
   ],
   "id": "hamilton-h32515535",
@@ -5702,7 +5717,7 @@
   "prices": {
    "maier.fr": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 875.0
    }
@@ -5836,7 +5851,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:27+01:00",
+  "checked": "2026-11-24T11:23:46+01:00",
   "correa": "Piel",
   "deals": [],
   "descartadas": [],
@@ -5909,6 +5924,11 @@
     "d": "2026-11-23",
     "p": 1145.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 1145.0,
+    "s": "lepage"
    }
   ],
   "id": "hamilton-h32675540",
@@ -5920,7 +5940,7 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 1145.0
    },
@@ -7088,7 +7108,7 @@
   "caja_mm": 41.0,
   "calibre": "IWC 69355",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:34:46+01:00",
+  "checked": "2026-11-24T11:18:32+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -7117,6 +7137,11 @@
     "d": "2026-11-23",
     "p": 7436.97,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 7436.97,
+    "s": "montredo"
    }
   ],
   "id": "iwc-iw371617",
@@ -7129,7 +7154,7 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 7436.97
    },
@@ -7163,7 +7188,7 @@
   "caja_mm": 41.1,
   "calibre": "IWC 69380",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:34:47+01:00",
+  "checked": "2026-11-24T11:18:32+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -7213,7 +7238,7 @@
   "caja_mm": 39.0,
   "calibre": "JLC 925AA",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:34:49+01:00",
+  "checked": "2026-11-24T11:18:34+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -7242,6 +7267,11 @@
     "d": "2026-11-23",
     "p": 9285.71,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 9285.71,
+    "s": "montredo"
    }
   ],
   "id": "jaeger-lecoultre-q1368430",
@@ -7254,7 +7284,7 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 9285.71
    },
@@ -7287,7 +7317,7 @@
   },
   "caja_mm": 45.6,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:34:49+01:00",
+  "checked": "2026-11-24T11:18:34+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -7336,7 +7366,7 @@
   "caja_mm": 42.0,
   "calibre": "Longines L688.2",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:34:53+01:00",
+  "checked": "2026-11-24T11:18:38+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -7380,6 +7410,16 @@
     "d": "2026-11-23",
     "p": 2445.38,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 3500.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 2445.38,
+    "s": "montredo"
    }
   ],
   "id": "longines-l2-759-4-78-6",
@@ -7393,13 +7433,13 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 3500.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 2445.38
    },
@@ -7434,7 +7474,7 @@
   "caja_mm": 42.0,
   "calibre": "Longines L899.2",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:34:57+01:00",
+  "checked": "2026-11-24T11:18:43+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -7478,6 +7518,16 @@
     "d": "2026-11-23",
     "p": 2067.23,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 2950.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 2067.23,
+    "s": "montredo"
    }
   ],
   "id": "longines-l2-919-4-92-6",
@@ -7491,13 +7541,13 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 2950.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 2067.23
    },
@@ -7531,7 +7581,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:00+01:00",
+  "checked": "2026-11-24T11:18:48+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -7555,7 +7605,7 @@
   "prices": {
    "perodri.es": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 1200.0,
     "stock": false
@@ -7593,7 +7643,7 @@
   "caja_mm": 42.0,
   "calibre": "Longines L888.5",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:03+01:00",
+  "checked": "2026-11-24T11:18:52+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -7637,6 +7687,16 @@
     "d": "2026-11-23",
     "p": 1941.18,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 2750.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 1899.16,
+    "s": "montredo"
    }
   ],
   "id": "longines-l3-774-4-90-2",
@@ -7650,15 +7710,15 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 2750.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
-    "p": 1941.18
+    "p": 1899.16
    },
    "relojdelujo": {
     "d": "2026-11-20",
@@ -7691,7 +7751,7 @@
   "caja_mm": 41.0,
   "calibre": "Longines L888.2",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:06+01:00",
+  "checked": "2026-11-24T11:18:57+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -7725,6 +7785,16 @@
     "d": "2026-11-23",
     "p": 1378.15,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 1950.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 1378.15,
+    "s": "montredo"
    }
   ],
   "id": "longines-l3-781-4-56-9",
@@ -7738,13 +7808,13 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 1950.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 1378.15
    },
@@ -7779,7 +7849,7 @@
   "caja_mm": 42.0,
   "calibre": "Longines L888.4",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:11+01:00",
+  "checked": "2026-11-24T11:19:01+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -7813,6 +7883,16 @@
     "d": "2026-11-23",
     "p": 1789.92,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 2550.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 1789.92,
+    "s": "montredo"
    }
   ],
   "id": "longines-l3-811-4-93-6",
@@ -7826,13 +7906,13 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 2550.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 1789.92
    },
@@ -8104,7 +8184,7 @@
   },
   "caja_mm": 36,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:20+01:00",
+  "checked": "2026-11-24T11:23:39+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -8362,7 +8442,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:21+01:00",
+  "checked": "2026-11-24T11:23:41+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -8436,7 +8516,7 @@
   "caja_mm": 42.0,
   "calibre": "Omega 8800",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:12+01:00",
+  "checked": "2026-11-24T11:19:01+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -8582,7 +8662,7 @@
   "caja_mm": 43.5,
   "calibre": "Omega 8900",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:13+01:00",
+  "checked": "2026-11-24T11:19:01+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -8631,7 +8711,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:21+01:00",
+  "checked": "2026-11-24T11:23:41+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -8690,7 +8770,7 @@
   "caja_mm": 42.0,
   "calibre": "Omega 3861",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:18+01:00",
+  "checked": "2026-11-24T11:19:05+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -8724,6 +8804,11 @@
     "d": "2026-11-23",
     "p": 5705.88,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 8800.0,
+    "s": "lepage"
    }
   ],
   "id": "omega-310-30-42-50-01-002",
@@ -8737,7 +8822,7 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 8800.0
    },
@@ -8785,7 +8870,7 @@
   "caja_mm": 44.25,
   "calibre": "Omega 9900",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:20+01:00",
+  "checked": "2026-11-24T11:19:05+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -8855,7 +8940,7 @@
   "caja_mm": 39.5,
   "calibre": "Omega 2500",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:20+01:00",
+  "checked": "2026-11-24T11:19:05+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -9043,7 +9128,7 @@
   },
   "caja_mm": 41.5,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:26+01:00",
+  "checked": "2026-11-24T11:19:09+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -9076,6 +9161,11 @@
     "d": "2026-11-23",
     "p": 2126.05,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 2413.95,
+    "s": "idealo"
    }
   ],
   "id": "oris-01-400-7769-4135",
@@ -9088,7 +9178,7 @@
   "prices": {
    "idealo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 2413.95
    },
@@ -9139,7 +9229,7 @@
   },
   "caja_mm": 41.5,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:29+01:00",
+  "checked": "2026-11-24T11:19:10+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -9167,6 +9257,11 @@
     "d": "2026-11-23",
     "p": 1698.0,
     "s": "wristler.eu"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 1698.0,
+    "s": "wristler.eu"
    }
   ],
   "id": "oris-01-733-7766-4135",
@@ -9185,7 +9280,7 @@
    },
    "wristler.eu": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 1698.0
    }
@@ -9211,7 +9306,7 @@
   },
   "caja_mm": 38.0,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:33+01:00",
+  "checked": "2026-11-24T11:19:15+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -9234,11 +9329,16 @@
     "d": "2026-11-23",
     "p": 1647.06,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 1571.43,
+    "s": "montredo"
    }
   ],
   "id": "oris-01-733-7771-4055",
   "images": {
-   "montredo": "https://www.montredo.com/cdn/shop/files/oris-diversixty-five-0173377714055-0781918-41904-1.webp?v=1770959161&width=1920"
+   "montredo": "https://www.montredo.com/cdn/shop/files/oris-divers-sixty-five-automatic-blue-38mm-5-41904-NP-1.webp?v=1795511865&width=1920"
   },
   "material": "Acero inoxidable",
   "movimiento": "automatico",
@@ -9246,9 +9346,9 @@
   "prices": {
    "montredo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
-    "p": 1647.06
+    "p": 1571.43
    },
    "oris.ch": {
     "d": "2026-11-20",
@@ -9285,7 +9385,7 @@
   },
   "caja_mm": 40.0,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:35+01:00",
+  "checked": "2026-11-24T11:19:17+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -9339,7 +9439,7 @@
   },
   "caja_mm": 41.5,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:35+01:00",
+  "checked": "2026-11-24T11:19:17+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -9475,7 +9575,7 @@
   },
   "caja_mm": 40.8,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:35:55+01:00",
+  "checked": "2026-11-24T11:19:19+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -9528,7 +9628,7 @@
   },
   "caja_mm": 40.0,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:36:15+01:00",
+  "checked": "2026-11-24T11:19:21+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -9551,6 +9651,11 @@
     "d": "2026-11-22",
     "p": 44906.0,
     "s": "pisa1940.com"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 44906.0,
+    "s": "pisa1940.com"
    }
   ],
   "id": "patek-philippe-5226g-001",
@@ -9563,7 +9668,7 @@
   "prices": {
    "pisa1940.com": {
     "auto": true,
-    "d": "2026-11-22",
+    "d": "2026-11-24",
     "gh": true,
     "p": 44906.0
    },
@@ -9595,7 +9700,7 @@
   },
   "caja_mm": 41.0,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:36:31+01:00",
+  "checked": "2026-11-24T11:19:22+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -9725,7 +9830,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:21+01:00",
+  "checked": "2026-11-24T11:23:42+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -9770,7 +9875,7 @@
   "caja_mm": 36.0,
   "calibre": "Rolex 3230",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:36:45+01:00",
+  "checked": "2026-11-24T11:19:22+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -9816,7 +9921,7 @@
   },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-23T13:15:59+01:00",
+  "checked": "2026-11-24T11:23:59+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10026,7 +10131,7 @@
   "caja_mm": 36.0,
   "calibre": "Rolex 3235",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:37:01+01:00",
+  "checked": "2026-11-24T11:19:22+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -10072,7 +10177,7 @@
   },
   "caja_mm": 41.0,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:37:15+01:00",
+  "checked": "2026-11-24T11:19:22+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -10253,7 +10358,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:35+01:00",
+  "checked": "2026-11-24T11:23:54+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10329,7 +10434,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-23T13:15:18+01:00",
+  "checked": "2026-11-24T11:23:54+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10410,7 +10515,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-23T13:15:33+01:00",
+  "checked": "2026-11-24T11:23:55+01:00",
   "correa": "Acero (brazalete)",
   "deals": [],
   "descartadas": [],
@@ -10512,7 +10617,7 @@
   "caja_mm": 40.0,
   "calibre": "Rolex 3255",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:37:31+01:00",
+  "checked": "2026-11-24T11:19:22+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -10996,7 +11101,7 @@
   "caja_mm": 39.3,
   "calibre": "Seiko 6R35",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:37:49+01:00",
+  "checked": "2026-11-24T11:19:26+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -11020,6 +11125,11 @@
     "d": "2026-11-23",
     "p": 995.0,
     "s": "relojdelujo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 995.0,
+    "s": "relojdelujo"
    }
   ],
   "id": "seiko-spb167j1",
@@ -11033,14 +11143,14 @@
   "prices": {
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 995.0,
     "stock": false
    },
    "relojdelujo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 995.0
    }
@@ -11068,7 +11178,7 @@
   "caja_mm": 40.5,
   "calibre": "Seiko 6R31",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:38:04+01:00",
+  "checked": "2026-11-24T11:19:26+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -11114,7 +11224,7 @@
   "caja_mm": 40.5,
   "calibre": "Seiko 4R35",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:38:25+01:00",
+  "checked": "2026-11-24T11:19:35+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -11136,13 +11246,29 @@
     "d": "2026-11-23",
     "p": 420.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 420.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 319.33,
+    "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 440.0,
+    "s": "relojdelujo"
    }
   ],
   "id": "seiko-srpb43j1",
   "images": {
    "lepage": "https://www.lepage.fr/10333-home_default/montre-seiko-presage-automatique-cadran-bleu-clair-soleille-bracelet-cuir-noir-40-5-mm.jpg",
    "montredo": "https://www.montredo.com/cdn/shop/files/seiko-presage-srpb43j1-35241-1.webp?v=1770938537&width=1920",
-   "planetarelojes": "https://www.planetarelojes.com/29266-tm_thickbox_default/seiko-presage-srpb43j1.jpg"
+   "planetarelojes": "https://www.planetarelojes.com/29266-tm_thickbox_default/seiko-presage-srpb43j1.jpg",
+   "relojdelujo": "https://relojdelujo.com/images/og-default.png"
   },
   "material": "Acero inoxidable",
   "movimiento": "automatico",
@@ -11150,28 +11276,28 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 420.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 319.33
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 440.0,
     "stock": false
    },
    "relojdelujo": {
-    "d": "2026-11-20",
-    "manual": true,
-    "p": 440.0,
-    "src": "https://relojdelujo.com/precios"
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 440.0
    }
   },
   "pvp_oficial": 440.0,
@@ -13541,7 +13667,7 @@
   "caja_mm": 40.5,
   "calibre": "Seiko 4R38",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:38:46+01:00",
+  "checked": "2026-11-24T11:19:43+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -13563,13 +13689,29 @@
     "d": "2026-11-23",
     "p": 490.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 490.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 386.55,
+    "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 550.0,
+    "s": "relojdelujo"
    }
   ],
   "id": "seiko-ssa405j1",
   "images": {
    "lepage": "https://www.lepage.fr/20451-home_default/montre-seiko-presage-coeur-ouvert-automatique-cadran-bleu-bracelet-cuir-bleu-40-5-mm.jpg",
    "montredo": "https://www.montredo.com/cdn/shop/files/seiko-presage-ssa405j1-35492-1.webp?v=1770940237&width=1920",
-   "planetarelojes": "https://www.planetarelojes.com/84240-tm_thickbox_default/seiko-presage-cocktail-ssa405j1.jpg"
+   "planetarelojes": "https://www.planetarelojes.com/84240-tm_thickbox_default/seiko-presage-cocktail-ssa405j1.jpg",
+   "relojdelujo": "https://relojdelujo.com/images/og-default.png"
   },
   "material": "Acero inoxidable",
   "movimiento": "automatico",
@@ -13577,28 +13719,28 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 490.0
    },
    "montredo": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 386.55
    },
    "planetarelojes": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 510.0,
     "stock": false
    },
    "relojdelujo": {
-    "d": "2026-11-20",
-    "manual": true,
-    "p": 550.0,
-    "src": "https://relojdelujo.com/precios"
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 550.0
    }
   },
   "pvp_oficial": 550.0,
@@ -14217,7 +14359,7 @@
   },
   "caja_mm": 43,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:03+01:00",
+  "checked": "2026-11-24T11:19:48+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -14235,20 +14377,37 @@
     "d": "2026-11-23",
     "p": 2350.0,
     "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 2350.0,
+    "s": "lepage"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 1478.99,
+    "s": "montredo"
    }
   ],
   "id": "tag-heuer-caz1010-ba0842",
   "images": {
-   "lepage": "https://www.lepage.fr/2218-home_default/tag-heuer-formula-1-quartz-watch-black-dial-black-bezel-steel-bracelet-43-mm.jpg"
+   "lepage": "https://www.lepage.fr/2218-home_default/tag-heuer-formula-1-quartz-watch-black-dial-black-bezel-steel-bracelet-43-mm.jpg",
+   "montredo": "https://www.montredo.com/cdn/shop/files/tagheuer-formula-1-quartz-chronograph-stainless-steel-black-dial-caz1010ba0842-4457-1.webp?v=1770890283&width=1920"
   },
   "movimiento": "cuarzo",
   "name": "Formula 1 Quartz 43mm",
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 2350.0
+   },
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 1478.99
    },
    "relojdelujo": {
     "d": "2026-11-20",
@@ -14281,10 +14440,16 @@
  },
  {
   "brand": "TAG Heuer",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 39.0,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:03+01:00",
+  "checked": "2026-11-24T11:20:05+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -14297,13 +14462,27 @@
     "d": "2026-11-20",
     "p": 7600.0,
     "s": "relojdelujo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 8450.0,
+    "s": "lepage"
    }
   ],
   "id": "tag-heuer-cbl2111-ba0644",
+  "images": {
+   "lepage": "https://www.lepage.fr/27588-home_default/tag-heuer-monaco-caliber-heuer-02-watch-blue-dial-steel-bracelet-39-mm.jpg"
+  },
   "material": "Acero",
   "movimiento": "automatico",
   "name": "Monaco Calibre Heuer 02 39mm",
   "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 8450.0
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -14323,16 +14502,23 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "lepage": "https://www.lepage.fr/en/9261-tag-heuer-monaco-caliber-heuer-02-watch-blue-dial-steel-bracelet-39-mm-cbl2111ba0644.html",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tagheuer.com": "https://www.tagheuer.com/es/es/relojes/colecciones/tag-heuer-monaco/39-mm-th20-00/CBL2111.BA0644.html"
   }
  },
  {
   "brand": "TAG Heuer",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 44.0,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:04+01:00",
+  "checked": "2026-11-24T11:20:25+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -14345,13 +14531,39 @@
     "d": "2026-11-20",
     "p": 6300.0,
     "s": "relojdelujo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 4689.08,
+    "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 7250.0,
+    "s": "lepage"
    }
   ],
   "id": "tag-heuer-cbn2a1b-ba0643",
+  "images": {
+   "lepage": "https://www.lepage.fr/78097-home_default/tag-heuer-carrera-calibre-heuer-02-chronograph-watch-black-dial-steel-bracelet-44-mm.jpg",
+   "montredo": "https://www.montredo.com/cdn/shop/files/tagheuer-carrera-cbn2a1bba0643-29884-1.webp?v=1770911347&width=1920"
+  },
   "material": "Acero y cerámica",
   "movimiento": "automatico",
   "name": "Carrera Chronograph 44mm Heuer 02",
   "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 7250.0
+   },
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 4689.08
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -14371,16 +14583,24 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "lepage": "https://www.lepage.fr/en/8666-tag-heuer-carrera-calibre-heuer-02-chronograph-watch-black-dial-steel-bracelet-44-mm-cbn2a1bba0643.html",
+   "montredo": "https://www.montredo.com/products/tag-heuer-carrera-automatic-black-44mm-2-29884?_pos=1&_sid=626f8fec4&_ss=r",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tagheuer.com": "https://tagheuer.com/ad/en/timepieces/collections/tag-heuer-carrera/44-mm-th20-00/CBN2A1B.BA0643.html"
   }
  },
  {
   "brand": "TAG Heuer",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 39,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:04+01:00",
+  "checked": "2026-11-24T11:20:41+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -14419,10 +14639,16 @@
  },
  {
   "brand": "TAG Heuer",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:04+01:00",
+  "checked": "2026-11-24T11:20:58+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -14438,9 +14664,19 @@
    }
   ],
   "id": "tag-heuer-wbc2112-ba0603",
+  "images": {
+   "lepage": "https://www.lepage.fr/76167-home_default/tag-heuer-link-calibre-5-watch-blue-dial-steel-bracelet-41-mm.jpg"
+  },
   "movimiento": "automatico",
   "name": "Link Calibre 5 41mm Azul",
   "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 4050.0,
+    "stock": false
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -14463,16 +14699,23 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "lepage": "https://www.lepage.fr/en/8466-tag-heuer-link-calibre-5-watch-blue-dial-steel-bracelet-41-mm-wbc2112ba0603.html",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tagheuer.com": "https://www.tagheuer.com/mk/en/timepieces/collections/tag-heuer-link/41-mm-calibre-5-automatic/WBC2112.BA0603.html"
   }
  },
  {
   "brand": "TAG Heuer",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 43.0,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:04+01:00",
+  "checked": "2026-11-24T11:21:16+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -14485,13 +14728,27 @@
     "d": "2026-11-20",
     "p": 3450.0,
     "s": "relojdelujo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 2478.99,
+    "s": "montredo"
    }
   ],
   "id": "tag-heuer-wbp201b-ba0632",
+  "images": {
+   "montredo": "https://www.montredo.com/cdn/shop/files/tagheuer-aquaracer-wbp201bba0632-30486-1.webp?v=1770915439&width=1920"
+  },
   "material": "Acero",
   "movimiento": "automatico",
   "name": "Aquaracer Professional 300 43mm",
   "prices": {
+   "montredo": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 2478.99
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -14511,6 +14768,7 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "montredo": "https://www.montredo.com/products/tag-heuer-aquaracer-automatic-blue-43mm-6-30486?_pos=1&_sid=90ec9506c&_ss=r",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tagheuer.com": "https://www.tagheuer.com/es/en/timepieces/collections/tag-heuer-aquaracer/43-mm-calibre-5-automatic/WBP201B.BA0632.html"
   }
@@ -14700,10 +14958,16 @@
  },
  {
   "brand": "Tissot",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 39.3,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:06+01:00",
+  "checked": "2026-11-24T11:21:32+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -14751,10 +15015,16 @@
  },
  {
   "brand": "Tissot",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 46.0,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:09+01:00",
+  "checked": "2026-11-24T11:21:52+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -14771,12 +15041,20 @@
   ],
   "id": "tissot-t120-607-11-041-01",
   "images": {
+   "planetarelojes": "https://www.planetarelojes.com/91402-tm_thickbox_default/tissot-seastar-2000-professional-powermatic-80-t1206071104101.jpg",
    "tissotwatches.com": "https://www.tissotwatches.com/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw6b483073/product-pictures/37d552f4-9360-47df-8868-569605729ee1_T120-607-11-041-01_shadow.png"
   },
   "material": "Acero inoxidable 316L",
   "movimiento": "automatico",
   "name": "Seastar 2000 Professional 46mm",
   "prices": {
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 1102.5,
+    "stock": false
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -14785,7 +15063,7 @@
    },
    "tissotwatches.com": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 1225.0,
     "stock": false
@@ -14797,6 +15075,8 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "montredo": "https://www.montredo.com/products/tissot-t-sport-automatic-blue-46mm-2-31433?_pos=1&_sid=e2d54ee67&_ss=r",
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-seastar-2000-professional-powermatic-80-t1206071104101",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tissotwatches.com": "https://www.tissotwatches.com/es-es/T1206071104101.html"
   }
@@ -15110,7 +15390,7 @@
   },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:24+01:00",
+  "checked": "2026-11-24T11:23:44+01:00",
   "correa": "Caucho",
   "deals": [],
   "descartadas": [],
@@ -15188,6 +15468,11 @@
     "d": "2026-11-23",
     "p": 394.96,
     "s": "montredo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 575.0,
+    "s": "lepage"
    }
   ],
   "id": "tissot-t120.852.22.051.00",
@@ -15199,7 +15484,7 @@
   "prices": {
    "lepage": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 575.0
    },
@@ -15221,10 +15506,16 @@
  },
  {
   "brand": "Tissot",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 45.5,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:13+01:00",
+  "checked": "2026-11-24T11:22:15+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -15252,16 +15543,41 @@
     "d": "2026-11-23",
     "p": 495.0,
     "s": "tissotwatches.com"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 495.0,
+    "s": "tissotwatches.com"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 495.0,
+    "s": "lepage"
    }
   ],
   "id": "tissot-t125-617-11-051-00",
   "images": {
+   "lepage": "https://www.lepage.fr/29224-home_default/tissot-t-sport-supersport-chrono-quartz-watch-black-dial-stainless-steel-bracelet-455-mm.jpg",
+   "planetarelojes": "https://www.planetarelojes.com/89935-tm_thickbox_default/tissot-supersport-chrono-t1256171105100.jpg",
    "tissotwatches.com": "https://www.tissotwatches.com/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw7ab6621b/product-pictures/541218e5-cbdb-45b4-a869-ba1a7f01e048_T125-617-11-051-00_shadow.png"
   },
   "material": "Acero inoxidable 316L",
   "movimiento": "cuarzo",
   "name": "Supersport Chrono 45mm",
   "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 495.0
+   },
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 445.5,
+    "stock": false
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -15270,7 +15586,7 @@
    },
    "tissotwatches.com": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 495.0
    }
@@ -15281,17 +15597,26 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "lepage": "https://www.lepage.fr/en/9599-tissot-t-sport-supersport-chrono-quartz-watch-black-dial-stainless-steel-bracelet-455-mm-t1256171105100.html",
+   "montredo": "https://www.montredo.com/products/tissot-t-sport-supersport-chrono-quartz-black-45-53831?_pos=1&_sid=455530da6&_ss=r",
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-supersport-chrono-t1256171105100",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tissotwatches.com": "https://www.tissotwatches.com/en-fi/T1256171105100.html"
   }
  },
  {
   "brand": "Tissot",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 40.0,
   "calibre": "ETA C07.601",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:13+01:00",
+  "checked": "2026-11-24T11:22:35+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -15305,13 +15630,35 @@
     "d": "2026-11-20",
     "p": 925.0,
     "s": "relojdelujo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 975.0,
+    "s": "lepage"
    }
   ],
   "id": "tissot-t127-407-11-041-01",
+  "images": {
+   "lepage": "https://www.lepage.fr/55381-home_default/tissot-gentleman-powermatic-80-open-heart-automatic-watch-blue-dial-steel-bracelet-40-mmc.jpg",
+   "planetarelojes": "https://www.planetarelojes.com/100535-tm_thickbox_default/tissot-gentleman-powermatic-80-open-heart-t1274071104101.jpg"
+  },
   "material": "Acero inoxidable",
   "movimiento": "automatico",
   "name": "Gentleman Powermatic 80 Silicium Azul",
   "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 975.0
+   },
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 877.5,
+    "stock": false
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -15326,15 +15673,24 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "lepage": "https://www.lepage.fr/en/17683-tissot-gentleman-powermatic-80-open-heart-automatic-watch-blue-dial-steel-bracelet-40-mmc-t1274071104101.html",
+   "montredo": "https://www.montredo.com/products/tissot-t-classic-gentleman-powermatic-80-open-heart-automatic-blue-40-53969?_pos=1&_sid=d398ccf41&_ss=r",
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-gentleman-powermatic-80-open-heart-t1274071104101",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
  {
   "brand": "Tissot",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 40.0,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:16+01:00",
+  "checked": "2026-11-24T11:23:00+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -15362,16 +15718,53 @@
     "d": "2026-11-23",
     "p": 775.0,
     "s": "tissotwatches.com"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 775.0,
+    "s": "tissotwatches.com"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 617.0,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 775.0,
+    "s": "lepage"
    }
   ],
   "id": "tissot-t137-407-11-041-00",
   "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/201549/8/201549892/s11_produktbild_gross/tissot-automatic-prx-powermatic-80-t137-407-11-041-00.jpg",
+   "lepage": "https://www.lepage.fr/33476-home_default/tissot-prx-powermatic-80-automatic-watch-blue-dial-steel-bracelet-40-mm.jpg",
+   "planetarelojes": "https://www.planetarelojes.com/92485-tm_thickbox_default/tissot-prx-powermatic-80-t1374071104100.jpg",
    "tissotwatches.com": "https://www.tissotwatches.com/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw95c4331d/product-pictures/63f42767-a9f5-4cdd-b952-8ea7b82b7e0c_T137-407-11-041-00_shadow.png"
   },
   "material": "Acero inoxidable 316L",
   "movimiento": "automatico",
   "name": "PRX Powermatic 80 Azul",
   "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 617.0
+   },
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 775.0
+   },
+   "planetarelojes": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 697.5,
+    "stock": false
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -15380,7 +15773,7 @@
    },
    "tissotwatches.com": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 775.0
    }
@@ -15391,16 +15784,26 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "idealo": "https://www.idealo.es/precios/201549892/tissot-automatic-prx-powermatic-80-t137-407-11-041-00.html",
+   "lepage": "https://www.lepage.fr/en/10334-tissot-prx-powermatic-80-automatic-watch-blue-dial-steel-bracelet-40-mm-t1374071104100.html",
+   "montredo": "https://www.montredo.com/products/tissot-t-classic-automatic-blue-40mm-30491?_pos=1&_sid=1fc660675&_ss=r",
+   "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-prx-powermatic-80-t1374071104100",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tissotwatches.com": "https://www.tissotwatches.com/es-es/t1374071104100.html"
   }
  },
  {
   "brand": "Tissot",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 40,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:19+01:00",
+  "checked": "2026-11-24T11:23:21+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -15428,15 +15831,44 @@
     "d": "2026-11-23",
     "p": 775.0,
     "s": "tissotwatches.com"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 775.0,
+    "s": "tissotwatches.com"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 630.0,
+    "s": "idealo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 775.0,
+    "s": "lepage"
    }
   ],
   "id": "tissot-t137-407-11-091-01",
   "images": {
+   "idealo": "https://cdn.idealo.com/folder/Product/204281/0/204281037/s11_produktbild_gross/tissot-automatic-prx-powermatic-80-t137-407-11-091-01.jpg",
+   "lepage": "https://www.lepage.fr/74701-home_default/tissot-prx-powermatic-80-watch-light-green-dial-steel-bracelet-40-mm.jpg",
    "tissotwatches.com": "https://www.tissotwatches.com/on/demandware.static/-/Sites-Tissot-Catalogue/default/dwb64df163/product-pictures/d102160b-bf40-4582-a545-910f29536ad9_T137-407-11-091-01_Shadow.png"
   },
   "movimiento": "automatico",
   "name": "PRX Powermatic 80 Verde",
   "prices": {
+   "idealo": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 630.0
+   },
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 775.0
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -15445,7 +15877,7 @@
    },
    "tissotwatches.com": {
     "auto": true,
-    "d": "2026-11-23",
+    "d": "2026-11-24",
     "gh": true,
     "p": 775.0
    }
@@ -15459,6 +15891,9 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "idealo": "https://www.idealo.es/precios/204281037/tissot-automatic-prx-powermatic-80-t137-407-11-091-01.html",
+   "lepage": "https://www.lepage.fr/en/21833-tissot-prx-powermatic-80-watch-light-green-dial-steel-bracelet-40-mm-t1374071109101.html",
+   "montredo": "https://www.montredo.com/products/tissot-prx-powermatic-80-automatic-blue-40-53911?_pos=1&_sid=785eef8a8&_ss=r",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tissotwatches.com": "https://www.tissotwatches.com/es-es/T1374071109101.html"
   }
@@ -16009,11 +16444,17 @@
  },
  {
   "brand": "Tudor",
-  "buscado": {},
+  "buscado": {
+   "idealo": "2026-11-24",
+   "lepage": "2026-11-24",
+   "montredo": "2026-11-24",
+   "planetarelojes": "2026-11-24",
+   "zapatajoyeros": "2026-11-24"
+  },
   "caja_mm": 39.0,
   "calibre": "Tudor MT5400",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:19+01:00",
+  "checked": "2026-11-24T11:23:39+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -16027,13 +16468,27 @@
     "d": "2026-11-20",
     "p": 4200.0,
     "s": "relojdelujo"
+   },
+   {
+    "d": "2026-11-24",
+    "p": 5160.0,
+    "s": "lepage"
    }
   ],
   "id": "tudor-m25407n",
+  "images": {
+   "lepage": "https://www.lepage.fr/51776-home_default/tudor-pelagos-automatic-watch-black-dial-titanium-bracelet-39-mm.jpg"
+  },
   "material": "Titanio y cerámica",
   "movimiento": "automatico",
   "name": "Pelagos 39mm",
   "prices": {
+   "lepage": {
+    "auto": true,
+    "d": "2026-11-24",
+    "gh": true,
+    "p": 5160.0
+   },
    "relojdelujo": {
     "d": "2026-11-20",
     "manual": true,
@@ -16048,6 +16503,7 @@
   "tier": "Gama media",
   "tipo": "Vestir",
   "urls": {
+   "lepage": "https://www.lepage.fr/en/11005-tudor-pelagos-automatic-watch-black-dial-titanium-bracelet-39-mm-m25407n-0001.html",
    "relojdelujo": "https://relojdelujo.com/precios"
   }
  },
@@ -16057,7 +16513,7 @@
   "caja_mm": 38.0,
   "calibre": "Tudor T601",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:19+01:00",
+  "checked": "2026-11-24T11:23:39+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -16101,7 +16557,7 @@
   "caja_mm": 39.0,
   "calibre": "Tudor MT5402",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:19+01:00",
+  "checked": "2026-11-24T11:23:39+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -16226,7 +16682,7 @@
   "caja_mm": 41.0,
   "calibre": "Tudor T600",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:19+01:00",
+  "checked": "2026-11-24T11:23:39+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -16270,7 +16726,7 @@
   "caja_mm": 41.0,
   "calibre": "Tudor MT5652",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:19+01:00",
+  "checked": "2026-11-24T11:23:39+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],
@@ -16392,7 +16848,7 @@
   "caja_mm": 39.0,
   "calibre": "Tudor MT5402",
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:19+01:00",
+  "checked": "2026-11-24T11:23:39+01:00",
   "correa": "",
   "cristal": "Zafiro",
   "deals": [],
@@ -16435,7 +16891,7 @@
   "buscado": {},
   "caja_mm": 41,
   "categoria": "clasico",
-  "checked": "2026-11-23T11:39:20+01:00",
+  "checked": "2026-11-24T11:23:40+01:00",
   "correa": "",
   "deals": [],
   "descartadas": [],

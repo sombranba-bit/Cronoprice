@@ -10640,7 +10640,8 @@
   "tipo": "Vestir",
   "urls": {
    "wristler": "https://wristler.eu/es/relojes/221270-rolex-gmt-master-ii"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Rolex",
@@ -10685,7 +10686,8 @@
   "tipo": "Vestir",
   "urls": {
    "wristler": "https://wristler.eu/es/relojes/221841-rolex-gmt-master-ii"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Rolex",
@@ -10732,7 +10734,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Rolex",
@@ -10804,7 +10807,8 @@
   "tipo": "Vestir",
   "urls": {
    "montredo": "https://www.montredo.com/products/rolex-datejust-vi-diamond-automatic-dark-gray-31-67724?_pos=1&_sid=e4a43ce4d&_ss=r"
-  }
+  },
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Rolex",
@@ -10857,7 +10861,8 @@
    "distribuidor": "https://weirandsons.ie/m126610ln-0001.html",
    "quera": "https://quera.es/en/rolex/rolex-watches/submariner/m126610ln-0001"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "rolex.com"
  },
  {
   "brand": "Seiko",
@@ -10939,7 +10944,8 @@
   "tipo": "Deportivo",
   "urls": {
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/seiko-5-sports-field-gmt-esfera-caqui-hdb001k1"
-  }
+  },
+  "specs_fuente": "seikoboutique.com.hk"
  },
  {
   "brand": "Seiko",
@@ -10986,7 +10992,8 @@
   "tipo": "Deportivo",
   "urls": {
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/seiko-5-sports-field-gmt-esfera-crema-hdb002k1"
-  }
+  },
+  "specs_fuente": "seikoboutique.com.hk"
  },
  {
   "brand": "Seiko",
@@ -11076,7 +11083,8 @@
    "distribuidor": "https://store.seiko.ie/collections/seiko/products/srph93j1",
    "montredo": "https://www.montredo.com/products/seiko-presage-automatic-beige-41mm-35231?_pos=1&_sid=ca60eb970&_ss=r"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "shop.seikoboutique.com.ph"
  },
  {
   "brand": "Seiko",
@@ -11171,7 +11179,8 @@
   "tipo": "Buceo",
   "urls": {
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/seiko-prospex-spb143j1"
-  }
+  },
+  "specs_fuente": "seikowatches.com"
  },
  {
   "brand": "Seiko",
@@ -11294,7 +11303,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "chrono24.sg"
  },
  {
   "brand": "Seiko",
@@ -11394,7 +11404,8 @@
    "montredo": "https://www.montredo.com/products/seiko-presage-automatic-blue-40mm-2-35241?_pos=1&_sid=0a235e3d6&_ss=r",
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/seiko-presage-srpb43j1",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "seikowatches.com"
  },
  {
   "brand": "Seiko",
@@ -11599,7 +11610,8 @@
    "lepage": "https://www.lepage.fr/en/6964-montre-seiko-5-sports-automatique-cadran-bleu-bracelet-acier-42-5-mm-srpd51k1.html",
    "montredo": "https://www.montredo.com/products/seiko-5-sports-automatic-blue-42mm-3-35281?_pos=1&_sid=2416804a7&_ss=r",
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/seiko-5-sports-srpd51k1"
-  }
+  },
+  "specs_fuente": "seikowatches.co.in"
  },
  {
   "brand": "Seiko",
@@ -11646,7 +11658,8 @@
   "tipo": "Deportivo",
   "urls": {
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/seiko-5-sports-srpd51k2"
-  }
+  },
+  "specs_fuente": "seikowatches.com"
  },
  {
   "brand": "Seiko",
@@ -11851,7 +11864,8 @@
    "lepage": "https://www.lepage.fr/en/6969-montre-seiko-5-sports-automatique-cadran-bleu-bracelet-acier-3-maillons-42-5-mm-srpd53k1.html",
    "montredo": "https://www.montredo.com/products/seiko-5-sports-automatic-blue-42mm-35287?_pos=1&_sid=abf98e28c&_ss=r",
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/seiko-5-sports-srpd53k1"
-  }
+  },
+  "specs_fuente": "seikowatches.co.in"
  },
  {
   "brand": "Seiko",

@@ -146,7 +146,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "boutiquedosrelogios": "https://boutiquedosrelogios.pt/en/avenger-aut-43-breitling"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -217,7 +218,8 @@
   "urls": {
    "douxjoaillier": "https://www.douxjoaillier.com/en/p/breitling-superocean-automatic-44-watch-ee89",
    "wristler": "https://wristler.eu/watches/215542-breitling-superocean-44"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -295,7 +297,8 @@
   "urls": {
    "maier": "https://en.maier.fr/watchmaking-jewelry-brands/breitling/watches/premier/premier-b01-chronograph-42_ab0118221b1p1",
    "wristler": "https://wristler.eu/watches/73289-breitling-premier"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -371,7 +374,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "montredo": "https://www.montredo.com/products/breitling-chronomat-automatic-black-42mm-30078?_pos=1&_sid=8214a7d01&_ss=r"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -535,7 +539,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "lepage": "https://www.lepage.fr/en/16638-breitling-navitimer-automatic-watch-b01-chronograph-black-dial-black-leather-strap-46-mm-ab0137211b1p1.html"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -622,7 +627,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "lepage": "https://www.lepage.fr/en/16642-breitling-navitimer-automatic-watch-b01-chronograph-green-dial-black-leather-strap-46-mm-ab0137241l1p1.html"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -827,7 +833,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "lepage": "https://www.lepage.fr/en/16652-breitling-navitimer-automatic-watch-b01-chronograph-glacier-blue-dial-black-leather-strap-43-mm-ab0138241c1p1.html"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -914,7 +921,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "lepage": "https://www.lepage.fr/en/16650-breitling-navitimer-automatic-watch-b01-chronograph-copper-dial-black-leather-strap-43-mm-ab0138241k1p1.html"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -962,7 +970,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "lepage": "https://www.lepage.fr/en/16654-breitling-navitimer-automatic-watch-b01-chronograph-mint-green-dial-black-leather-strap-43-mm-ab0138241l1p1.html"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -1049,7 +1058,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "montredo": "https://www.montredo.com/products/breitling-navitimer-b01-chronograph-41-automatic-black-41-59791?_pos=1&_sid=31b5dd5ac&_ss=r"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -1219,7 +1229,8 @@
   "urls": {
    "lepage": "https://www.lepage.fr/en/24385-breitling-superocean-heritage-b31-automatic-black-dial-mesh-bracelet-40-mm-ab3110241b1a1.html",
    "montredo": "https://www.montredo.com/products/breitling-superocean-heritage-automatic-black-40mm-49234?_pos=1&_sid=472009427&_ss=r"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -1302,7 +1313,8 @@
   "urls": {
    "lepage": "https://www.lepage.fr/en/24379-breitling-superocean-heritage-b31-automatic-blue-dial-mesh-bracelet-42-mm-ab3111161c1a1.html",
    "montredo": "https://www.montredo.com/products/breitling-superocean-heritage-automatic-blue-42mm-7-49243?_pos=1&_sid=a72f6ab9a&_ss=r"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -1432,7 +1444,8 @@
   "urls": {
    "lepage": "https://www.lepage.fr/en/24370-breitling-superocean-heritage-b31-automatic-green-dial-rubber-strap-44-mm-ab3112361l1s1.html",
    "montredo": "https://www.montredo.com/products/breitling-superocean-heritage-automatic-green-44mm-4-49259?_pos=1&_sid=b74efcfc1&_ss=r"
-  }
+  },
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Breitling",
@@ -1689,7 +1702,8 @@
    "lepage": "https://www.lepage.fr/en/16646-breitling-navitimer-automatic-watch-b01-chronograph-black-dial-black-leather-strap-43-mm-ab0138211b1p1.html",
    "montredo": "https://www.montredo.com/products/breitling-navitimer-automatic-black-43mm-12-33911?_pos=1&_sid=89bb56a24&_ss=r"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "breitling.com"
  },
  {
   "brand": "Bulova",
@@ -1771,7 +1785,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "idealo": "https://www.idealo.es/precios/202720691/bulova-lunar-pilot-chronograph-96k111.html"
-  }
+  },
+  "specs_fuente": "bulova.com"
  },
  {
   "brand": "Bulova",
@@ -1820,7 +1835,8 @@
   "urls": {
    "distribuidor": "https://www.watchia.com/eu/bulova-precisionist-96b257.html"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "kohls.com"
  },
  {
   "brand": "Cartier",
@@ -1866,7 +1882,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Cartier",
@@ -2029,7 +2046,8 @@
   "urls": {
    "mrporter.com": "https://www.mrporter.com/en-it/mens/product/cartier/luxury-watches/dress-watches/santos-large-automatic-interchangeable-stainless-steel-watch-ref-wssa0018/46376663162940326",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "cartier.com"
  },
  {
   "brand": "Cartier",
@@ -2143,7 +2161,8 @@
   "urls": {
    "bucherer.com": "https://bucherer.com/de/en/watches/cartier/tank/1341-744-2.html",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "cartier.com"
  },
  {
   "brand": "Cartier",
@@ -2188,7 +2207,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "cartier.com"
  },
  {
   "brand": "Casio",
@@ -2474,7 +2494,8 @@
   "tipo": "Digital",
   "urls": {
    "therefstop.co.uk": "https://therefstop.co.uk/product/casio-f-91w"
-  }
+  },
+  "specs_fuente": "casio.com"
  },
  {
   "brand": "Casio",

@@ -15920,7 +15920,8 @@
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-prx-powermatic-80-t1374071104100",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tissotwatches.com": "https://www.tissotwatches.com/es-es/t1374071104100.html"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Tissot",
@@ -16026,7 +16027,8 @@
    "montredo": "https://www.montredo.com/products/tissot-prx-powermatic-80-automatic-blue-40-53911?_pos=1&_sid=785eef8a8&_ss=r",
    "relojdelujo": "https://relojdelujo.com/precios",
    "tissotwatches.com": "https://www.tissotwatches.com/es-es/T1374071109101.html"
-  }
+  },
+  "specs_fuente": "watchmaxx.com"
  },
  {
   "brand": "Tissot",
@@ -16161,7 +16163,8 @@
    "lepage": "https://www.lepage.fr/en/10335-tissot-prx-powermatic-80-automatic-watch-black-dial-steel-bracelet-40-mm-t1374071105100.html",
    "montredo": "https://www.montredo.com/products/tissot-t-classic-automatic-black-40mm-30490?_pos=1&_sid=dec7dbd40&_ss=r",
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-prx-powermatic-80-t1374071105100"
-  }
+  },
+  "specs_fuente": "watchmaxx.com"
  },
  {
   "brand": "Tissot",
@@ -16300,7 +16303,8 @@
    "lepage": "https://www.lepage.fr/en/10334-tissot-prx-powermatic-80-automatic-watch-blue-dial-steel-bracelet-40-mm-t1374071104100.html",
    "montredo": "https://www.montredo.com/products/tissot-t-classic-automatic-blue-40mm-30491?_pos=1&_sid=a523842e6&_ss=r",
    "planetarelojes": "https://www.planetarelojes.com/en/busca-tu-reloj/tissot-prx-powermatic-80-t1374071104100"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Tissot",
@@ -16570,7 +16574,8 @@
    "distribuidor": "https://en.maier.fr/watchmaking-jewelry-brands/tudor/watches/black-bay-58/black-bay-fifty-eight_m79030n-0001",
    "lepage": "https://www.lepage.fr/en/10943-tudor-black-bay-fifty-eight-automatic-watch-black-dial-steel-bracelet-39-mm-m79030n-0001.html"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "watchswiss.com"
  },
  {
   "brand": "Tudor",
@@ -16804,7 +16809,8 @@
   "tipo": "Cronógrafo",
   "urls": {
    "lepage": "https://www.lepage.fr/en/10919-tudor-black-bay-chrono-automatic-watch-black-dial-steel-bracelet-41-mm-m79360n-0001.html"
-  }
+  },
+  "specs_fuente": "watchmaxx.com"
  },
  {
   "brand": "Tudor",
@@ -16889,7 +16895,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Tudor",
@@ -16970,7 +16977,8 @@
   "tipo": "Buceo",
   "urls": {
    "lepage": "https://www.lepage.fr/en/10946-tudor-black-bay-gmt-automatic-watch-pepsi-bezel-black-dial-steel-bracelet-41-mm-m79830rb-0001.html"
-  }
+  },
+  "specs_fuente": "tudorwatch.com"
  },
  {
   "brand": "Tudor",
@@ -17065,6 +17073,7 @@
   "urls": {
    "bucherer.com": "https://www.bucherer.com/fr/en/watches/zenith/chronomaster/1340-336-6.html",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "watchmaxx.com"
  }
 ]

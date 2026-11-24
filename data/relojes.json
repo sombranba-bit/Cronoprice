@@ -8224,7 +8224,8 @@
    "distribuidor": "https://en.maier.fr/watchmaking-jewelry-brands/mido/watches/ocean-star-200/ocean-star-200_m026-430-11-051-00",
    "montredo": "https://www.montredo.com/products/mido-ocean-star-automatic-black-43mm-11780?_pos=1&_sid=2019d49dd&_ss=r"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "midowatches.com"
  },
  {
   "brand": "Omega",
@@ -8296,7 +8297,8 @@
   "tipo": "Vestir",
   "urls": {
    "montredo": "https://www.montredo.com/products/omega-constellation-quartz-black-36mm-28321?_pos=1&_sid=2fe1c1ebb&_ss=r"
-  }
+  },
+  "specs_fuente": "omegawatches.com"
  },
  {
   "brand": "Omega",
@@ -8368,7 +8370,8 @@
   "urls": {
    "wristler": "https://wristler.eu/watches/234683-omega-constellation",
    "wristler_2024": "https://wristler.eu/watches/67970-omega-constellation"
-  }
+  },
+  "specs_fuente": "chrono24.co.uk"
  },
  {
   "brand": "Omega",
@@ -8450,7 +8453,8 @@
   "tipo": "Vestir",
   "urls": {
    "montredo": "https://www.montredo.com/products/omega-constellation-automatic-silver-39-52678?_pos=1&_sid=08ad1d556&_ss=r"
-  }
+  },
+  "specs_fuente": "omegawatches.com"
  },
  {
   "brand": "Omega",
@@ -8555,7 +8559,8 @@
   "urls": {
    "lepage": "https://www.lepage.fr/en/21706-omega-constellation-meteorite-co-axial-master-chronometer-grey-dial-steel-bracelet-41-mm-13130412199001.html",
    "montredo": "https://www.montredo.com/products/omega-constellation-constellation-automatic-grey-41mm-46456?_pos=1&_sid=03d3b2355&_ss=r"
-  }
+  },
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Omega",
@@ -8701,7 +8706,8 @@
   "tipo": "Buceo",
   "urls": {
    "montredo": "https://www.montredo.com/products/omega-seamaster-diver-300m-automatic-black-42mm-29651?_pos=1&_sid=55e4c0c72&_ss=r"
-  }
+  },
+  "specs_fuente": "omegawatches.com"
  },
  {
   "brand": "Omega",
@@ -8809,7 +8815,8 @@
   "tipo": "Buceo",
   "urls": {
    "montredo": "https://www.montredo.com/products/omega-seamaster-automatic-blue-41mm-7-29857?_pos=1&_sid=785eac039&_ss=r"
-  }
+  },
+  "specs_fuente": "omegawatches.com"
  },
  {
   "brand": "Omega",
@@ -9168,7 +9175,8 @@
    "montredo": "https://www.montredo.com/products/omega-speedmaster-moonwatch-manual-winding-black-42mm-33916?_pos=1&_sid=19813f9ad&_ss=r",
    "wristler": "https://wristler.eu/es/relojes/221320-omega-speedmaster-professional-moonwatch"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "chrono24.com"
  },
  {
   "brand": "Oris",
@@ -9269,7 +9277,8 @@
    "montredo": "https://www.montredo.com/products/oris-aquis-automatic-blue-42mm-3-32526?_pos=1&_sid=ce3d81b80&_ss=r",
    "oris.ch": "https://www.oris.ch/en-SK/product/watch/aquis/aquis-date-calibre-400/01-400-7769-4135-07-8-22-09PEB",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "oris.ch"
  },
  {
   "brand": "Oris",
@@ -9346,7 +9355,8 @@
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios",
    "wristler.eu": "https://wristler.eu/es/relojes/6596-oris-aquis-date"
-  }
+  },
+  "specs_fuente": "oris.ch"
  },
  {
   "brand": "Oris",
@@ -9425,7 +9435,8 @@
    "montredo": "https://www.montredo.com/products/oris-divers-sixty-five-automatic-blue-38mm-5-41904?_pos=1&_sid=4c8131e80&_ss=r",
    "oris.ch": "https://www.oris.ch/en-DE/watch/divers-sixty-five/01-733-7771-4055-07-8-19-18",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "oris.ch"
  },
  {
   "brand": "Oris",
@@ -9479,7 +9490,8 @@
   "urls": {
    "oris.ch": "https://www.oris.ch/en-GR/watch/big-crown-pointer-date/01-754-7741-4065-07-5-20-63",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "oris.ch"
  },
  {
   "brand": "Oris",
@@ -9524,7 +9536,8 @@
   "tipo": "Vestir",
   "urls": {
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "oris.ch"
  },
  {
   "brand": "Oris",
@@ -9615,7 +9628,8 @@
    "distribuidor": "https://en.maier.fr/watchmaking-jewelry-brands/oris/watches/aquis/aquis-date_01-733-7730-4135-07-8-24-05peb",
    "montredo": "https://www.montredo.com/products/oris-aquis-automatic-blue-43mm-3-17064?_pos=1&_sid=cbad67b3a&_ss=r"
   },
-  "verificada": true
+  "verificada": true,
+  "specs_fuente": "oris.ch"
  },
  {
   "brand": "Patek Philippe",
@@ -9668,7 +9682,8 @@
   "urls": {
    "pisa1940.com": "https://pisa1940.com/en/products/aquanaut-4",
    "relojdelujo": "https://relojdelujo.com/precios"
-  }
+  },
+  "specs_fuente": "wempe.com"
  },
  {
   "brand": "Patek Philippe",

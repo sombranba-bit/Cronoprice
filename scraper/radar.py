@@ -30,6 +30,8 @@ TZ = ZoneInfo("Europe/Madrid")
 BATCH = int(os.environ.get("RADAR_BATCH", "150"))          # relojes por pasada
 DISCOVER_PER_RUN = int(os.environ.get("RADAR_DISCOVER", "60"))
 MANUAL = {"amazon", "eci"}                                # tiendas sin lectura automática (ver README)
+PAUSA_DESDE = 3                                           # pasadas bloqueadas seguidas antes de pausar una tienda
+PAUSADAS = set()                                          # tiendas que no se consultan en esta pasada
 
 PRICE_RE = re.compile(r"(\d{1,5}(?:[.\s]\d{3})*(?:[.,]\d{1,2})?)\s*(?:€|&euro;|EUR)")
 
@@ -321,6 +323,9 @@ def update_item(it, get, stats, today):
         if shop in MANUAL or not url:
             continue
         st = stats.setdefault(shop, {"ok": 0, "bloqueada": 0, "sin_precio": 0, "dudoso": 0})
+        if shop in PAUSADAS:                         # tienda bloqueada: se salta esta pasada
+            st["pausada"] = 1
+            continue
         try:
             r = get(url)
             code = getattr(r, "status_code", 0)
@@ -441,9 +446,16 @@ def pass_chollos(get, estado, brands=()):
 
 
 def main():
+    global PAUSADAS
     get = make_session()
     path = DATA / "relojes.json"
     relojes = json.loads(path.read_text())
+    bloqueos = DATA / "bloqueos.json"
+    racha = json.loads(bloqueos.read_text()) if bloqueos.exists() else {}
+    # Con 3 pasadas bloqueadas seguidas, la tienda se salta dos de cada tres pasadas (no la deja de vigilar)
+    PAUSADAS = {t for t, n in racha.items() if n >= PAUSA_DESDE and n % 3 != 0}
+    if PAUSADAS:
+        print("tiendas pausadas:", ", ".join(sorted(PAUSADAS)), flush=True)
     today = datetime.now(TZ).date().isoformat()
     limpiados = {i["id"]: g for i in relojes if (g := clean_outliers(i))}
     order = sorted(relojes, key=lambda i: i.get("checked") or "")

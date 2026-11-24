@@ -19,13 +19,15 @@ UMBRAL = 3  # pasadas seguidas bloqueadas antes de avisar
 
 def actualizar(racha_previa, tiendas):
     """Devuelve la nueva racha por tienda: sube si la pasada fue mayoritariamente bloqueada."""
-    nueva = {}
+    nueva = dict(racha_previa)                 # tiendas no consultadas en la pasada se conservan
     for tienda, st in tiendas.items():
+        previa = int(racha_previa.get(tienda, 0))
+        if st.get("pausada"):                  # una pausa cuenta como pasada bloqueada
+            nueva[tienda] = previa + 1
+            continue
         ok = int(st.get("ok", 0))
         bloqueada = int(st.get("bloqueada", 0))
-        bloqueada_pasada = bloqueada > ok
-        previa = int(racha_previa.get(tienda, 0))
-        nueva[tienda] = previa + 1 if bloqueada_pasada else 0
+        nueva[tienda] = previa + 1 if bloqueada > ok else 0
     return nueva
 
 

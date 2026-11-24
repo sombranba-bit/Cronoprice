@@ -27,7 +27,7 @@
         ${d && d.pct < -0.02 ? `<span class="badge">${Math.round(d.pct * 100)} %</span>` : ''}</div>
       <div class="meta"><span class="dot"></span>${esc(i.brand)} · ${esc(i.tipo || '')}${i.caja_mm ? ' · ' + i.caja_mm + ' mm' : ''}</div>
       <div class="name">${esc(i.name)}</div>
-      <div class="price">${b ? eur(b.p) : 'Sin precio'}</div>
+      <div class="price"${!b && i.sin_precio_motivo ? ` title="${esc(i.sin_precio_motivo)}"` : ''}>${b ? eur(b.p) : 'Sin precio'}</div>
       ${sp > 0 ? `<span class="pill">${eur(sp)} entre tiendas</span>` : ''}
       ${b ? `<div class="meta">en ${esc(shopName(b.s))}${b.via ? ' · vía ' + esc(shopName(b.via)) : ''}</div>` : ''}
     </a>`;

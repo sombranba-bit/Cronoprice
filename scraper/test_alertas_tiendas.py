@@ -15,4 +15,8 @@ assert A.actualizar({"z": 1}, {"z": {"ok": 2, "bloqueada": 2}}) == {"z": 0}
 # Solo avisa a partir del umbral
 assert A.avisos({"x": A.UMBRAL - 1, "y": A.UMBRAL}) == ["y"]
 
+# Una tienda pausada suma pasada bloqueada; una no consultada conserva su racha
+r = A.actualizar({"p": 3, "q": 5}, {"p": {"pausada": 1}})
+assert r == {"p": 4, "q": 5}, r
+
 print("alertas_tiendas: todas las pruebas pasan")

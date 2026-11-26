@@ -1,15 +1,133 @@
 {
- "at": "2026-11-26T00:37:25+01:00",
+ "at": "2026-11-26T06:28:43+01:00",
  "revisados": 70,
  "tiendas": {
-  "lepage": {
-   "ok": 25,
+  "tempusshop.com": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "planetarelojes": {
+   "ok": 5,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 1,
+   "jsonld": 5,
+   "ejemplos": [
+    {
+     "reloj": "hamilton-h24411732",
+     "precio": 504.0,
+     "referencia": 1010.0,
+     "metodo": "jsonld"
+    }
+   ]
+  },
+  "izoneo.co.uk": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "idealo": {
+   "ok": 4,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
-   "jsonld": 25
+   "jsonld-titulo": 4
   },
-  "grandseiko": {
+  "goldsmiths.co.uk": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "tactree.co.uk": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "watchia.com": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "maier.fr": {
+   "ok": 1,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 1
+  },
+  "watchia": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "notebookcheck.net": {
+   "ok": 0,
+   "bloqueada": 1,
+   "sin_precio": 0,
+   "dudoso": 0
+  },
+  "lepage": {
+   "ok": 24,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 3,
+   "jsonld": 24,
+   "ejemplos": [
+    {
+     "reloj": "breitling-ab3110241b1a1",
+     "precio": 6700.0,
+     "referencia": 4369.75,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3111161c1a1",
+     "precio": 6700.0,
+     "referencia": 4302.52,
+     "metodo": "jsonld"
+    },
+    {
+     "reloj": "breitling-ab3113171l1a1",
+     "precio": 6000.0,
+     "referencia": 3705.88,
+     "metodo": "jsonld"
+    }
+   ]
+  },
+  "distribuidor": {
+   "ok": 0,
+   "bloqueada": 1,
+   "sin_precio": 0,
+   "dudoso": 0
+  },
+  "joieriagrau": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "montredo": {
+   "ok": 26,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 1,
+   "jsonld-titulo": 26,
+   "ejemplos": [
+    {
+     "reloj": "iwc-iw329005",
+     "precio": 2859.66,
+     "referencia": 5800.0,
+     "metodo": "jsonld-titulo"
+    }
+   ]
+  },
+  "elcronometro": {
    "ok": 0,
    "bloqueada": 0,
    "sin_precio": 1,
@@ -19,141 +137,93 @@
    "ok": 2,
    "bloqueada": 0,
    "sin_precio": 2,
-   "dudoso": 1,
-   "jsonld": 2,
-   "ejemplos": [
-    {
-     "reloj": "rolex-126711chnr",
-     "precio": 18.67,
-     "referencia": 18190.0,
-     "metodo": "texto"
-    }
-   ]
-  },
-  "idealo": {
-   "ok": 19,
-   "bloqueada": 0,
-   "sin_precio": 1,
-   "dudoso": 0,
-   "jsonld-titulo": 8,
-   "jsonld": 11
-  },
-  "planetarelojes": {
-   "ok": 30,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 30
-  },
-  "jurawatches.co.uk": {
-   "ok": 0,
-   "bloqueada": 0,
-   "sin_precio": 1,
-   "dudoso": 0
-  },
-  "montredo": {
-   "ok": 24,
-   "bloqueada": 0,
-   "sin_precio": 1,
-   "dudoso": 0,
-   "jsonld-titulo": 24
-  },
-  "triathlonstore.fr": {
-   "ok": 0,
-   "bloqueada": 0,
-   "sin_precio": 1,
-   "dudoso": 0
-  },
-  "distribuidor": {
-   "ok": 6,
-   "bloqueada": 3,
-   "sin_precio": 3,
-   "dudoso": 1,
-   "ejemplos": [
-    {
-     "reloj": "oris-aquis-date-01-733-7730-4135-07-8-24-05peb",
-     "precio": 2300.0,
-     "referencia": 1462.18,
-     "metodo": "jsonld"
-    }
-   ],
-   "jsonld": 6
-  },
-  "oficial": {
-   "ok": 2,
-   "bloqueada": 1,
-   "sin_precio": 1,
    "dudoso": 0,
    "jsonld": 2
   },
-  "quera": {
+  "wristler_2024": {
    "ok": 0,
-   "bloqueada": 1,
-   "sin_precio": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
    "dudoso": 0
   },
-  "watchclick": {
+  "tissot": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "boutiquedosrelogios": {
    "ok": 1,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
    "jsonld": 1
   },
-  "elcorteingles": {
-   "ok": 0,
-   "bloqueada": 0,
-   "sin_precio": 2,
-   "dudoso": 0
-  },
-  "notebookcheck.net": {
-   "ok": 0,
-   "bloqueada": 3,
-   "sin_precio": 0,
-   "dudoso": 0
-  },
-  "watchia.com": {
-   "ok": 0,
-   "bloqueada": 0,
-   "sin_precio": 1,
-   "dudoso": 0
-  },
-  "breitling": {
-   "ok": 0,
+  "douxjoaillier": {
+   "ok": 1,
    "bloqueada": 0,
    "sin_precio": 0,
-   "dudoso": 1,
+   "dudoso": 0,
+   "jsonld": 1
+  },
+  "relojdelujo": {
+   "ok": 2,
+   "bloqueada": 0,
+   "sin_precio": 29,
+   "dudoso": 2,
    "ejemplos": [
     {
-     "reloj": "breitling-ab0134101l1a1",
-     "precio": 9600.0,
-     "referencia": 6287.0,
-     "metodo": "jsonld"
+     "reloj": "audemars-piguet-15510st-oo-1320st-06",
+     "precio": 45.0,
+     "referencia": 45000.0,
+     "metodo": "texto"
+    },
+    {
+     "reloj": "audemars-piguet-26238st-oo-a340ca-01",
+     "precio": 50.0,
+     "referencia": 50000.0,
+     "metodo": "texto"
     }
-   ]
+   ],
+   "texto": 2
   },
-  "relojeshermosos": {
-   "ok": 0,
+  "maier": {
+   "ok": 1,
    "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 1
+  },
+  "bucherer.com": {
+   "ok": 0,
+   "bloqueada": 1,
    "sin_precio": 1,
    "dudoso": 0
   },
-  "ebay.com": {
+  "mrporter.com": {
    "ok": 0,
    "bloqueada": 1,
    "sin_precio": 0,
    "dudoso": 0
   },
-  "casio.com/uk": {
+  "mrporter": {
    "ok": 0,
    "bloqueada": 1,
    "sin_precio": 0,
    "dudoso": 0
   },
-  "sidekicks.co.uk": {
+  "grand-seiko.com": {
    "ok": 0,
    "bloqueada": 0,
    "sin_precio": 1,
    "dudoso": 0
+  },
+  "perodri.es": {
+   "ok": 1,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 1
   }
  },
  "limpiados": {},

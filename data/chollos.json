@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": 2093479,
+   "t": "Seiko QHL062YLH - Reloj de Cuarzo japonés",
+   "p": 18.5,
+   "shop": "Amazon",
+   "url": "https://www.chollometro.com/share-deal/2093479",
+   "expired": false,
+   "seen": "2026-11-28"
+  },
+  {
    "id": 2090717,
    "t": "Reloj CASIO EFS-S650DC-1A | Carga SOLAR | Bisel CERÁMICO | ZAFIRO | Caja 40,9mm | 10ATM/100m",
    "p": 89.25,
@@ -428,7 +437,7 @@
    "shop": "timeshop24",
    "url": "https://www.chollometro.com/share-deal/2035877",
    "expired": false,
-   "seen": "2026-11-27"
+   "seen": "2026-11-28"
   },
   {
    "id": 2035446,
@@ -476,5 +485,5 @@
    "seen": "2026-11-28"
   }
  ],
- "updated": "2026-11-28T02:54:09+01:00"
+ "updated": "2026-11-28T11:04:12+01:00"
 }

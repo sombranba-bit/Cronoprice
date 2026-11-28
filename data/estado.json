@@ -1,55 +1,63 @@
 {
- "at": "2026-11-27T19:54:40+01:00",
+ "at": "2026-11-28T02:54:07+01:00",
  "revisados": 70,
  "tiendas": {
-  "lepage": {
-   "ok": 21,
+  "planetarelojes": {
+   "ok": 28,
    "bloqueada": 0,
    "sin_precio": 0,
-   "dudoso": 1,
-   "jsonld": 21,
-   "ejemplos": [
-    {
-     "reloj": "omega-131.30.41.21.99.001",
-     "precio": 10700.0,
-     "referencia": 6722.69,
-     "metodo": "jsonld"
-    }
-   ]
+   "dudoso": 0,
+   "jsonld": 28
+  },
+  "lepage": {
+   "ok": 24,
+   "bloqueada": 0,
+   "sin_precio": 0,
+   "dudoso": 0,
+   "jsonld": 24
   },
   "montredo": {
-   "ok": 32,
+   "ok": 23,
    "bloqueada": 0,
    "sin_precio": 1,
    "dudoso": 0,
-   "jsonld-titulo": 32
+   "jsonld-titulo": 23
   },
-  "relojdelujo": {
-   "ok": 8,
-   "bloqueada": 5,
-   "sin_precio": 21,
-   "dudoso": 4,
+  "idealo": {
+   "ok": 20,
+   "bloqueada": 0,
+   "sin_precio": 2,
+   "dudoso": 0,
+   "jsonld-titulo": 8,
+   "jsonld": 12
+  },
+  "triathlonstore.fr": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "distribuidor": {
+   "ok": 6,
+   "bloqueada": 3,
+   "sin_precio": 3,
+   "dudoso": 1,
    "ejemplos": [
     {
-     "reloj": "patek-philippe-5167a-001",
-     "precio": 55.0,
-     "referencia": 24948.0,
-     "metodo": "texto"
-    },
-    {
-     "reloj": "patek-philippe-5226g-001",
-     "precio": 35.0,
-     "referencia": 35000.0,
-     "metodo": "texto"
-    },
-    {
-     "reloj": "patek-philippe-5811-1g-001",
-     "precio": 200.0,
-     "referencia": 72824.0,
-     "metodo": "texto"
+     "reloj": "oris-aquis-date-01-733-7730-4135-07-8-24-05peb",
+     "precio": 2300.0,
+     "referencia": 1462.18,
+     "metodo": "jsonld"
     }
    ],
-   "texto": 8
+   "jsonld": 6
+  },
+  "oficial": {
+   "ok": 2,
+   "bloqueada": 1,
+   "sin_precio": 1,
+   "dudoso": 0,
+   "jsonld": 2
   },
   "wristler": {
    "ok": 1,
@@ -58,114 +66,102 @@
    "dudoso": 1,
    "ejemplos": [
     {
-     "reloj": "rolex-126710blro",
-     "precio": 23.23,
-     "referencia": 21450.0,
+     "reloj": "rolex-126711chnr",
+     "precio": 18.71,
+     "referencia": 18190.0,
      "metodo": "texto"
     }
    ],
    "jsonld": 1
   },
-  "idealo": {
-   "ok": 8,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld-titulo": 5,
-   "jsonld": 3
-  },
-  "oris.ch": {
+  "quera": {
    "ok": 0,
    "bloqueada": 0,
-   "sin_precio": 3,
+   "sin_precio": 1,
    "dudoso": 0
   },
-  "wristler.eu": {
+  "watchclick": {
    "ok": 1,
    "bloqueada": 0,
    "sin_precio": 0,
    "dudoso": 0,
    "jsonld": 1
   },
-  "pisa1940.com": {
-   "ok": 1,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 2,
-   "ejemplos": [
-    {
-     "reloj": "patek-philippe-5167a-001",
-     "precio": 25899.0,
-     "referencia": 55000.0,
-     "metodo": "jsonld"
-    },
-    {
-     "reloj": "patek-philippe-5811-1g-001",
-     "precio": 77932.0,
-     "referencia": 200000.0,
-     "metodo": "jsonld"
-    }
-   ],
-   "jsonld": 1
-  },
-  "planetarelojes": {
-   "ok": 12,
-   "bloqueada": 0,
-   "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 12
-  },
-  "tagheuer.com": {
+  "notebookcheck.net": {
    "ok": 0,
-   "bloqueada": 5,
+   "bloqueada": 3,
    "sin_precio": 0,
    "dudoso": 0
   },
-  "tissotwatches.com": {
-   "ok": 3,
+  "elcorteingles": {
+   "ok": 0,
    "bloqueada": 0,
    "sin_precio": 2,
-   "dudoso": 0,
-   "jsonld": 3
-  },
-  "bucherer.com": {
-   "ok": 0,
-   "bloqueada": 0,
-   "sin_precio": 1,
    "dudoso": 0
   },
-  "therefstop.co.uk": {
+  "watchia.com": {
    "ok": 0,
    "bloqueada": 0,
-   "sin_precio": 1,
+   "sin_precio": 2,
    "dudoso": 0
   },
-  "maier.fr": {
-   "ok": 1,
+  "breitling": {
+   "ok": 0,
    "bloqueada": 0,
    "sin_precio": 0,
-   "dudoso": 0,
-   "jsonld": 1
+   "dudoso": 1,
+   "ejemplos": [
+    {
+     "reloj": "breitling-ab0134101l1a1",
+     "precio": 9600.0,
+     "referencia": 6287.0,
+     "metodo": "jsonld"
+    }
+   ]
   },
-  "watchbase": {
+  "relojeshermosos": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "ebay.com": {
    "ok": 0,
    "bloqueada": 1,
    "sin_precio": 0,
    "dudoso": 0
   },
-  "laguardajoiers": {
+  "casio.com/uk": {
    "ok": 0,
    "bloqueada": 1,
    "sin_precio": 0,
    "dudoso": 0
   },
-  "grandseiko": {
+  "sidekicks.co.uk": {
    "ok": 0,
    "bloqueada": 0,
    "sin_precio": 1,
    "dudoso": 0
   },
-  "jurawatches.co.uk": {
+  "tempusshop.com": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "izoneo.co.uk": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "goldsmiths.co.uk": {
+   "ok": 0,
+   "bloqueada": 0,
+   "sin_precio": 1,
+   "dudoso": 0
+  },
+  "tactree.co.uk": {
    "ok": 0,
    "bloqueada": 0,
    "sin_precio": 1,
